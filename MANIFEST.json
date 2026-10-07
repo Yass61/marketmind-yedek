@@ -1,0 +1,4597 @@
+{
+ "surum": 1,
+ "toplam_gz_bayt": 115676452,
+ "veritabanlari": {
+  "marketmind": {
+   "sema_sha256": "57b234284472ca6bb0bc3070fd1b917b89cb1dfd1e83a080cc4171c91958946f",
+   "tablolar": {
+    "ai_yorumlar": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 4279,
+       "ham_sha256": "83294fb6fbc4875608b22fb32e6315bbd71078d18e1868ca9fc3513260bb2392",
+       "satir": 8
+      }
+     },
+     "satir": 8
+    },
+    "deflator": {
+     "parcalar": {
+      "2016-01": {
+       "gz_bayt": 270,
+       "ham_sha256": "c60e27a482d5dd3775ba0eadd2074968abfd032e825ecd642d5a4d8b3c3bb749",
+       "satir": 21
+      },
+      "2016-02": {
+       "gz_bayt": 273,
+       "ham_sha256": "a1b18eeeccdc6f35a48b5a9bd604058546d51576a4d5d165e0eb6ec1f61d5139",
+       "satir": 22
+      },
+      "2016-03": {
+       "gz_bayt": 285,
+       "ham_sha256": "88be6976f25f69e39a502b8cb67a0672278c80ca3157aa8815d33ba45497fc98",
+       "satir": 24
+      },
+      "2016-04": {
+       "gz_bayt": 269,
+       "ham_sha256": "65fb456fa56cc3997a45c22e83fc209d8024965ec4cbc219d671680193e369d3",
+       "satir": 22
+      },
+      "2016-05": {
+       "gz_bayt": 281,
+       "ham_sha256": "073a28c2464af28083d98245c5c407add154edf17ad29c01026bac0c2cb65782",
+       "satir": 22
+      },
+      "2016-06": {
+       "gz_bayt": 281,
+       "ham_sha256": "a28ca3b3b6c3f2f0c3f546bc159a71c450bb5441efcf9b6f68cf7e8be7f4d26d",
+       "satir": 23
+      },
+      "2016-07": {
+       "gz_bayt": 258,
+       "ham_sha256": "dd313cf4ca6d27d98e0366c25d1f0d3fd1dd469fedf22943297a27dadeb622a2",
+       "satir": 19
+      },
+      "2016-08": {
+       "gz_bayt": 281,
+       "ham_sha256": "6e0f87a2599eb70fe332dae7c3c7441e1eed0720e8c1525debaf4b4ebe80f466",
+       "satir": 23
+      },
+      "2016-09": {
+       "gz_bayt": 258,
+       "ham_sha256": "adbb16fde49a18e02fd65dd5fe4f90b9f216191d683f5c7b0dedbf562c1762b2",
+       "satir": 19
+      },
+      "2016-10": {
+       "gz_bayt": 269,
+       "ham_sha256": "b4f78ea6246eec5f35dc8786960c99bbc13726c89a2da419c2bb09c1ca20601e",
+       "satir": 22
+      },
+      "2016-11": {
+       "gz_bayt": 286,
+       "ham_sha256": "cca43a0b1b1cc01b9620131bb3f045fcc3a0cd189fad7eccfb7a6dfc4713469d",
+       "satir": 23
+      },
+      "2016-12": {
+       "gz_bayt": 282,
+       "ham_sha256": "f100d8e6ebfd9d95390276d18a520c38de19680ef3f3ebae54511bec4aa1a86f",
+       "satir": 23
+      },
+      "2017-01": {
+       "gz_bayt": 287,
+       "ham_sha256": "88acbfdb1d7cf9d7180fea5962ced27a7800102b4c793379d049583aa56dd98e",
+       "satir": 23
+      },
+      "2017-02": {
+       "gz_bayt": 271,
+       "ham_sha256": "32b3dab5ae4184d8eb9666ff1c09f2f2053a8b40607486eaf9323185047ebbc6",
+       "satir": 21
+      },
+      "2017-03": {
+       "gz_bayt": 290,
+       "ham_sha256": "68ab516ae8bc9d94a5a7709ea1b0557cea6567a84a2dd1a906375a56ba0f4e01",
+       "satir": 24
+      },
+      "2017-04": {
+       "gz_bayt": 277,
+       "ham_sha256": "b8c21a67b8947ea2f99fe289ad8581f239c8f6126b9640aa8a25babb591c6d5a",
+       "satir": 21
+      },
+      "2017-05": {
+       "gz_bayt": 279,
+       "ham_sha256": "7400be0157875c0346abf664ed25f1e9382f760503b371640691e5ee403259ae",
+       "satir": 22
+      },
+      "2017-06": {
+       "gz_bayt": 267,
+       "ham_sha256": "4694ab2b4e97a2fa0c006a3f5d0a34867f8cdf698fee7571e1b83eac9ba69431",
+       "satir": 21
+      },
+      "2017-07": {
+       "gz_bayt": 274,
+       "ham_sha256": "c25e0b20aea917c8c4e2d842e2f3e276740be22d9f8b34c9ac2e625194afbc33",
+       "satir": 22
+      },
+      "2017-08": {
+       "gz_bayt": 272,
+       "ham_sha256": "02801654d2900b59326bba9c46cb53faa5d6a1fb0b3fa10e673d6e6a5f49c2ea",
+       "satir": 23
+      },
+      "2017-09": {
+       "gz_bayt": 263,
+       "ham_sha256": "a14df0e33c7f9dd201a364db3d33512769a292e3dff6478187017e3aeb37f4f5",
+       "satir": 20
+      },
+      "2017-10": {
+       "gz_bayt": 288,
+       "ham_sha256": "8649897fcfbdefcc885a42ab99e3eb3d2c0d4f82c836932459e80314df95d0cb",
+       "satir": 23
+      },
+      "2017-11": {
+       "gz_bayt": 280,
+       "ham_sha256": "ee42d6afe1fb4478fb9d79fbcf0523572681795795057f57ffa6bc95899dc2df",
+       "satir": 23
+      },
+      "2017-12": {
+       "gz_bayt": 275,
+       "ham_sha256": "ffaf18f50a15c1746fa4add53c3cc268762802aa947fafa1c9bb4e00e4821a5a",
+       "satir": 22
+      },
+      "2018-01": {
+       "gz_bayt": 281,
+       "ham_sha256": "908d40bc4af26094cfb66010c9649afbda786de7bc5caa1af115ff72d4bce9a7",
+       "satir": 23
+      },
+      "2018-02": {
+       "gz_bayt": 269,
+       "ham_sha256": "2a57820eeef34d9cd7e7e26eefa22ff1a3467229f292065883a819b376ea7857",
+       "satir": 21
+      },
+      "2018-03": {
+       "gz_bayt": 282,
+       "ham_sha256": "d77c34eb5882f8e94b65cc0a68a4247e4fdab816a43891c8ce37dc7a4f06ab07",
+       "satir": 23
+      },
+      "2018-04": {
+       "gz_bayt": 273,
+       "ham_sha256": "bddaf8fe839621e01113e6bd53f52671fd064f080c7013867e5ece6d6803d676",
+       "satir": 21
+      },
+      "2018-05": {
+       "gz_bayt": 293,
+       "ham_sha256": "bf0344cdf1cbb9d1a67fd7efd36ebd249aff43e82961cdd531b663f8d4d03f62",
+       "satir": 23
+      },
+      "2018-06": {
+       "gz_bayt": 270,
+       "ham_sha256": "45ab032497cd3ec8b0292c9dc84b5378e0e66eac91490002e3b60ee07ac87433",
+       "satir": 21
+      },
+      "2018-07": {
+       "gz_bayt": 292,
+       "ham_sha256": "2a5350d229a00658590f6f8f5bdaf3d9b6243eba807e10d698e5eee1ade2105c",
+       "satir": 23
+      },
+      "2018-08": {
+       "gz_bayt": 262,
+       "ham_sha256": "7a39f5ffe5c0983c18a834489bd7ac91027b255b110e146d9586dc90fb7108cf",
+       "satir": 19
+      },
+      "2018-09": {
+       "gz_bayt": 277,
+       "ham_sha256": "14c48037662db80f2089d23320113172d85e733a217ef64286cc9506b5c58825",
+       "satir": 21
+      },
+      "2018-10": {
+       "gz_bayt": 288,
+       "ham_sha256": "1539883540269f39d56c7a6b81dd5510461552dec2fd1b23728556645a4f28bc",
+       "satir": 23
+      },
+      "2018-11": {
+       "gz_bayt": 286,
+       "ham_sha256": "f029ae6a1d2fe82ef241495ca47d4ace1755b53856e3006229a2464f7ce77974",
+       "satir": 23
+      },
+      "2018-12": {
+       "gz_bayt": 275,
+       "ham_sha256": "234e4cdbb6de85abc09b740c0c14685a8d0e2b3f02200741dc259ddd4771dbea",
+       "satir": 22
+      },
+      "2019-01": {
+       "gz_bayt": 286,
+       "ham_sha256": "3ada11ddd60bcbe97285b3bea691fe4e691476a709654171da7a4319a0a6c665",
+       "satir": 23
+      },
+      "2019-02": {
+       "gz_bayt": 268,
+       "ham_sha256": "0c6f0986cbbd59d1fbdb9412a34869aaac00b3201db7ec0fca97ff7c17e93ffb",
+       "satir": 21
+      },
+      "2019-03": {
+       "gz_bayt": 278,
+       "ham_sha256": "0a3a0ed957b139df5ff3100d62bfd49137e6aace20d48ca56411acee6887a958",
+       "satir": 22
+      },
+      "2019-04": {
+       "gz_bayt": 283,
+       "ham_sha256": "f6fa7e86b2c71a41bca029f341d597a959d3e9139acc6771fd6d8d2221b94355",
+       "satir": 22
+      },
+      "2019-05": {
+       "gz_bayt": 288,
+       "ham_sha256": "fa2ee220493b7fb2d02bd8ede98db6b50a61c35cb9b3848deb8e92b4e3c59978",
+       "satir": 23
+      },
+      "2019-06": {
+       "gz_bayt": 258,
+       "ham_sha256": "fc55c4c0fb2a050d4c2ca81b87fe20bbef74c32d8aba44c2233af4311b66f677",
+       "satir": 18
+      },
+      "2019-07": {
+       "gz_bayt": 287,
+       "ham_sha256": "01fe4e8ff034bb973437a9acce3c087d015e94430b3982fe35386487174e46fc",
+       "satir": 23
+      },
+      "2019-08": {
+       "gz_bayt": 260,
+       "ham_sha256": "861b08fd6389db072d56e6524d0b017ee296795843564adf61af752661335051",
+       "satir": 19
+      },
+      "2019-09": {
+       "gz_bayt": 277,
+       "ham_sha256": "b09a616b59f5d85aa12d0e9b745c8925956b002a6e3a377e9fdd0dac070473e6",
+       "satir": 22
+      },
+      "2019-10": {
+       "gz_bayt": 287,
+       "ham_sha256": "52d2c923db49f9692bb10d6a13ced774e529f93ceee56b9895d26190cfe11f19",
+       "satir": 23
+      },
+      "2019-11": {
+       "gz_bayt": 279,
+       "ham_sha256": "20efed64c61c23bbad24853b98451870c2c9fd8489ef9bbdf6e480331522a7fa",
+       "satir": 22
+      },
+      "2019-12": {
+       "gz_bayt": 283,
+       "ham_sha256": "935dcad37b792a63ca87f3e33275024172e487d98587995e38d9e98a3861f477",
+       "satir": 23
+      },
+      "2020-01": {
+       "gz_bayt": 288,
+       "ham_sha256": "c585c7cccdc5e38d981f6632040de8727d6909fc7428f57ade86afc165440654",
+       "satir": 23
+      },
+      "2020-02": {
+       "gz_bayt": 272,
+       "ham_sha256": "f89f9e3923cb479d587f811e8a2fe0dcd0ac916897c8afac7394226b723b2cdc",
+       "satir": 21
+      },
+      "2020-03": {
+       "gz_bayt": 293,
+       "ham_sha256": "8c82d62e84902f5e8f241b9fc7cc833e6ac145745aaba6927f58bd6b59d16b9c",
+       "satir": 23
+      },
+      "2020-04": {
+       "gz_bayt": 286,
+       "ham_sha256": "e07575ee05e8e1ba90987414397a3368671df6cf13d756739b140932d9eff296",
+       "satir": 22
+      },
+      "2020-05": {
+       "gz_bayt": 262,
+       "ham_sha256": "57f460e54c7cb392d8f6eafe5f589a5425bf231567de5c4937bb3d828fe4741a",
+       "satir": 18
+      },
+      "2020-06": {
+       "gz_bayt": 277,
+       "ham_sha256": "933e670bb1a7e87520ac873a5cae4f63741ca15bec9da4d16f6b188f45cc3979",
+       "satir": 23
+      },
+      "2020-07": {
+       "gz_bayt": 265,
+       "ham_sha256": "9cb37933d8db6910c5566e88193ababc9c4b2d4f030cbec28f63f6702ad65b83",
+       "satir": 22
+      },
+      "2020-08": {
+       "gz_bayt": 278,
+       "ham_sha256": "f3c11b472e81881d5ed43976490eb4fb68f93cf0696d8762cd556ebad8866f58",
+       "satir": 21
+      },
+      "2020-09": {
+       "gz_bayt": 288,
+       "ham_sha256": "86ca171683ec013fdf7be4768bda4c1bb62fc13c2a7991849781986973f22c39",
+       "satir": 23
+      },
+      "2020-10": {
+       "gz_bayt": 278,
+       "ham_sha256": "7f7fedb8e2b0611d7e878cf930a042257585059dd5c4db753a300bd5c02734f9",
+       "satir": 22
+      },
+      "2020-11": {
+       "gz_bayt": 288,
+       "ham_sha256": "e0d113fefd5e7e61ff54217d6843d27a4244c1efb7f25a7da4f241cc7f8a2ebc",
+       "satir": 22
+      },
+      "2020-12": {
+       "gz_bayt": 294,
+       "ham_sha256": "e54cb4472447340795c8516aab4313c250e3043261400b5e370fec946ca366dc",
+       "satir": 24
+      },
+      "2021-01": {
+       "gz_bayt": 274,
+       "ham_sha256": "368c8603a1835a0f8c64714bea9c205840b5498724480dfdf99bb6412c6183ab",
+       "satir": 21
+      },
+      "2021-02": {
+       "gz_bayt": 278,
+       "ham_sha256": "e544a90d5932aaf9c7b8298a5b2736aa3b8bc3b19d57ab426da7208712829a61",
+       "satir": 21
+      },
+      "2021-03": {
+       "gz_bayt": 297,
+       "ham_sha256": "7741812336c2d5b3de23d3643a80d7960d1667f142affffcd8399aaced5a5180",
+       "satir": 24
+      },
+      "2021-04": {
+       "gz_bayt": 275,
+       "ham_sha256": "da82c17bc9043407cb893d3ee7664bf10ab83796feb47819ae3773b1cedef539",
+       "satir": 22
+      },
+      "2021-05": {
+       "gz_bayt": 263,
+       "ham_sha256": "6fc1fb111521a3a6e2a8787d50c74e6b9fb25c5a3bd1935e174207c04be83016",
+       "satir": 19
+      },
+      "2021-06": {
+       "gz_bayt": 288,
+       "ham_sha256": "43343f4c1b43f288a4a2b2e7dbedaff6b283ef5d9e5feabadd1cfcaeff724832",
+       "satir": 23
+      },
+      "2021-07": {
+       "gz_bayt": 250,
+       "ham_sha256": "7abee234d1d238353f7eb43a83d04304a6f89a91db5b7638cdfdd42a790df47e",
+       "satir": 18
+      },
+      "2021-08": {
+       "gz_bayt": 288,
+       "ham_sha256": "626558aaca52e359a577edec870cb6d04adeccd13809af561cc035560f4782a4",
+       "satir": 22
+      },
+      "2021-09": {
+       "gz_bayt": 292,
+       "ham_sha256": "5dfd75cc8199e9af1f6fe9cd127a5b50cc81f3be5241530752020698a52b86c3",
+       "satir": 23
+      },
+      "2021-10": {
+       "gz_bayt": 274,
+       "ham_sha256": "db0cca4fe2e9758c18ef0b8ad83090b88831579d647467455f196a6cadbf479b",
+       "satir": 21
+      },
+      "2021-11": {
+       "gz_bayt": 299,
+       "ham_sha256": "5a6ecbdbffb138d0fe8fd9257565b09e1e0d775c48c3e342af1cbe7e0ce568fe",
+       "satir": 23
+      },
+      "2021-12": {
+       "gz_bayt": 308,
+       "ham_sha256": "225101cd772ef7e82caac6dcec18afdf3f1734d29053f6e02f8ed607be8a043a",
+       "satir": 24
+      },
+      "2022-01": {
+       "gz_bayt": 286,
+       "ham_sha256": "9db44445fee255aff606a9c65be0ca5fb343692fab4b955656678e1decbc18ae",
+       "satir": 22
+      },
+      "2022-02": {
+       "gz_bayt": 279,
+       "ham_sha256": "02ae1f3e2e7b47baf7621ca78d8bcfaf98c15d57526f0dff0699fe742788ccc7",
+       "satir": 21
+      },
+      "2022-03": {
+       "gz_bayt": 301,
+       "ham_sha256": "d99be354bf61e267e83ae2edac0520cf6a07a037f191f5d14582ef1fa525c590",
+       "satir": 24
+      },
+      "2022-04": {
+       "gz_bayt": 283,
+       "ham_sha256": "7a0d5b8773c1934b837668f5b65239a92ed392650d854a68c7acb79cafd0ca84",
+       "satir": 22
+      },
+      "2022-05": {
+       "gz_bayt": 272,
+       "ham_sha256": "3b15d04ab09af3708c2f86f55bc46e040362e0f6debc561ae9561ac287d19b68",
+       "satir": 19
+      },
+      "2022-06": {
+       "gz_bayt": 289,
+       "ham_sha256": "e8c068c27f58c29d9d27886e2d2282064e65ef26ebdbcefe9be427b4fdb62556",
+       "satir": 23
+      },
+      "2022-07": {
+       "gz_bayt": 265,
+       "ham_sha256": "6516e698cf05b0b688239bffed681ff3dda48aeedb8a54cabaf43b9e14366f3b",
+       "satir": 19
+      },
+      "2022-08": {
+       "gz_bayt": 285,
+       "ham_sha256": "90909e38e08035777fb79b50762c1916134f1b01ce48336fee947dc5dbc15e27",
+       "satir": 23
+      },
+      "2022-09": {
+       "gz_bayt": 286,
+       "ham_sha256": "98c63dd940b1546506ddfa9ce55b98339afc7e0760de208819361541f905402a",
+       "satir": 23
+      },
+      "2022-10": {
+       "gz_bayt": 267,
+       "ham_sha256": "47bc68da140497d698b8e02eec041119bf8f793fc7aaca3cf59fd5d2f4172962",
+       "satir": 22
+      },
+      "2022-11": {
+       "gz_bayt": 279,
+       "ham_sha256": "4ded281bc6ca072803c12954e9a6cf527143b89c35d1749974ed517251c775ee",
+       "satir": 23
+      },
+      "2022-12": {
+       "gz_bayt": 277,
+       "ham_sha256": "2c9748ecac87f4e657cd8877adf9d5573ecadcf26ed9222754e3aa1e0117924f",
+       "satir": 23
+      },
+      "2023-01": {
+       "gz_bayt": 276,
+       "ham_sha256": "47ab3bcc105fe41e1db7449f61a5e482ac2a89a33072c8b3c37ac25392eb470b",
+       "satir": 23
+      },
+      "2023-02": {
+       "gz_bayt": 235,
+       "ham_sha256": "f10fa44d9e4e7acc742134fa58fb1abcef6d549056d297a73075cc819477f2a1",
+       "satir": 16
+      },
+      "2023-03": {
+       "gz_bayt": 290,
+       "ham_sha256": "b054e4abcfba9093cf78d587b3351fd8b9c39cec23ba09985adc26f15715740b",
+       "satir": 24
+      },
+      "2023-04": {
+       "gz_bayt": 274,
+       "ham_sha256": "420f27b1372690b1b42c76e79e4d1a78280a4e1df3156cedaa435ff79f3d52c6",
+       "satir": 20
+      },
+      "2023-05": {
+       "gz_bayt": 287,
+       "ham_sha256": "f0d912f0720da068e9cc857e93d96e09b5305fedf29800d5b12d534ce0acce76",
+       "satir": 22
+      },
+      "2023-06": {
+       "gz_bayt": 274,
+       "ham_sha256": "1dc7127caa3b293e98233173c5f5a19a48ff9817edaa0a5ca4b85943f0fbd8c0",
+       "satir": 20
+      },
+      "2023-07": {
+       "gz_bayt": 287,
+       "ham_sha256": "184d6bb7b816a7c722740c2eebe9693a7568c65afe8b3c6024e4c9517a8a23ab",
+       "satir": 22
+      },
+      "2023-08": {
+       "gz_bayt": 291,
+       "ham_sha256": "1a0ba83dbf093fc2ee3d68b7af7265e7531c8a94a312a799407e63e18ccb2d26",
+       "satir": 23
+      },
+      "2023-09": {
+       "gz_bayt": 281,
+       "ham_sha256": "ff748c670e6311a797dc94bddd8f28bd4623a9608b88a0a211b3dd4b3581316b",
+       "satir": 22
+      },
+      "2023-10": {
+       "gz_bayt": 293,
+       "ham_sha256": "5972746f28a4a50a61d07a320876397a3d8ba969d41926f37c5d9cbc73374a3d",
+       "satir": 23
+      },
+      "2023-11": {
+       "gz_bayt": 289,
+       "ham_sha256": "cb99a03210c6332f44de586af929072bc5faf32620773adbdce5ff71af77a7d1",
+       "satir": 23
+      },
+      "2023-12": {
+       "gz_bayt": 278,
+       "ham_sha256": "7fc7e8fd32e0eac28f4a9d1b82d1b9309a120f2a2c7df2e9963565b3ec8ded22",
+       "satir": 22
+      },
+      "2024-01": {
+       "gz_bayt": 290,
+       "ham_sha256": "4d25152ad4f6eaa91a996dff4e6c44fa882966af1ed4fd7cf6739881c6c3f070",
+       "satir": 23
+      },
+      "2024-02": {
+       "gz_bayt": 283,
+       "ham_sha256": "4fb5aacb79dfd288fe45d5b36f9950ba61bb1a65800d5c462bb6736bec6962aa",
+       "satir": 22
+      },
+      "2024-03": {
+       "gz_bayt": 284,
+       "ham_sha256": "3c1c63211f980e0c553d22bd9c57759546906f416c10c2dc33c29584a767087e",
+       "satir": 22
+      },
+      "2024-04": {
+       "gz_bayt": 266,
+       "ham_sha256": "16f3a4659160113a9aee590b392d8cde529f56d4816c7a08c09ab6476ead24b3",
+       "satir": 19
+      },
+      "2024-05": {
+       "gz_bayt": 284,
+       "ham_sha256": "b9a4adeecd367307c5261c919c43981c8bb05de7f9b770cb22453e0fa0fe0a91",
+       "satir": 23
+      },
+      "2024-06": {
+       "gz_bayt": 263,
+       "ham_sha256": "3d1c958d7472d70655e7488671e54022f3bc2fab94e21cfdf5c6076c43ab5a67",
+       "satir": 18
+      },
+      "2024-07": {
+       "gz_bayt": 287,
+       "ham_sha256": "be5f3b49162031a10a583e0983bea191332e7f3c8579692667bc05e32b93e635",
+       "satir": 23
+      },
+      "2024-08": {
+       "gz_bayt": 289,
+       "ham_sha256": "aaffe08a149442bcdf1eced7c9ce6e380bfb860720de0bed607dd9d935cfd9a4",
+       "satir": 22
+      },
+      "2024-09": {
+       "gz_bayt": 288,
+       "ham_sha256": "a47e996c588dc61a6a3ae230db355731c7b9ec70930f3d9430901cea84c462df",
+       "satir": 22
+      },
+      "2024-10": {
+       "gz_bayt": 281,
+       "ham_sha256": "fd333a8cde60108bed74dd9a06e08fa5c8b5d5a1fb1a70c7dec287df736a04a9",
+       "satir": 23
+      },
+      "2024-11": {
+       "gz_bayt": 281,
+       "ham_sha256": "2b3dc9ab8c6a8ff925151a46f1532363e765c788a321f149facabb97de8727af",
+       "satir": 22
+      },
+      "2024-12": {
+       "gz_bayt": 293,
+       "ham_sha256": "7c3b1d65a87f1077ce7d6a8023347111b0eac8ed7c75989349c6f758957d188f",
+       "satir": 23
+      },
+      "2025-01": {
+       "gz_bayt": 288,
+       "ham_sha256": "5fb018d81dfcb1585c86b825c9140cf1dc799b1105d8919d4391e7911d96b344",
+       "satir": 23
+      },
+      "2025-02": {
+       "gz_bayt": 280,
+       "ham_sha256": "74080e5fc6bad2a184cd2c174ec95897fffcf5a6bb1d73f7b4b2e0912b44a5a3",
+       "satir": 21
+      },
+      "2025-03": {
+       "gz_bayt": 280,
+       "ham_sha256": "278e238dd5e75afbc091560f9acd5212e9abe16f512dfe30892d54cfdbe8b9ba",
+       "satir": 21
+      },
+      "2025-04": {
+       "gz_bayt": 279,
+       "ham_sha256": "0c57e4eb2a43060f51c8a4b232f0a6a006f261efa38f60fedde57a5e1d7c61b3",
+       "satir": 21
+      },
+      "2025-05": {
+       "gz_bayt": 280,
+       "ham_sha256": "17d603bce0d3ae68a8570d7e2db4b1fdd252dfcd3308d19e34a2b7c455c3fcf3",
+       "satir": 21
+      },
+      "2025-06": {
+       "gz_bayt": 268,
+       "ham_sha256": "17e88671085a66c5ca0bf0783ad0d4f2cf249dfff6631c605993c8b55b88184b",
+       "satir": 20
+      },
+      "2025-07": {
+       "gz_bayt": 291,
+       "ham_sha256": "a19151aa295b6d352402d253640188d26caf053f12236e6289b459518d65fc44",
+       "satir": 23
+      },
+      "2025-08": {
+       "gz_bayt": 285,
+       "ham_sha256": "26694007e7491ab053aaa3d114b41335919408b59739e835ded906dc14546308",
+       "satir": 22
+      },
+      "2025-09": {
+       "gz_bayt": 285,
+       "ham_sha256": "299deb1a8fc4d69af9364f1aa98cdbcac7f9ba0a3baa71c8a73a655b3393ea99",
+       "satir": 23
+      },
+      "2025-10": {
+       "gz_bayt": 290,
+       "ham_sha256": "a764fdec5a2cf329bac5e3a5c6feaa0bc2ad7d788bfbca6c7aae36a89b0c6733",
+       "satir": 23
+      },
+      "2025-11": {
+       "gz_bayt": 276,
+       "ham_sha256": "755164a1559e7310f9d9fcd2a0c0b0a70eceba685658270e85bf1db937f4c3f3",
+       "satir": 21
+      },
+      "2025-12": {
+       "gz_bayt": 290,
+       "ham_sha256": "a0145504ca3fa090c54415cf38e1213871481c53eb29021005ed38d0b0f681e6",
+       "satir": 24
+      },
+      "2026-01": {
+       "gz_bayt": 287,
+       "ham_sha256": "145635d711e90e32dc69d6b67f828b98f5cb7e4171d52c2c6f266728188ba392",
+       "satir": 22
+      },
+      "2026-02": {
+       "gz_bayt": 274,
+       "ham_sha256": "7f2757b05f797545c1ea88225f9df7da3841d0b76183d00ad1d3f9ea3ca8aa2e",
+       "satir": 21
+      },
+      "2026-03": {
+       "gz_bayt": 280,
+       "ham_sha256": "85feb396d2fbb750e89e78eea4785f5ebe5c08bb003ae1d39046d4e5c8d1acc6",
+       "satir": 22
+      },
+      "2026-04": {
+       "gz_bayt": 283,
+       "ham_sha256": "aa38cd30e6beb5ddc41da85cb16f8c0eca5a8b42eec69e0c1d899ec8c5c5b98d",
+       "satir": 22
+      },
+      "2026-05": {
+       "gz_bayt": 254,
+       "ham_sha256": "4e4ab9f30e5a9a4ed696d3f4bf4c1610aae6e993123f112726ae25c888816d25",
+       "satir": 17
+      },
+      "2026-06": {
+       "gz_bayt": 286,
+       "ham_sha256": "5c492cf7937e7ff328a27f6b67ead9f528aff49297b805a4f5ecac6df5ed539e",
+       "satir": 23
+      },
+      "2026-07": {
+       "gz_bayt": 289,
+       "ham_sha256": "665c1bd2ef470abcf64880e2370b9652ab556f0761668ee838b81050e9023f1a",
+       "satir": 23
+      },
+      "2026-08": {
+       "gz_bayt": 254,
+       "ham_sha256": "7b3cafa6a019fb6ccff685309b460ac7d040508d79c0171a6b9c6240962dd3c2",
+       "satir": 21
+      },
+      "2026-09": {
+       "gz_bayt": 261,
+       "ham_sha256": "4bed0a5a581baca93e4bd60a547b1c696409aa913a2143d0d4a3f9a6303b59e6",
+       "satir": 22
+      },
+      "2026-10": {
+       "gz_bayt": 132,
+       "ham_sha256": "075df5bc2aac6d270d74a34268b550f6ccf268fd5e91ebf50c6be35b52ab1962",
+       "satir": 4
+      }
+     },
+     "satir": 2823
+    },
+    "endeks_gunluk": {
+     "parcalar": {
+      "2016-01": {
+       "gz_bayt": 310,
+       "ham_sha256": "628de212a77a171f342eaeda21471dda99d2935535d0af2c052ebc3d427cfaaa",
+       "satir": 20
+      },
+      "2016-02": {
+       "gz_bayt": 317,
+       "ham_sha256": "10e22eb504ba04eef0634adf0206a3fe1f5a1f29e33ee9dc264441c52d7f86da",
+       "satir": 21
+      },
+      "2016-03": {
+       "gz_bayt": 337,
+       "ham_sha256": "1f6e2845c4a8059d70baefa2b72733ae1246f79f7e272011ab8c48a9fbed0f91",
+       "satir": 23
+      },
+      "2016-04": {
+       "gz_bayt": 325,
+       "ham_sha256": "880972b6eef778b8ae705d2792c5e0ca215cec4ff30e3a6a7f530f58afdf170a",
+       "satir": 21
+      },
+      "2016-05": {
+       "gz_bayt": 322,
+       "ham_sha256": "d7d1c3a2c163615eddd56bf265ab11a637624c8ae3267be80a58beb37c65df99",
+       "satir": 21
+      },
+      "2016-06": {
+       "gz_bayt": 321,
+       "ham_sha256": "a9f53e7f9672655a9019b1c6306ed8e67f47258a734727e2fc52ac7f81b5c718",
+       "satir": 22
+      },
+      "2016-07": {
+       "gz_bayt": 302,
+       "ham_sha256": "10efa13bb1d0ad090687a3508181e001156348eb0078fc857580515c83f84f76",
+       "satir": 18
+      },
+      "2016-08": {
+       "gz_bayt": 338,
+       "ham_sha256": "99c1470cef53bc227a0fad31bf4ce1897babb9bfff61114d73527b97a3bade76",
+       "satir": 22
+      },
+      "2016-09": {
+       "gz_bayt": 300,
+       "ham_sha256": "39e071d34841f99dcded14b11bd44fcef80b56ed645a135d95db86661a459311",
+       "satir": 18
+      },
+      "2016-10": {
+       "gz_bayt": 326,
+       "ham_sha256": "d69bea61a3d220d31ed5a84adc24f316d0b22b2a761c95e93f518993ee438923",
+       "satir": 21
+      },
+      "2016-11": {
+       "gz_bayt": 334,
+       "ham_sha256": "89233c0f24c2763ad221749b1142060000ef3d5b56654327da06c851e116a8df",
+       "satir": 22
+      },
+      "2016-12": {
+       "gz_bayt": 327,
+       "ham_sha256": "cdc7460411dd67c7ec7e95088788654c8597f9cd453da1c73716d1f6900084cb",
+       "satir": 22
+      },
+      "2017-01": {
+       "gz_bayt": 339,
+       "ham_sha256": "18b5ff515ee8a3274298f07fadaaf71313dd440bc1fc1a407b4ad3f416dc8c30",
+       "satir": 22
+      },
+      "2017-02": {
+       "gz_bayt": 306,
+       "ham_sha256": "a1a9feb53e5b27ded33bf7cbdd2778a211e77375ba607ad3817965142f2e9142",
+       "satir": 20
+      },
+      "2017-03": {
+       "gz_bayt": 341,
+       "ham_sha256": "a43d65e033723e9ef404109fc83c687881363d405be281f7e5d6fda9e5cfde55",
+       "satir": 23
+      },
+      "2017-04": {
+       "gz_bayt": 298,
+       "ham_sha256": "e1e67c3f6bf411ecaa2ae1f34084900cc5cd677852eed75bcfe279ba83f83634",
+       "satir": 20
+      },
+      "2017-05": {
+       "gz_bayt": 308,
+       "ham_sha256": "cf292170bbffd2897796ddbab006fdfb2e359e8cb0dfe493ce780fd752e2335d",
+       "satir": 21
+      },
+      "2017-06": {
+       "gz_bayt": 313,
+       "ham_sha256": "b2df35945bb601c89cfffc7c9c5cc047c82b03494a2a7504fff0c1eb1135f6be",
+       "satir": 20
+      },
+      "2017-07": {
+       "gz_bayt": 327,
+       "ham_sha256": "373ad77f0c90b42eff4832c3f2bf5e77e3858d115c644851b1500098c2426a06",
+       "satir": 21
+      },
+      "2017-08": {
+       "gz_bayt": 322,
+       "ham_sha256": "277835dca27b91dfb91f280f131125f3ed9ce5d191119937ebdf291d1162f4c2",
+       "satir": 22
+      },
+      "2017-09": {
+       "gz_bayt": 283,
+       "ham_sha256": "44b632490c068981fed16d46ae41629d21535490827acae058f4f6fff727cd59",
+       "satir": 19
+      },
+      "2017-10": {
+       "gz_bayt": 307,
+       "ham_sha256": "c5285686eb449c3eddc42311d6163528778fa02414f69a12d99478582249731a",
+       "satir": 22
+      },
+      "2017-11": {
+       "gz_bayt": 312,
+       "ham_sha256": "2ac48d6d5cdd16acf9b0be838871083b2d084ef22e95a7f3eda255efd9c58571",
+       "satir": 22
+      },
+      "2017-12": {
+       "gz_bayt": 319,
+       "ham_sha256": "d80cb89731b245f4ea3a5c7fc2230c09975a7405fdb663f08ff68d42237a7ffb",
+       "satir": 21
+      },
+      "2018-01": {
+       "gz_bayt": 331,
+       "ham_sha256": "e4b410e259157da17a885659921de0b6b40d6c36051bd24c82751e242daac008",
+       "satir": 22
+      },
+      "2018-02": {
+       "gz_bayt": 297,
+       "ham_sha256": "3e4864f579a2b787167a41802475ab981fda09d8765d8751a81543edfe3fb711",
+       "satir": 20
+      },
+      "2018-03": {
+       "gz_bayt": 322,
+       "ham_sha256": "07829644f060c93c38575e829f471546c2669faf0a536d9d88f8134317c46a88",
+       "satir": 22
+      },
+      "2018-04": {
+       "gz_bayt": 302,
+       "ham_sha256": "e5d15dfc81b065397189d8afcdcbde3a177996702c4477c6833155cd303e518f",
+       "satir": 20
+      },
+      "2018-05": {
+       "gz_bayt": 324,
+       "ham_sha256": "d5c8553219f54d695c010d5543e21622b0f5599183386f2e3495ef3e8d5cab37",
+       "satir": 22
+      },
+      "2018-06": {
+       "gz_bayt": 319,
+       "ham_sha256": "8bddbbfda423aa91a222b12d2924312016ebf44eb5ce9ae7f729a1b64687132f",
+       "satir": 20
+      },
+      "2018-07": {
+       "gz_bayt": 337,
+       "ham_sha256": "889458115158d79710462860aebf1641a51bb45c87f1a93b4d3e84f7a6da0fa5",
+       "satir": 22
+      },
+      "2018-08": {
+       "gz_bayt": 306,
+       "ham_sha256": "0808cb46946ae5abab68ce1274e19f2093f55a77a7dbd441de9729a82c31db62",
+       "satir": 18
+      },
+      "2018-09": {
+       "gz_bayt": 316,
+       "ham_sha256": "446ba94d13f7ec747a378d134f79591fe8c5f24767aafc5b72e04da916eee2cd",
+       "satir": 20
+      },
+      "2018-10": {
+       "gz_bayt": 339,
+       "ham_sha256": "5b9a79ac90ecec3d04c4c92e24d9f8af040e30d9908e2b4bb09d2c5723a0cf06",
+       "satir": 22
+      },
+      "2018-11": {
+       "gz_bayt": 327,
+       "ham_sha256": "ff71d1d195b542a91f6134af9a764ff56b07c4d247cd139225c6cbf76e2a569e",
+       "satir": 22
+      },
+      "2018-12": {
+       "gz_bayt": 325,
+       "ham_sha256": "1374e4e2ac8834a39389e95e5bab51a153abea6fcc853857bf9de023302aa75a",
+       "satir": 21
+      },
+      "2019-01": {
+       "gz_bayt": 334,
+       "ham_sha256": "55a964d95dd60ed3e45f79e2679de4207959fe8d00730aeb763c7bf35547eb97",
+       "satir": 22
+      },
+      "2019-02": {
+       "gz_bayt": 305,
+       "ham_sha256": "5ca33297412a965124a24a19183861b0cdd3c4540f4710b14c637a216cab0c8e",
+       "satir": 20
+      },
+      "2019-03": {
+       "gz_bayt": 330,
+       "ham_sha256": "4c9bbe4a16b00edf332e079ea1ec0e300d51f87ee0f27f09885676c84a07f68f",
+       "satir": 21
+      },
+      "2019-04": {
+       "gz_bayt": 325,
+       "ham_sha256": "4ad64b76851af9d65375d6932d0d111bd122639feb37c4e2e46b23798381acba",
+       "satir": 21
+      },
+      "2019-05": {
+       "gz_bayt": 333,
+       "ham_sha256": "395e6d5749b3f5d08d22c73092bc224d7df2c852f6aa98b0188eb0f705501468",
+       "satir": 22
+      },
+      "2019-06": {
+       "gz_bayt": 274,
+       "ham_sha256": "2c47807b23f4e443e5fdf5bb1bbed32e01d1f260fb47f2a26e0c3df2bc49c78d",
+       "satir": 17
+      },
+      "2019-07": {
+       "gz_bayt": 337,
+       "ham_sha256": "9ab6be9e24c45b0ae34f8d120eb2c49292cd4df89d63f376b176573b63f5db7e",
+       "satir": 22
+      },
+      "2019-08": {
+       "gz_bayt": 296,
+       "ham_sha256": "f59081f5e05268b09484d5503ddef456221ec032900cdd53013bee9e00f849e4",
+       "satir": 18
+      },
+      "2019-09": {
+       "gz_bayt": 329,
+       "ham_sha256": "16bf45293b1d26000974c086bd74be8b7162565f0e775bf049faa03c6e6a7476",
+       "satir": 21
+      },
+      "2019-10": {
+       "gz_bayt": 325,
+       "ham_sha256": "c66acb60734eb3782fd1f5f93711e2e0ad95856d18d9a9878fbfba4fe63029aa",
+       "satir": 22
+      },
+      "2019-11": {
+       "gz_bayt": 310,
+       "ham_sha256": "9aad4e317d87ad2230d217d90de68dec199611f4ac1877c1df4ae2f03aa5e622",
+       "satir": 21
+      },
+      "2019-12": {
+       "gz_bayt": 330,
+       "ham_sha256": "10f28446180e8bd12a13b99083b9f07e042cb9be260b0c6cbf61a800921538a0",
+       "satir": 22
+      },
+      "2020-01": {
+       "gz_bayt": 325,
+       "ham_sha256": "bf1ec5ddf4740cb2e058bbf3207502073a539a3f784a998b33659883b6ffa916",
+       "satir": 22
+      },
+      "2020-02": {
+       "gz_bayt": 296,
+       "ham_sha256": "9b84863195d183fdac7cf5c598a91d69fe7c358935e34ed60a27f52a8f09976a",
+       "satir": 20
+      },
+      "2020-03": {
+       "gz_bayt": 342,
+       "ham_sha256": "92819291c14524d83f615a3eab509cd34852144e8dba9740bf7f0e26554091b9",
+       "satir": 22
+      },
+      "2020-04": {
+       "gz_bayt": 316,
+       "ham_sha256": "2c3fe85265eddaab9a6901aeb54e084b5edf877dbb2a76ef2b17829163bed76a",
+       "satir": 21
+      },
+      "2020-05": {
+       "gz_bayt": 278,
+       "ham_sha256": "110535213c221ecf86b720844caaf1655c16e1276d852ccf5995d905c5fe2b5b",
+       "satir": 17
+      },
+      "2020-06": {
+       "gz_bayt": 318,
+       "ham_sha256": "a24232343b5b37524bb1d00350651be05557318e731dbc42f5f91fe5d36831c0",
+       "satir": 22
+      },
+      "2020-07": {
+       "gz_bayt": 299,
+       "ham_sha256": "5f26536240eed585400ce68c3c4b0f9e54a9969b426c79836deb6b5b09f6f1cc",
+       "satir": 21
+      },
+      "2020-08": {
+       "gz_bayt": 264,
+       "ham_sha256": "27da78cbd571184002520b306933a72706c5165bccc7961f9c5ea9079b5ca48a",
+       "satir": 20
+      },
+      "2020-09": {
+       "gz_bayt": 269,
+       "ham_sha256": "2f68a228d9f30279c5ec7946ac2fe72b02000182ab411458aafa7e8f99b456c4",
+       "satir": 22
+      },
+      "2020-10": {
+       "gz_bayt": 266,
+       "ham_sha256": "f76dc6f4b0694a16c5bb6f97d139989e0e1b3597e77f31a7c0ed4a40db1053d8",
+       "satir": 21
+      },
+      "2020-11": {
+       "gz_bayt": 271,
+       "ham_sha256": "22faffec28c337ce40096e623f829555e73fee53cbef6accaf24968bb3bf8020",
+       "satir": 21
+      },
+      "2020-12": {
+       "gz_bayt": 281,
+       "ham_sha256": "26b637a17fcf7768b9d43a66460d0885e0166aa486eae96933d57db2245477e4",
+       "satir": 23
+      },
+      "2021-01": {
+       "gz_bayt": 267,
+       "ham_sha256": "6ea8e8790adcecf2ed57ae266ce9c9149c02ac8089cbf5a3ea3adfb65d6fab01",
+       "satir": 20
+      },
+      "2021-02": {
+       "gz_bayt": 264,
+       "ham_sha256": "95cc37e46b1275de581ff180658ec0ea86421cde8400dddf3514f5746c25f9b5",
+       "satir": 20
+      },
+      "2021-03": {
+       "gz_bayt": 287,
+       "ham_sha256": "16517b9c469a6caf210d707710efff4a4983ee3b8c4ed82005fef4ef15b4a939",
+       "satir": 23
+      },
+      "2021-04": {
+       "gz_bayt": 271,
+       "ham_sha256": "8abad0be31149bbb39b8b4ec9ff5dd820cc828b5edb4b0ce33312283fd83b365",
+       "satir": 21
+      },
+      "2021-05": {
+       "gz_bayt": 240,
+       "ham_sha256": "1f7ce3d9e6678b582a312c83cc946c41b887e3fdf0486fea3e3c940726c22310",
+       "satir": 18
+      },
+      "2021-06": {
+       "gz_bayt": 276,
+       "ham_sha256": "84aeeafedf717bdb80746d348d6407a3e339acd736a9a5e8313c78ecd208e213",
+       "satir": 22
+      },
+      "2021-07": {
+       "gz_bayt": 240,
+       "ham_sha256": "d3ab7c813b4e1b555c16fe3060782547dbc764b98f13509ae2d9aa704832b24d",
+       "satir": 17
+      },
+      "2021-08": {
+       "gz_bayt": 270,
+       "ham_sha256": "e88ed518c38f62fe7da75b097fc2bb5d2e081e4cd2ff67751ba8005fd0d6188c",
+       "satir": 21
+      },
+      "2021-09": {
+       "gz_bayt": 272,
+       "ham_sha256": "87db679b06301bfb49d839a889c3bc9247293a2bde8d480aef3bfc04965c2538",
+       "satir": 22
+      },
+      "2021-10": {
+       "gz_bayt": 264,
+       "ham_sha256": "92f8752d55a455036ac855e74555a3bf6ca4a99b56b1abba6a5b7a4f1d8c21bc",
+       "satir": 20
+      },
+      "2021-11": {
+       "gz_bayt": 284,
+       "ham_sha256": "7233e601c6363a73ee7febecf1653601c42c69e22f35c4479358ba83ddedf7dc",
+       "satir": 22
+      },
+      "2021-12": {
+       "gz_bayt": 290,
+       "ham_sha256": "ad892cfaafdf621e572a18416a8c75e436d89fe551ee7d571d1843a2ba291287",
+       "satir": 23
+      },
+      "2022-01": {
+       "gz_bayt": 270,
+       "ham_sha256": "edbf4b3b03d2067013cc191f2e74d51c0eaec6ae70669dd5854c8fce8d8843e8",
+       "satir": 21
+      },
+      "2022-02": {
+       "gz_bayt": 266,
+       "ham_sha256": "d949ffe4d288e47404c7fbad9d86e43832f23052a8d43215adb957ccc1f56d74",
+       "satir": 20
+      },
+      "2022-03": {
+       "gz_bayt": 280,
+       "ham_sha256": "65b73d07a779084706eecf2edfd088351f39fe3d69898cc6438bf5bc1a25eae7",
+       "satir": 23
+      },
+      "2022-04": {
+       "gz_bayt": 276,
+       "ham_sha256": "ef64649908c7139a4cdef37048efdcaff2448a3722e2be4744dcfd5091233519",
+       "satir": 21
+      },
+      "2022-05": {
+       "gz_bayt": 254,
+       "ham_sha256": "24039b7d0e2511b247c8bb043f10dc8c73ce6b37f38fa6494e26d7c02f21addf",
+       "satir": 18
+      },
+      "2022-06": {
+       "gz_bayt": 279,
+       "ham_sha256": "5e705f3a047698176b5f8d4bd0d7d5bc79fe8be817af193300e65d2d451c62fe",
+       "satir": 22
+      },
+      "2022-07": {
+       "gz_bayt": 253,
+       "ham_sha256": "c556d376a3baa6ccb6e103a3168c88436844ced0d657d09d38722933eaddbe47",
+       "satir": 18
+      },
+      "2022-08": {
+       "gz_bayt": 281,
+       "ham_sha256": "d581f41bb521338e2d4a13dc41772d480a5b7cba96a9c1a5b50227a80f7a1948",
+       "satir": 22
+      },
+      "2022-09": {
+       "gz_bayt": 283,
+       "ham_sha256": "3a604dad9b851eba9d369bc17f2a88a264475371cf2cd7695743024bdbfe4f47",
+       "satir": 22
+      },
+      "2022-10": {
+       "gz_bayt": 271,
+       "ham_sha256": "5cf84075fead4983fa596f348df1ce06efb97066348a20d2c902ffafd5f9700b",
+       "satir": 21
+      },
+      "2022-11": {
+       "gz_bayt": 287,
+       "ham_sha256": "8d6db69e41c9f0d34f229a0e898da71f9c5dd58c8f52e83c4b41df6a5c5f6b18",
+       "satir": 22
+      },
+      "2022-12": {
+       "gz_bayt": 284,
+       "ham_sha256": "a86143988b0450217b0772076990e4547228957024a786b1b6893bd989b1ef0f",
+       "satir": 22
+      },
+      "2023-01": {
+       "gz_bayt": 288,
+       "ham_sha256": "17f4e36a0deff479303ddba7a82cd57f5e9b0a17f08b4126f9c7baae58cc5aa0",
+       "satir": 22
+      },
+      "2023-02": {
+       "gz_bayt": 237,
+       "ham_sha256": "78b23be94f74a0d5cf45c3a97ea8ab4410fa3c1d4002f32956856112f37a9cf6",
+       "satir": 15
+      },
+      "2023-03": {
+       "gz_bayt": 294,
+       "ham_sha256": "7afc80aeb5b54b4c4b93372966b603d0bf1526f8e17ae23252d67150e13a9a0a",
+       "satir": 23
+      },
+      "2023-04": {
+       "gz_bayt": 263,
+       "ham_sha256": "72048bb422e5a6b70df2b8c661a4793c77410b4bcb1dea95e377f2f402cf9c55",
+       "satir": 19
+      },
+      "2023-05": {
+       "gz_bayt": 278,
+       "ham_sha256": "ed9c1f287d92578d039d2cefbd3d07892c0a1fa17487b65ae19fe5e65f57388c",
+       "satir": 21
+      },
+      "2023-06": {
+       "gz_bayt": 266,
+       "ham_sha256": "47b4a4fc1c3e5531794450a249963649a07c81ecce5285199ad2b17335559acf",
+       "satir": 19
+      },
+      "2023-07": {
+       "gz_bayt": 278,
+       "ham_sha256": "b1c0c96f67fe636f9539a1c699a76df5addb5baf4c5909ac31c8300d325e3fd6",
+       "satir": 21
+      },
+      "2023-08": {
+       "gz_bayt": 283,
+       "ham_sha256": "09afe8a5dc51a45ad688c933f098e882da1e4bded8202458e0329c348004cbf7",
+       "satir": 22
+      },
+      "2023-09": {
+       "gz_bayt": 279,
+       "ham_sha256": "3adc139ad5a6ff7b02c60c323fffd1a070d599ff077a5a1f7d1418192d05d160",
+       "satir": 21
+      },
+      "2023-10": {
+       "gz_bayt": 293,
+       "ham_sha256": "006b3b0512e919073b9f947baea17506847057f4fa663a225068b39bb4b6afe9",
+       "satir": 22
+      },
+      "2023-11": {
+       "gz_bayt": 291,
+       "ham_sha256": "ac67a8e2c4701bcc053da1c54b5fbfddce65000c7ace92b0ed3efcb9f24c2452",
+       "satir": 22
+      },
+      "2023-12": {
+       "gz_bayt": 280,
+       "ham_sha256": "c817df889e00f813547d236d51d06842945b1c1ce3b143df2beb697173a09498",
+       "satir": 21
+      },
+      "2024-01": {
+       "gz_bayt": 283,
+       "ham_sha256": "ca7a130f3d44e5dfe8ea63bbe638f6cfb8dc3c35d919f5b12a192d002d914029",
+       "satir": 22
+      },
+      "2024-02": {
+       "gz_bayt": 278,
+       "ham_sha256": "799733cb2f6c6feb044765d6a6b96a9b30e854d0a0221d4c50b18084f103aadd",
+       "satir": 21
+      },
+      "2024-03": {
+       "gz_bayt": 275,
+       "ham_sha256": "18186a836c878ab94c2945e8aa5b1c9a984be58f0b062833eaa9816215a3ac30",
+       "satir": 21
+      },
+      "2024-04": {
+       "gz_bayt": 262,
+       "ham_sha256": "898a057edd674d64a2de9b5ac4578120f38fef0338c8e272ca13c0ef4e943fd0",
+       "satir": 18
+      },
+      "2024-05": {
+       "gz_bayt": 285,
+       "ham_sha256": "5f54197eafb5ec7567cd24b135d44e05009b90156904d39261658fe37a787d51",
+       "satir": 22
+      },
+      "2024-06": {
+       "gz_bayt": 256,
+       "ham_sha256": "77abe09b298c69d9b4bf1488f6f8d2f6586bd32a859cccf8ab3a382e86da71f3",
+       "satir": 17
+      },
+      "2024-07": {
+       "gz_bayt": 289,
+       "ham_sha256": "57ea3a472695ff0631e567d5a6500f050d78408e68e0978fd2421e6abada8b49",
+       "satir": 22
+      },
+      "2024-08": {
+       "gz_bayt": 282,
+       "ham_sha256": "2f09bd6cce2515e129a388fbcb12b720315a348f13c2ef8fa43e807d43f92689",
+       "satir": 21
+      },
+      "2024-09": {
+       "gz_bayt": 278,
+       "ham_sha256": "03079e0ebf91e02a8779e01542f2342f3a5b88c35ebfef96fb2fd2d135f95cf4",
+       "satir": 21
+      },
+      "2024-10": {
+       "gz_bayt": 288,
+       "ham_sha256": "5cd321705d417d7cbd481101991aa0a32f16034dcf77db779a1cb81a5669e930",
+       "satir": 22
+      },
+      "2024-11": {
+       "gz_bayt": 282,
+       "ham_sha256": "943bf41b3ecc6347903c953e2870d19541bf9bbbaecc9ae02097cc6f59451f8b",
+       "satir": 21
+      },
+      "2024-12": {
+       "gz_bayt": 291,
+       "ham_sha256": "ab7c2b70fe79594ef213a6ec31160c2459194c167633f92c16ac74f9ce895602",
+       "satir": 22
+      },
+      "2025-01": {
+       "gz_bayt": 287,
+       "ham_sha256": "7773f5a80d83e60ffedf917d2758f03f5be152a5e7b4304c5242207a4cfe8590",
+       "satir": 22
+      },
+      "2025-02": {
+       "gz_bayt": 271,
+       "ham_sha256": "e6c7ef96a4767edf1d0432623c44aa5c1018174266ce191a6cee8b660b98c8fd",
+       "satir": 20
+      },
+      "2025-03": {
+       "gz_bayt": 277,
+       "ham_sha256": "8b765a34ea4efe8fa4f0372201b265645f9751213ee056eeea74d5a8f6f17f07",
+       "satir": 20
+      },
+      "2025-04": {
+       "gz_bayt": 273,
+       "ham_sha256": "dcd68197e0e3e485dda863ebf6607d7bea713ded62cd8ebedb669a48b55065b4",
+       "satir": 20
+      },
+      "2025-05": {
+       "gz_bayt": 270,
+       "ham_sha256": "101467491ff3054fe497205087276e9d81e54874310fc5719b74df3abdd24052",
+       "satir": 20
+      },
+      "2025-06": {
+       "gz_bayt": 266,
+       "ham_sha256": "09f948342b41ed0259f199a090048ee63c3997f0100f8edc149e195e47cb0c61",
+       "satir": 19
+      },
+      "2025-07": {
+       "gz_bayt": 287,
+       "ham_sha256": "d42c23f5f01b79d2c1124b4e7419da9cfe9d245c9e3eeb6ba254ac65dbd80ed0",
+       "satir": 22
+      },
+      "2025-08": {
+       "gz_bayt": 281,
+       "ham_sha256": "a4fe613b793bdb7cc5615c1ec012df25b303ba641e7effa15b91c7dd373e03ce",
+       "satir": 21
+      },
+      "2025-09": {
+       "gz_bayt": 292,
+       "ham_sha256": "e02f133b551934ebcc5a66411b8b7eae5bc41d9a5b5f1807b36c84f17f3846e8",
+       "satir": 22
+      },
+      "2025-10": {
+       "gz_bayt": 288,
+       "ham_sha256": "9de883d129d093e8eaa297d91b74985c70f8e3acb969525605d9615eb5bf199e",
+       "satir": 22
+      },
+      "2025-11": {
+       "gz_bayt": 276,
+       "ham_sha256": "ed81ef629487edd8fe5f9d441aeb2ae074d11401300dda056c2dc53508c65dc5",
+       "satir": 20
+      },
+      "2025-12": {
+       "gz_bayt": 295,
+       "ham_sha256": "89b4a3a123a75e9dbcc896e07f2016624a3cb37a2297546aa17472dd5d60d0d6",
+       "satir": 23
+      },
+      "2026-01": {
+       "gz_bayt": 286,
+       "ham_sha256": "dbad162d1ff4ec0154c2729a179c23e9491e46812452b47f8faf30899682e6de",
+       "satir": 21
+      },
+      "2026-02": {
+       "gz_bayt": 274,
+       "ham_sha256": "ec2ea644e49db8ca5a265dafe6fb1e712c650db1b62942d262f92da8533e80dc",
+       "satir": 20
+      },
+      "2026-03": {
+       "gz_bayt": 278,
+       "ham_sha256": "207b3e1be4f79c768e89bbcfb846e48e7e2f1dd6515ae7ac572bf8ac1a01821a",
+       "satir": 21
+      },
+      "2026-04": {
+       "gz_bayt": 288,
+       "ham_sha256": "7132e9bbf88f0bcdb963d883fddb8c8f91b1d7f4c0b5fcee59737d990b7775fb",
+       "satir": 21
+      },
+      "2026-05": {
+       "gz_bayt": 250,
+       "ham_sha256": "10c406b00990b7fad3de9dbf9eb0f3c5e7429b20b8dc7f1167f210623a485959",
+       "satir": 16
+      },
+      "2026-06": {
+       "gz_bayt": 286,
+       "ham_sha256": "6e2340be7431357d7d545653b099774c3f7b9f546b9e0498e9bc43e9ad6c057c",
+       "satir": 22
+      },
+      "2026-07": {
+       "gz_bayt": 294,
+       "ham_sha256": "49e3ef292eea561490918553a2705387101800b8a5aae000c6e6b3b20287282a",
+       "satir": 22
+      },
+      "2026-08": {
+       "gz_bayt": 280,
+       "ham_sha256": "77b642eaf8462c2585cc6082d9876abddadfafb8c0f784eccc777a3ef20f973e",
+       "satir": 21
+      },
+      "2026-09": {
+       "gz_bayt": 296,
+       "ham_sha256": "9cc8ec169790173598808f8366aa2f34b71d6227ab1cb57ab8c7c20b7a3c09a6",
+       "satir": 22
+      },
+      "2026-10": {
+       "gz_bayt": 146,
+       "ham_sha256": "ee030ec56862cb78ae9580a1377bed7d84696fc049671a4244e652a408b9e9fc",
+       "satir": 4
+      }
+     },
+     "satir": 2696
+    },
+    "fetch_log": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 20,
+       "ham_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+       "satir": 0
+      }
+     },
+     "satir": 0
+    },
+    "fundamental_cache": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 20,
+       "ham_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+       "satir": 0
+      }
+     },
+     "satir": 0
+    },
+    "fundamental_gecmis": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 183632,
+       "ham_sha256": "0f12bc6163a2b586ab7cc97cd6ab999de0d4312aa22343619dfea0d5e47d9e79",
+       "satir": 2311
+      }
+     },
+     "satir": 2311
+    },
+    "hat_ilerleme": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 94611,
+       "ham_sha256": "fa0fde4002501f88e6b40555ce7fe7c9471eed15ccf53304e9c5ea3f4c544472",
+       "satir": 19347
+      }
+     },
+     "satir": 19347
+    },
+    "hat_kilit": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 872,
+       "ham_sha256": "f06073b0d0929dd764cb944abcb826ee9b1de1d9d9ed126ebbc6591727d9c051",
+       "satir": 37
+      }
+     },
+     "satir": 37
+    },
+    "instruments": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 13547,
+       "ham_sha256": "5e37e1e126445aaa9ae60c09942c2e5c47cf0705c4f0ebd7ee45c21be2df049f",
+       "satir": 652
+      }
+     },
+     "satir": 652
+    },
+    "is_kuyrugu": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 438,
+       "ham_sha256": "355a3406da3cb56eb7a92d8e3fe8dca562947a4f840fbaf5a4dedfcd4e5ad7d6",
+       "satir": 4
+      }
+     },
+     "satir": 4
+    },
+    "kap_bildirim": {
+     "parcalar": {
+      "2025-06": {
+       "gz_bayt": 10848,
+       "ham_sha256": "27867c13f287a307ed038bec48117b00b1347516107f2fc36525484012df0c7f",
+       "satir": 281
+      },
+      "2025-07": {
+       "gz_bayt": 176827,
+       "ham_sha256": "10ea50f7f649d44d1cd8427eeacf2a083750940ce602f2b16c5a7e4dd5f63d39",
+       "satir": 5115
+      },
+      "2025-08": {
+       "gz_bayt": 243099,
+       "ham_sha256": "5277053e516569ba7ab8ccb954c69cb42058e44e6c6ae1a4975fb6798ef9ebb7",
+       "satir": 7950
+      },
+      "2025-09": {
+       "gz_bayt": 176331,
+       "ham_sha256": "a182c08852847f9f18e5550074eb2155eee7ca1e67237f4b235c31cbd3d476fc",
+       "satir": 5617
+      },
+      "2025-10": {
+       "gz_bayt": 190903,
+       "ham_sha256": "503fe4e4f1fa7278386116f5384d6fc2b6e0f139b7e40e4089bc121021e2fbdb",
+       "satir": 6146
+      },
+      "2025-11": {
+       "gz_bayt": 207313,
+       "ham_sha256": "b923cf7b5ff5e19743b89f32d6ce56d6da3df9286d351c62692983d94f7c1636",
+       "satir": 6798
+      },
+      "2025-12": {
+       "gz_bayt": 189978,
+       "ham_sha256": "1fe2acd530762a0df14492db01489c1d89f11ade5049021c06e9def65ff0db99",
+       "satir": 5593
+      },
+      "2026-01": {
+       "gz_bayt": 181452,
+       "ham_sha256": "c597fcaa89329b8523a9f5f8c2742294abe70ee18533b51b61463025da4611ef",
+       "satir": 5263
+      },
+      "2026-02": {
+       "gz_bayt": 228243,
+       "ham_sha256": "62159cc7e14866fa786f01341d3b44dab822b8ae49ff8d9d606c17da7bb646a2",
+       "satir": 7380
+      },
+      "2026-03": {
+       "gz_bayt": 278653,
+       "ham_sha256": "a699a80fef0ec798f04c7daf72a2ad2982d496714b34070862d9ae58c42e0d2c",
+       "satir": 9654
+      },
+      "2026-04": {
+       "gz_bayt": 242762,
+       "ham_sha256": "f030ed9d68ca79b39a31676a8005cf308846f315f87a08204666afc8883b9632",
+       "satir": 7804
+      },
+      "2026-05": {
+       "gz_bayt": 214595,
+       "ham_sha256": "2d8f97d46aac27118ad38dd25ca9e61cc02d8547a9a37684b7f71b0bda9ca9b0",
+       "satir": 7167
+      },
+      "2026-06": {
+       "gz_bayt": 213996,
+       "ham_sha256": "111f9fada38dae8bfcde02b2f4862579bd56a7f0c852e38894d2cb3f9dd67742",
+       "satir": 6638
+      },
+      "2026-07": {
+       "gz_bayt": 210403,
+       "ham_sha256": "b747c8a31474a6284e1eee439518f8b8f6208b516438468adf7b022e25b85cef",
+       "satir": 6491
+      },
+      "2026-08": {
+       "gz_bayt": 255603,
+       "ham_sha256": "a820e0fb33db4428a414463b572bedca0b22d693b75d4231e20f0e226ae0dbda",
+       "satir": 8646
+      },
+      "2026-09": {
+       "gz_bayt": 228944,
+       "ham_sha256": "97d73e52ef36452031d52fdd24028b13957b9c06d1e904b7469cf9dfe6897551",
+       "satir": 8139
+      },
+      "2026-10": {
+       "gz_bayt": 41402,
+       "ham_sha256": "06cac8225e9a8486b3946e9f716aa6cdbf919c0ee6432800e167c316cb7711c9",
+       "satir": 1304
+      }
+     },
+     "satir": 105986
+    },
+    "ohlcv_4h": {
+     "parcalar": {
+      "2022-01": {
+       "gz_bayt": 12976,
+       "ham_sha256": "1fa9ebf188c891bb9e5b01b8404402641bd572ba62fa197f3ef7c46d7072324c",
+       "satir": 558
+      },
+      "2022-02": {
+       "gz_bayt": 11719,
+       "ham_sha256": "7304354298752f2baf0c22c3d35b1d57e56681692afebd9038d953cd78e85d38",
+       "satir": 504
+      },
+      "2022-03": {
+       "gz_bayt": 12876,
+       "ham_sha256": "e9a8591cf2357d045e574360f50d8099993c0a41ed98e2a17f4972aee405e848",
+       "satir": 558
+      },
+      "2022-04": {
+       "gz_bayt": 12349,
+       "ham_sha256": "e6d4aef83f6329fd7d269a883d60225a725771b2179d157282eb34c7fd389f07",
+       "satir": 540
+      },
+      "2022-05": {
+       "gz_bayt": 12939,
+       "ham_sha256": "fcb5a1a7d86fada7baa3eecc6bfeefe189ce6d349c6727bf54136fdb87987f40",
+       "satir": 558
+      },
+      "2022-06": {
+       "gz_bayt": 12474,
+       "ham_sha256": "70353f8c410e084aad8fe9eb58a3a237402df80ff6273d1d4121f153ca965b5e",
+       "satir": 540
+      },
+      "2022-07": {
+       "gz_bayt": 12813,
+       "ham_sha256": "9085c0401d68b68d711149801df56b8d2a1ebe52efa7023995ea70aedd1214c2",
+       "satir": 558
+      },
+      "2022-08": {
+       "gz_bayt": 12837,
+       "ham_sha256": "a3834b0cbc8020fe35f90e45ed763bbd9dbe7cddeea88cb986a39d1b9d809373",
+       "satir": 558
+      },
+      "2022-09": {
+       "gz_bayt": 12328,
+       "ham_sha256": "d1efc8830e2706912c538e9ce1142d43a4ba4558de604b2c974ec9700f5f708a",
+       "satir": 540
+      },
+      "2022-10": {
+       "gz_bayt": 12457,
+       "ham_sha256": "e252f0c22d155f873c103cc54e9aa5e430ba4136cab0aca86f885658d2cbb49a",
+       "satir": 558
+      },
+      "2022-11": {
+       "gz_bayt": 12444,
+       "ham_sha256": "7507363bebc14763283d07b3288cd98a4ac65982c86faa19f02a7eb8500ba574",
+       "satir": 540
+      },
+      "2022-12": {
+       "gz_bayt": 12261,
+       "ham_sha256": "d4aa265242837cf299f64f9dc8b203380693865f5d0a3aedc964bed771ae9a9c",
+       "satir": 558
+      },
+      "2023-01": {
+       "gz_bayt": 12629,
+       "ham_sha256": "f91c9dc0f1f63e75b461605a56057a004019dd9ce908a153724b172b9eeb8ef8",
+       "satir": 558
+      },
+      "2023-02": {
+       "gz_bayt": 11491,
+       "ham_sha256": "3d086a99a27901108a258156e340959cb938ac94cb51177e680e71f8cdec1aa7",
+       "satir": 504
+      },
+      "2023-03": {
+       "gz_bayt": 12698,
+       "ham_sha256": "2626de8816dcf95707e75e10a1599117db12910a3cc4b9fb145712ece5f67940",
+       "satir": 558
+      },
+      "2023-04": {
+       "gz_bayt": 12007,
+       "ham_sha256": "f113a69728e7df93b2aea1d9a72792018c2b9eae13ccb96945f4f6b2003c808c",
+       "satir": 540
+      },
+      "2023-05": {
+       "gz_bayt": 12271,
+       "ham_sha256": "3df3fa087d357df2fcadeefd70b019b43300662c110b2cdd54fde8031c146452",
+       "satir": 558
+      },
+      "2023-06": {
+       "gz_bayt": 12015,
+       "ham_sha256": "a3868c88af3a7d14c64dd94e77e37978845af9e4559dbb9b000a9e7da17086ea",
+       "satir": 540
+      },
+      "2023-07": {
+       "gz_bayt": 11975,
+       "ham_sha256": "af94cac0b3a4b6ef553e3d4989651b3c7ccac62a35e67c9720bc5df1c435a6ca",
+       "satir": 558
+      },
+      "2023-08": {
+       "gz_bayt": 11956,
+       "ham_sha256": "1cb94730bd2de46574c4b08dd0eec04aa9afe9c8d44bbcf741b3838d20cb6a97",
+       "satir": 558
+      },
+      "2023-09": {
+       "gz_bayt": 11405,
+       "ham_sha256": "1cb10431c783696f1604571dc1ae2aadb3f41c0e1c85126fbfe51ad39b39c2b2",
+       "satir": 540
+      },
+      "2023-10": {
+       "gz_bayt": 12167,
+       "ham_sha256": "8e85af6ae74384d746a1a0c966058c244c9625d0ec939cae8bf7af54eba22c96",
+       "satir": 558
+      },
+      "2023-11": {
+       "gz_bayt": 12024,
+       "ham_sha256": "74774465aa00a5dc3d630a3ce610e5422ef518a02bd3db641ff1ab55dca52d4b",
+       "satir": 540
+      },
+      "2023-12": {
+       "gz_bayt": 12548,
+       "ham_sha256": "c13ec1acfe3e4bbc483b381c99895d47add1c1126b65a47616edcde170a425b3",
+       "satir": 558
+      },
+      "2024-01": {
+       "gz_bayt": 12529,
+       "ham_sha256": "8ee5382e2a398058f3410dc975978266e1326bbe00e0d45bf2e2fd4fe9db62e0",
+       "satir": 558
+      },
+      "2024-02": {
+       "gz_bayt": 11860,
+       "ham_sha256": "3d20c7997dafed1712c9af16e144f5e6fe6d91f73bf0c7e475d7e20da000f242",
+       "satir": 522
+      },
+      "2024-03": {
+       "gz_bayt": 12902,
+       "ham_sha256": "aaf5819ac0fc19e6b08b0671f723e5c30f42888843d44724212cce95715cd007",
+       "satir": 558
+      },
+      "2024-04": {
+       "gz_bayt": 12460,
+       "ham_sha256": "87e9e3be5fda53038a401ba076917d04dcaff573896bcb421feca6bb7c0f04ba",
+       "satir": 540
+      },
+      "2024-05": {
+       "gz_bayt": 12643,
+       "ham_sha256": "6b299893e97b8dfdc5de0719d22544b4523dee8a344ca1221c7bd70fc181ad22",
+       "satir": 558
+      },
+      "2024-06": {
+       "gz_bayt": 12209,
+       "ham_sha256": "3944d6693a8874c18d79cea9d6264eda9009f6571d8c7abc33c005bf34b9f43d",
+       "satir": 540
+      },
+      "2024-07": {
+       "gz_bayt": 12665,
+       "ham_sha256": "5d691fc00bf27a618f3de9a98f24c06b19fdb0613951998ce6917cf469188538",
+       "satir": 558
+      },
+      "2024-08": {
+       "gz_bayt": 12709,
+       "ham_sha256": "f669f761eb2cbb199d27aa03581559b58ce12bd956136c6bc09f5f3b09ee3f95",
+       "satir": 558
+      },
+      "2024-09": {
+       "gz_bayt": 12097,
+       "ham_sha256": "dc4205cb7563f80b787586d7ecd1da51037418c936ddb54bc390aa48d0ee0289",
+       "satir": 540
+      },
+      "2024-10": {
+       "gz_bayt": 12485,
+       "ham_sha256": "61210a764a3f64db6167cc583009bf760e3f64e0854f3a764f49c26c9e638838",
+       "satir": 558
+      },
+      "2024-11": {
+       "gz_bayt": 12742,
+       "ham_sha256": "11de6976af6472b7d82402742c90e2fa35c585eab1fd894fe588d2f69ee85d61",
+       "satir": 540
+      },
+      "2024-12": {
+       "gz_bayt": 13279,
+       "ham_sha256": "58960e7c45c9715c8f3f6d2285960cf72d11fd034dc73de7c698c66fe7c2197a",
+       "satir": 558
+      },
+      "2025-01": {
+       "gz_bayt": 13130,
+       "ham_sha256": "b14424a2349ce76364f3c03eee25320f3e8abc7cbf20d9665f0aadef36359fb2",
+       "satir": 558
+      },
+      "2025-02": {
+       "gz_bayt": 12023,
+       "ham_sha256": "b7e5cdc6cbef945bbbd21c4a8dd927a12122effe679f920c0be3c63732b7522a",
+       "satir": 504
+      },
+      "2025-03": {
+       "gz_bayt": 13197,
+       "ham_sha256": "8c3f2b182ab9df00c818d2b1aa028b2c8e6b99606b4dd0535dd5549d877fe65c",
+       "satir": 558
+      },
+      "2025-04": {
+       "gz_bayt": 12593,
+       "ham_sha256": "5b3fa6cc9552c418884257c12ae872061451fa3cf6da4df42883692a6ccdade9",
+       "satir": 540
+      },
+      "2025-05": {
+       "gz_bayt": 13164,
+       "ham_sha256": "9f816dd047c685c0da32d93c8f7532a9f0c97dca47dfd614e7c2b38dad5754b9",
+       "satir": 558
+      },
+      "2025-06": {
+       "gz_bayt": 12620,
+       "ham_sha256": "2f404cb6c82a57ca64c5ec9b35330ca69af71a6279f0c3db8ee0f7c7ed9f9c24",
+       "satir": 540
+      },
+      "2025-07": {
+       "gz_bayt": 13185,
+       "ham_sha256": "1b7c6dae6b768310f08aeede3d24a0f00632d60dc497ed97a1a1a151486206d7",
+       "satir": 558
+      },
+      "2025-08": {
+       "gz_bayt": 13318,
+       "ham_sha256": "3cd8532784bd5f40a4d64d93e24d661be715642a2a660a8d548e61b3e5107e20",
+       "satir": 558
+      },
+      "2025-09": {
+       "gz_bayt": 12850,
+       "ham_sha256": "87deda1df675844bc9d500dd9af3148bfb87447e0542d0011ac3abdfe693f100",
+       "satir": 540
+      },
+      "2025-10": {
+       "gz_bayt": 13593,
+       "ham_sha256": "2ee2c95a879732b4f2c04d44d000b997314e9bec85e6880bdabc41b13e033343",
+       "satir": 558
+      },
+      "2025-11": {
+       "gz_bayt": 13065,
+       "ham_sha256": "8208a4ce8a6b6abf52d68c6b2d6ed08b5ea4d12c55305ffd3145ed3f756d102e",
+       "satir": 540
+      },
+      "2025-12": {
+       "gz_bayt": 13021,
+       "ham_sha256": "e31bc5668e263fa94094507517a6adac2bf867bfab7586e3eede773522c8ae67",
+       "satir": 558
+      },
+      "2026-01": {
+       "gz_bayt": 13114,
+       "ham_sha256": "02ec7603d08d2958dd9255b663e53cd4c995b6011c8ae638f9ae5c987e938868",
+       "satir": 558
+      },
+      "2026-02": {
+       "gz_bayt": 12034,
+       "ham_sha256": "dcb153ca7dd6d4ea57112490fd085ef5e3016c4e900fd2c9d0162e6a0a0a7a16",
+       "satir": 504
+      },
+      "2026-03": {
+       "gz_bayt": 13136,
+       "ham_sha256": "ecdfa4f9bc68a65a2fa212086f786e601eec673d372a3238b35cfa0b88c6c66e",
+       "satir": 558
+      },
+      "2026-04": {
+       "gz_bayt": 12573,
+       "ham_sha256": "85f00ea525572f670a7fe26daa2354be346b8921879d1b2585bf44efe9bb1614",
+       "satir": 540
+      },
+      "2026-05": {
+       "gz_bayt": 8606,
+       "ham_sha256": "696b5a86fe9bf2f68cdbd1d366a42055ef515bcf02ed0f60a7b08c75fbeef756",
+       "satir": 369
+      }
+     },
+     "satir": 28827
+    },
+    "ohlcv_daily_ham": {
+     "parcalar": {
+      "2022-01": {
+       "gz_bayt": 4069,
+       "ham_sha256": "45f31412912201d7acdbc12d2af6e5b712cc1accdaf94111fba06c98f9467bb9",
+       "satir": 155
+      },
+      "2022-02": {
+       "gz_bayt": 3681,
+       "ham_sha256": "40f9304616c1fa35e76f239f2616c91aa77760613f731768bcf5b823566ceda5",
+       "satir": 140
+      },
+      "2022-03": {
+       "gz_bayt": 4046,
+       "ham_sha256": "86d475f181892a4b95e7b95ac4f04ebc0d8087a8b601d6d8daeaae0c146fa43e",
+       "satir": 155
+      },
+      "2022-04": {
+       "gz_bayt": 3908,
+       "ham_sha256": "0e6c1c222e8c74ecfbf4be97ea869ef181fef47bc0ff3b7121ac752489ad042f",
+       "satir": 150
+      },
+      "2022-05": {
+       "gz_bayt": 4144,
+       "ham_sha256": "8a97316b3772a187a29a60f3d7c52431e8b55fd934b52f2f727ffd6a2c6b9d25",
+       "satir": 155
+      },
+      "2022-06": {
+       "gz_bayt": 3970,
+       "ham_sha256": "8e77c5b5d19d1a0b1eec99a46c3bb62ec54293fbdfb270f6c0128b1ed6293382",
+       "satir": 150
+      },
+      "2022-07": {
+       "gz_bayt": 4095,
+       "ham_sha256": "ffefc3c80805048580077c4db8c3292aff5328a11151413315f979250d429774",
+       "satir": 155
+      },
+      "2022-08": {
+       "gz_bayt": 4082,
+       "ham_sha256": "05bd092e18e791e50c3d493ea638df2ea359eddab890dba9cceb897b78c88c64",
+       "satir": 155
+      },
+      "2022-09": {
+       "gz_bayt": 3903,
+       "ham_sha256": "e0d4240b37a6e3e8050ee3aba5ca6d1c73225d9b5a9b4c2fa4e27c5bd01ac9f7",
+       "satir": 150
+      },
+      "2022-10": {
+       "gz_bayt": 3984,
+       "ham_sha256": "f5786569fab2bcc6345ac9cbb880930c667aacb5ca90cb326a7e99fe4b312db0",
+       "satir": 155
+      },
+      "2022-11": {
+       "gz_bayt": 3947,
+       "ham_sha256": "7119c8c623a4ed4f60d68811d7127f2753272dbff69bee9c35aa4002b76a0a81",
+       "satir": 150
+      },
+      "2022-12": {
+       "gz_bayt": 3971,
+       "ham_sha256": "d8062f634208f3873bb775500bf18906f2e66ce4808f046b3690d43eebe79b3b",
+       "satir": 155
+      },
+      "2023-01": {
+       "gz_bayt": 4053,
+       "ham_sha256": "16ff65db2f3d5b9ac3e40eafe77b12f315a13a89e202c9b5d1ae39be44618e6c",
+       "satir": 155
+      },
+      "2023-02": {
+       "gz_bayt": 3681,
+       "ham_sha256": "625efe0b3becd690eabe764d86bc0ffe06ec8eb74faac63410a273982d3e273b",
+       "satir": 140
+      },
+      "2023-03": {
+       "gz_bayt": 4047,
+       "ham_sha256": "2c74bad1df93afa2f40b32d7f8af634056350553e1bf80aadd5953267d1e14f7",
+       "satir": 155
+      },
+      "2023-04": {
+       "gz_bayt": 3833,
+       "ham_sha256": "2b0090c22ee4e9bb067b303c90d2fbc9904244b37fd7e33c96aebb65e5aa827e",
+       "satir": 150
+      },
+      "2023-05": {
+       "gz_bayt": 3938,
+       "ham_sha256": "3b531652a92d12b3d2c0089d7bef0c1089e9207559dce0da4964dd6cb81e7f86",
+       "satir": 155
+      },
+      "2023-06": {
+       "gz_bayt": 3846,
+       "ham_sha256": "6db2fbb86577f2ad89cb0d1311761c927c83003d0de55bcc2d9e86d796cebe05",
+       "satir": 150
+      },
+      "2023-07": {
+       "gz_bayt": 3926,
+       "ham_sha256": "3205fdcf8a1c53df7e6a2eec5d70b3927ba2cae101fe7190990db7cacbb31b2d",
+       "satir": 155
+      },
+      "2023-08": {
+       "gz_bayt": 3888,
+       "ham_sha256": "4d8ca53edfd39495a10cf5e24e5f86f454f358a30d9680230cb34703022e483a",
+       "satir": 155
+      },
+      "2023-09": {
+       "gz_bayt": 3717,
+       "ham_sha256": "f9f3e8ec349dd6857062b05fefb4a71a9d134f25c794360ce93f57dfe6c2fe69",
+       "satir": 150
+      },
+      "2023-10": {
+       "gz_bayt": 3912,
+       "ham_sha256": "5b57978bbffa6377d8d4d3534318021815e9383cf2593607b8f102b75476e594",
+       "satir": 155
+      },
+      "2023-11": {
+       "gz_bayt": 3876,
+       "ham_sha256": "5eef456767746007909d8c8a6b067e4392c9778fe4d2fb58207221a961a93246",
+       "satir": 150
+      },
+      "2023-12": {
+       "gz_bayt": 4039,
+       "ham_sha256": "cc84c27be13c52dadeeb5e08689bd840d79d4f8c518c68b21869ab6e4f006b07",
+       "satir": 155
+      },
+      "2024-01": {
+       "gz_bayt": 4047,
+       "ham_sha256": "b907247ffc101a982e5664f58c1e4ae5c61396661a095e3b1465982e23f5ba39",
+       "satir": 155
+      },
+      "2024-02": {
+       "gz_bayt": 3834,
+       "ham_sha256": "7530aa04165f8119ad1b0577227cce4af17b47f2a1e145cc48a3bb3423920646",
+       "satir": 145
+      },
+      "2024-03": {
+       "gz_bayt": 4113,
+       "ham_sha256": "64f2a3091243fbb59ba6e59c17595383a8a12cbd7d1f3b795219c69b005a2bff",
+       "satir": 155
+      },
+      "2024-04": {
+       "gz_bayt": 4003,
+       "ham_sha256": "ab5923a666703ffedceee08c71a50775191d36770549bcc48a7dbd760e5fe10d",
+       "satir": 150
+      },
+      "2024-05": {
+       "gz_bayt": 4100,
+       "ham_sha256": "51d76946364ecb6ca3801146104891b80f6d3b64799e495be9397a279913b0fa",
+       "satir": 155
+      },
+      "2024-06": {
+       "gz_bayt": 3933,
+       "ham_sha256": "d93de7c1a4d6ff5684a569c52856de10c9bb585b48acf1e0d6729e3b1a84b7f6",
+       "satir": 150
+      },
+      "2024-07": {
+       "gz_bayt": 4103,
+       "ham_sha256": "994029f72571dbfcfd966edaaa5d29576a80889a2b43631b22ee48760c40cbb1",
+       "satir": 155
+      },
+      "2024-08": {
+       "gz_bayt": 4116,
+       "ham_sha256": "6f2d4fefd1738bb36a692037c787eaca2198fd5966041411015b1ae257e1b8d3",
+       "satir": 155
+      },
+      "2024-09": {
+       "gz_bayt": 3419,
+       "ham_sha256": "a2695904baa40c137fb5df2e3b81dc8344ecc195fcb372fe0eaaddc56e053e59",
+       "satir": 130
+      },
+      "2025-05": {
+       "gz_bayt": 174483,
+       "ham_sha256": "49a7ab353b3a0b52cad27c345a3a3be4ba9ada1eccd8c54316d8a541d57841da",
+       "satir": 4966
+      },
+      "2025-06": {
+       "gz_bayt": 227674,
+       "ham_sha256": "a9cbd738a25693181e2dadcab0386a884ccbfa52b9e59a443102c2e7916fd28a",
+       "satir": 6781
+      },
+      "2025-07": {
+       "gz_bayt": 252686,
+       "ham_sha256": "cf87aba6e04bcbc0a39f0727a72afacf9af496b05d3357cb9b8f6539a97ba8d9",
+       "satir": 7800
+      },
+      "2025-08": {
+       "gz_bayt": 238053,
+       "ham_sha256": "e06d81770fff41d9ca143a7085a5c7bb4da7b142a2f8ca8fc14142817595fe82",
+       "satir": 7459
+      },
+      "2025-09": {
+       "gz_bayt": 243897,
+       "ham_sha256": "6319a945e210e32e078701fc043399742ccd853db65351691cfd0aa349e64ddf",
+       "satir": 7779
+      },
+      "2025-10": {
+       "gz_bayt": 238336,
+       "ham_sha256": "12350df8dc39e378f42a32b94792404cde9fe05cb88bab93a536908efc51db96",
+       "satir": 7800
+      },
+      "2025-11": {
+       "gz_bayt": 216745,
+       "ham_sha256": "bd5b30da1d6fd4ebaba5ed13fb4dd9e3ca64d0e181677faa7c5d13185a3be23e",
+       "satir": 7107
+      },
+      "2025-12": {
+       "gz_bayt": 238831,
+       "ham_sha256": "8f5f60b570884ca9fac35090fc9aa4ff45634e6b5e79197a2032505d4c0031fd",
+       "satir": 8123
+      },
+      "2026-01": {
+       "gz_bayt": 217397,
+       "ham_sha256": "c2eeab3e6c37349ae404bfaecf9958d204412308256bbcd4740d0f732d43b5a4",
+       "satir": 7456
+      },
+      "2026-02": {
+       "gz_bayt": 206601,
+       "ham_sha256": "9f157e10751ea52ae9140d3276641be569eeaa230891913884b7ebc7ac13f77d",
+       "satir": 7081
+      },
+      "2026-03": {
+       "gz_bayt": 213471,
+       "ham_sha256": "53aa4dde89843094d451f767d5219be56c3a7ef2f3f968262b4e27125a9aa081",
+       "satir": 7464
+      },
+      "2026-04": {
+       "gz_bayt": 203129,
+       "ham_sha256": "6e73afb13bd90e2b9164e7b7fbddf07a61cdd54f6798aed15eaa5ab44ce52c7f",
+       "satir": 7446
+      },
+      "2026-05": {
+       "gz_bayt": 159725,
+       "ham_sha256": "ceea6171aad7047eca1fc7eabcb52e0f7813934c1083122c959ca3be43def794",
+       "satir": 6494
+      },
+      "2026-06": {
+       "gz_bayt": 52440,
+       "ham_sha256": "b42ba31d3664fac092e69e938259500e3aed79f5c20e7ead4d73f54b4e85406c",
+       "satir": 1965
+      }
+     },
+     "satir": 100721
+    },
+    "ohlcv_daily_reel": {
+     "parcalar": {
+      "2016-01": {
+       "gz_bayt": 316259,
+       "ham_sha256": "9c1770425eaaf7d0c3abdb6ef4d8589590c7c70bc1593bb9d42260a3b1885f70",
+       "satir": 7119
+      },
+      "2016-02": {
+       "gz_bayt": 333063,
+       "ham_sha256": "971e654fe25a5271ce545ef7db2b110bc0cb8c8e1021c4f709c9bb48a025c91f",
+       "satir": 7473
+      },
+      "2016-03": {
+       "gz_bayt": 364196,
+       "ham_sha256": "8dc17089f7a9d091a9bf4454ff16706f859816c69a168490e8d5992f1e5881e3",
+       "satir": 8198
+      },
+      "2016-04": {
+       "gz_bayt": 332301,
+       "ham_sha256": "080ffa61e2e608da228f44b679b859567bf6279b9f618c0181a4f1468531c9ce",
+       "satir": 7506
+      },
+      "2016-05": {
+       "gz_bayt": 333061,
+       "ham_sha256": "862c678eaa22fbcf315614155505f58135f6980e40b69fabe91c870ff536aa6f",
+       "satir": 7506
+      },
+      "2016-06": {
+       "gz_bayt": 350005,
+       "ham_sha256": "383b9aa35fdd6fa5065111099fe011e5275b6b224b228264a8453c74f8e0c4ae",
+       "satir": 7863
+      },
+      "2016-07": {
+       "gz_bayt": 285898,
+       "ham_sha256": "5556e9f720ee9cc46b9e52c2607ca7dc149222fc18a5584bc84405681e91ab80",
+       "satir": 6415
+      },
+      "2016-08": {
+       "gz_bayt": 347681,
+       "ham_sha256": "32dbda7161f102256e0334208502e1a1519d851b8ae0f3d43831b0e746a696d1",
+       "satir": 7844
+      },
+      "2016-09": {
+       "gz_bayt": 286248,
+       "ham_sha256": "b7cfb35513bf6f2c1d086d99dae5c1fd164d306e8b4eea08dba1e78406e75cd6",
+       "satir": 6419
+      },
+      "2016-10": {
+       "gz_bayt": 329392,
+       "ham_sha256": "11aee40c8c41192ab6f670ab3314b195307e741afcb3ee91028464342e5c1b97",
+       "satir": 7491
+      },
+      "2016-11": {
+       "gz_bayt": 352954,
+       "ham_sha256": "9312684808e92ebab61018a2c006ef7039176351213c6a81ff8bc7f7b8265f4e",
+       "satir": 7846
+      },
+      "2016-12": {
+       "gz_bayt": 350340,
+       "ham_sha256": "d739d781e8d21d893f16b47e4c199e872a6dd74473cd69ccf5d11f35454d778d",
+       "satir": 7842
+      },
+      "2017-01": {
+       "gz_bayt": 352369,
+       "ham_sha256": "6f815eca51536ca40052ec129c3cb15bd45a9b40a9eb37c33bfc4811505c9ec0",
+       "satir": 7852
+      },
+      "2017-02": {
+       "gz_bayt": 320980,
+       "ham_sha256": "ee2aab09ff252741b458ab4762e1fc1628a654bfe3a0162a5153e8eaa4b5c82f",
+       "satir": 7157
+      },
+      "2017-03": {
+       "gz_bayt": 368063,
+       "ham_sha256": "a2cacd4fdbfc38c59facca4d1108fedd9336f7c3480842444218d44718d58c02",
+       "satir": 8228
+      },
+      "2017-04": {
+       "gz_bayt": 320691,
+       "ham_sha256": "3f9693dd08ca009864413c9e784ce07309b78acbec62116c1a9ef542fce64927",
+       "satir": 7154
+      },
+      "2017-05": {
+       "gz_bayt": 334786,
+       "ham_sha256": "897e91c4c314008fcbe5b72a5a0dfcc1376a116b037aecec85162fdf9f3545e9",
+       "satir": 7530
+      },
+      "2017-06": {
+       "gz_bayt": 321826,
+       "ham_sha256": "5c445fd79655182baac5567bc918bfd525f73a0e953e8d7e901a86dab49fc9aa",
+       "satir": 7190
+      },
+      "2017-07": {
+       "gz_bayt": 337418,
+       "ham_sha256": "87b8696fc1b1331058afc3fbabc93f499851a721e5f80754ea3a8495e7618391",
+       "satir": 7559
+      },
+      "2017-08": {
+       "gz_bayt": 352734,
+       "ham_sha256": "47d91605a0d07487ba179159a23afabe6304846ae522a2b8b4815705b7d49f44",
+       "satir": 7918
+      },
+      "2017-09": {
+       "gz_bayt": 306392,
+       "ham_sha256": "c6f136932d2d1ba451e32436029100f65fc4670da4d40e3b09bd656f39178848",
+       "satir": 6838
+      },
+      "2017-10": {
+       "gz_bayt": 357001,
+       "ham_sha256": "baafc130b21047cbbb99964a92312fb6f47afad12d7f527600b9d6bbec3c9d53",
+       "satir": 7919
+      },
+      "2017-11": {
+       "gz_bayt": 356547,
+       "ham_sha256": "c1203b2664ee06f99a20a879eaeb68ed4cefb9095c7442ee18409b5e2224c7ed",
+       "satir": 7919
+      },
+      "2017-12": {
+       "gz_bayt": 341498,
+       "ham_sha256": "c857416c6602fcb99bf34b71152f448af81e6a94a30d7c20480ee9a15714ae83",
+       "satir": 7560
+      },
+      "2018-01": {
+       "gz_bayt": 354507,
+       "ham_sha256": "ce473d52284e186943a56a7c45105916486c345b2b3b1faf357b8405c311e62e",
+       "satir": 7930
+      },
+      "2018-02": {
+       "gz_bayt": 328260,
+       "ham_sha256": "1a1d0303a694a1b418b2e2d1b48ff2733d2d42e877365f35366d8a7fddad8ec9",
+       "satir": 7286
+      },
+      "2018-03": {
+       "gz_bayt": 364907,
+       "ham_sha256": "fba7621ceb0ed7a483063c4367c9d732e6c38df98faa3c744dbd271e3212b5a2",
+       "satir": 8066
+      },
+      "2018-04": {
+       "gz_bayt": 330870,
+       "ham_sha256": "26e7853f6bdd579f65304712038c0bd60d2a4f5dcd0c3043a34dd4047729916c",
+       "satir": 7340
+      },
+      "2018-05": {
+       "gz_bayt": 368067,
+       "ham_sha256": "a7153c3263dc701c02a67fef20a111a0200f637a53fc7f317bd03ffdfb130716",
+       "satir": 8100
+      },
+      "2018-06": {
+       "gz_bayt": 333793,
+       "ham_sha256": "493559c8d9173d068317dae7b05b3e65691c9f6c8ff9feee636c94b0fa46f43a",
+       "satir": 7395
+      },
+      "2018-07": {
+       "gz_bayt": 370236,
+       "ham_sha256": "e294d7f4561cd3e0656347ac38d0424291ec8d4f31284e31a681f07c378b67e7",
+       "satir": 8137
+      },
+      "2018-08": {
+       "gz_bayt": 303087,
+       "ham_sha256": "4a6012b115b8f6a83843d37d790bfa2d25b67bc8d19e5dd7c32994d97584f007",
+       "satir": 6658
+      },
+      "2018-09": {
+       "gz_bayt": 329086,
+       "ham_sha256": "b8f7422f137c232bf87e1472e5580d908690b2f21a9ea281d7f459291da0f71c",
+       "satir": 7396
+      },
+      "2018-10": {
+       "gz_bayt": 369003,
+       "ham_sha256": "4369043a3727506b8ade17cf5f770f87b6e5e9c41568e03d2d82fdeb787cad21",
+       "satir": 8136
+      },
+      "2018-11": {
+       "gz_bayt": 369323,
+       "ham_sha256": "111729f255eed47d6ebe1335dc9f29fdaaaa9af84a28949d190a18882aad92f2",
+       "satir": 8136
+      },
+      "2018-12": {
+       "gz_bayt": 346299,
+       "ham_sha256": "2976e2a490cf6e478aa660bb1b18f4773a2caa8be54d8270fc41dde82ba15437",
+       "satir": 7758
+      },
+      "2019-01": {
+       "gz_bayt": 367499,
+       "ham_sha256": "33763b2297de5b28014aab8b6a20a4a9efb94b242735684a1f2d9f688c1dbf43",
+       "satir": 8137
+      },
+      "2019-02": {
+       "gz_bayt": 331878,
+       "ham_sha256": "4166a87199c76b577fa02e5224e1ac88d0a56fe77e165ac97f3e0ed8d36bae62",
+       "satir": 7400
+      },
+      "2019-03": {
+       "gz_bayt": 352671,
+       "ham_sha256": "dc593e00551433690352ca9cefa6f293a0ac8bc4e1ee529a805bd57257205696",
+       "satir": 7770
+      },
+      "2019-04": {
+       "gz_bayt": 351915,
+       "ham_sha256": "d3050a54e7b04bed60a5ef75cd4cc55123a3ddf67fb56c1722d456a1518ac083",
+       "satir": 7770
+      },
+      "2019-05": {
+       "gz_bayt": 370367,
+       "ham_sha256": "e31771e2fecc154e46bbbd5ef7f0760ffc7515e6aeb005013576b4e2825a4756",
+       "satir": 8153
+      },
+      "2019-06": {
+       "gz_bayt": 285919,
+       "ham_sha256": "042fd0ca26e2c08eb07b7e26f44f2056cac349790c6a94083227af9f2f7d5e49",
+       "satir": 6324
+      },
+      "2019-07": {
+       "gz_bayt": 370885,
+       "ham_sha256": "88487b406ebbfb169437aae7d33c4a34e79fe07347fdcf2b21583e8e52582a82",
+       "satir": 8203
+      },
+      "2019-08": {
+       "gz_bayt": 304161,
+       "ham_sha256": "72684a9d2b5b5ad27c9c2746f7f897c6664c738a232ff085c62e80adfef94e6c",
+       "satir": 6727
+      },
+      "2019-09": {
+       "gz_bayt": 354016,
+       "ham_sha256": "aa1fc60a39dd02ad257aa4b5639596f072be7f8531bcd71be6ad04327e10e151",
+       "satir": 7854
+      },
+      "2019-10": {
+       "gz_bayt": 371456,
+       "ham_sha256": "ed152a6f62275f335c4423388fd26e1ba225c4f21379e9431122af88347270ea",
+       "satir": 8228
+      },
+      "2019-11": {
+       "gz_bayt": 357013,
+       "ham_sha256": "63fd52aad2024cd42ce4bcf85463cd711b42f0331a210341f6ca42db3be789ae",
+       "satir": 7865
+      },
+      "2019-12": {
+       "gz_bayt": 372887,
+       "ham_sha256": "59f50f2d62b2ff22014d74d4e4347da6ec542b75dc22c19ec7ab7a7839ecc80e",
+       "satir": 8268
+      },
+      "2020-01": {
+       "gz_bayt": 374779,
+       "ham_sha256": "39947be614043b0bd0002143f178ae799b0b0c1490e02c803a25ec6b14bf720c",
+       "satir": 8272
+      },
+      "2020-02": {
+       "gz_bayt": 343805,
+       "ham_sha256": "d0e3dc5143bbe21a2ec39ca07c7ae6bb3a8d8fca4221909f7d48535c1b1475a4",
+       "satir": 7537
+      },
+      "2020-03": {
+       "gz_bayt": 377341,
+       "ham_sha256": "1d82aea3299a3faa2b54022bcddb094b5f00dcd44d03d94051ca8719a11cda93",
+       "satir": 8294
+      },
+      "2020-04": {
+       "gz_bayt": 360388,
+       "ham_sha256": "3838799cb31e459406c6b9d114bdc6d2958fbc2eb89ead363e9f94fa6b1f6251",
+       "satir": 7917
+      },
+      "2020-05": {
+       "gz_bayt": 290823,
+       "ham_sha256": "54598adf0938b9c9edc3e553af5dbeb9db07060c3031ef36c5bf751fcc7921b0",
+       "satir": 6409
+      },
+      "2020-06": {
+       "gz_bayt": 376764,
+       "ham_sha256": "4035ca53afd82160cfdfea5d7a14fa5309194d972083054691570fe37d99bb1e",
+       "satir": 8313
+      },
+      "2020-07": {
+       "gz_bayt": 360389,
+       "ham_sha256": "2fc09dd7ab8bcd2db0d833010341813d0e5d6d47e95bc112e4e00957e5f01df9",
+       "satir": 7938
+      },
+      "2020-08": {
+       "gz_bayt": 344991,
+       "ham_sha256": "b249c66fa06ec0db29908f8c641053eac35e05101808fe1364634020022d3bff",
+       "satir": 7578
+      },
+      "2020-09": {
+       "gz_bayt": 376489,
+       "ham_sha256": "9d136b54728f2fde573d4920ee5e045ce453f643bbee3b75a4c2aa2dddeb4cb4",
+       "satir": 8357
+      },
+      "2020-10": {
+       "gz_bayt": 360042,
+       "ham_sha256": "b946a169324feda91e32fa2dd848100195c58c673060897e7fe19e8488639f85",
+       "satir": 8004
+      },
+      "2020-11": {
+       "gz_bayt": 365256,
+       "ham_sha256": "78c723a209cd20b68eceb0b9c81f6d05918da8444f6a6ae7feb816d44e0342b9",
+       "satir": 8022
+      },
+      "2020-12": {
+       "gz_bayt": 399629,
+       "ham_sha256": "b9436ac99dd8ad6a3ff319e5b6950dd5c0bc05f060d3b6bae8b23d0dec8e1fcc",
+       "satir": 8812
+      },
+      "2021-01": {
+       "gz_bayt": 348920,
+       "ham_sha256": "a8cd85358018f6ac13a62e0489e254053a2166936732eab9aa3a8013aab593bc",
+       "satir": 7682
+      },
+      "2021-02": {
+       "gz_bayt": 349485,
+       "ham_sha256": "b09266ac402625bc3b369cfff53675340392854438671cec5e1f1c7d77a03879",
+       "satir": 7700
+      },
+      "2021-03": {
+       "gz_bayt": 403434,
+       "ham_sha256": "766d911450ca476011a5e846bb3a407fd2d89e75af8fca597b52355ac2780e34",
+       "satir": 8874
+      },
+      "2021-04": {
+       "gz_bayt": 370575,
+       "ham_sha256": "04f0f6816173eb2c1d85b8ba1f67572338551535c8c93a4f7d4008c9cc822360",
+       "satir": 8188
+      },
+      "2021-05": {
+       "gz_bayt": 323484,
+       "ham_sha256": "2bfcd48e8f6b9c18b63489fb01e1546d4e20643dfff4c0554be53727d2dcb2a8",
+       "satir": 7129
+      },
+      "2021-06": {
+       "gz_bayt": 402964,
+       "ham_sha256": "628e7d2fc894462e95cacedd40dc8dc1ddfbf1e2c2b547f6dc70c20c37fc5fbe",
+       "satir": 8848
+      },
+      "2021-07": {
+       "gz_bayt": 313522,
+       "ham_sha256": "b28b9d86c1b8c8054c0f289eee8679d2d6fad2b13a2edd7ea8d676090cee824f",
+       "satir": 6934
+      },
+      "2021-08": {
+       "gz_bayt": 394055,
+       "ham_sha256": "f302fabee70fa4cf2897446a5bd6fb1b88c750f1c151772abada65373d4e9fa1",
+       "satir": 8656
+      },
+      "2021-09": {
+       "gz_bayt": 417720,
+       "ham_sha256": "31afb9eda89c71e5c3bb087b57c544e112b9f2a72c52cbe894a84bf006d2d435",
+       "satir": 9191
+      },
+      "2021-10": {
+       "gz_bayt": 381923,
+       "ham_sha256": "9df86302f56a1090698a1149954e933a44da5319e32534b855e8ca77c5eb1174",
+       "satir": 8417
+      },
+      "2021-11": {
+       "gz_bayt": 428837,
+       "ham_sha256": "6e02e9dc3d1af22d96ebc1f032d97af9492e14ed6367f8eb3764fef553bba6ca",
+       "satir": 9402
+      },
+      "2021-12": {
+       "gz_bayt": 453380,
+       "ham_sha256": "c9a3ea6e801715b7dd4805953579ab69db97ed16399c264f1c388efea5f9131d",
+       "satir": 9991
+      },
+      "2022-01": {
+       "gz_bayt": 416106,
+       "ham_sha256": "971ea7e54c5ca76e195546fdf1b068b3517702d77e6cac8b3fa84f470a0f8261",
+       "satir": 9149
+      },
+      "2022-02": {
+       "gz_bayt": 397243,
+       "ham_sha256": "b4e7c28cc738065977607ae075399be64f7d90e67515a11215b50e2ba020f85a",
+       "satir": 8736
+      },
+      "2022-03": {
+       "gz_bayt": 463284,
+       "ham_sha256": "bfeae2f616e848ce65b800a52ef5f72e56a5bbe69bb7d7b7a28513f11f81d4ec",
+       "satir": 10190
+      },
+      "2022-04": {
+       "gz_bayt": 428042,
+       "ham_sha256": "a6bf2aee1f5e825cdbf05cd7088b4f5231af6726e48be54f14e81be1627337e2",
+       "satir": 9383
+      },
+      "2022-05": {
+       "gz_bayt": 372051,
+       "ham_sha256": "4e639d54a9db4da896e89044efc0adef8c95d998cae2c00b3e3e22ec4553ff9e",
+       "satir": 8134
+      },
+      "2022-06": {
+       "gz_bayt": 456336,
+       "ham_sha256": "576286c8184117ae394abe6a19509016476a28dcc5cee3c10b7d755659e67e33",
+       "satir": 10024
+      },
+      "2022-07": {
+       "gz_bayt": 375112,
+       "ham_sha256": "a26f657413e4b68b5f4cb14de7007aaa556ff792a5b22573a1d44621040d6c58",
+       "satir": 8275
+      },
+      "2022-08": {
+       "gz_bayt": 465277,
+       "ham_sha256": "0faceddc1dfc9c1844c4f51dcac3b9b7361a3f1452f42385a8ccfadbc5f5b1e8",
+       "satir": 10196
+      },
+      "2022-09": {
+       "gz_bayt": 466521,
+       "ham_sha256": "d5b1cef4cd6d201fb1348e6e1d6a3c56f25e887d482b2aaa3edc0fa653cb3faf",
+       "satir": 10230
+      },
+      "2022-10": {
+       "gz_bayt": 443990,
+       "ham_sha256": "b0656c40a35e05ea2136aadeef23d6056c6d8a5cae4c0e8f5e2666d4a49949d4",
+       "satir": 9765
+      },
+      "2022-11": {
+       "gz_bayt": 468610,
+       "ham_sha256": "c6c140af94c4e87801aaa3ab0625c7e5cadfee04481a2010fc9b49f53e5c0cad",
+       "satir": 10248
+      },
+      "2022-12": {
+       "gz_bayt": 471097,
+       "ham_sha256": "d38dcaa9e5c996c7375f0e1f9c47bce3ad645603b75689f6807b34cf8a54b52e",
+       "satir": 10330
+      },
+      "2023-01": {
+       "gz_bayt": 476981,
+       "ham_sha256": "aeca61394d9e3b1d612c6a302c150ca34c6754633a9c8efa5bb95ea4b4fb5e16",
+       "satir": 10467
+      },
+      "2023-02": {
+       "gz_bayt": 327357,
+       "ham_sha256": "17c44fa2261829cc82c4d09a30d586763b9717111c1bf65019149c31aed7aa5c",
+       "satir": 7182
+      },
+      "2023-03": {
+       "gz_bayt": 503182,
+       "ham_sha256": "6478fdf27bf2f78cac0652b9b05d3a479eb76fa072c8d485792e5290c78f2187",
+       "satir": 11052
+      },
+      "2023-04": {
+       "gz_bayt": 417355,
+       "ham_sha256": "c1df0485ef6597a3a29195e2ecb75fd23300e1ba0c9eba35dd5ac728cf51b1e4",
+       "satir": 9189
+      },
+      "2023-05": {
+       "gz_bayt": 467895,
+       "ham_sha256": "60f9ef96d2762666d14c6831f765da37d3f8ee171d15d51749d4a08f472d2915",
+       "satir": 10257
+      },
+      "2023-06": {
+       "gz_bayt": 423471,
+       "ham_sha256": "e8d16cdee79f611229df43b2a5829612f0a15df63452c5ab01a3b4014aeddd16",
+       "satir": 9342
+      },
+      "2023-07": {
+       "gz_bayt": 472718,
+       "ham_sha256": "efe1f598db99734d71f6552e13e0c02c322945b38c5c11fc32d948800192b81e",
+       "satir": 10361
+      },
+      "2023-08": {
+       "gz_bayt": 499831,
+       "ham_sha256": "f766c993ffefbfe6b77af6c858431de10a889f17c7549a5007670461ffe73ac8",
+       "satir": 10999
+      },
+      "2023-09": {
+       "gz_bayt": 483691,
+       "ham_sha256": "f145bb96f59b50757ddf05fc5e205b33bfccbd5dbe672f0a62c6c8873a2b3313",
+       "satir": 10649
+      },
+      "2023-10": {
+       "gz_bayt": 513818,
+       "ham_sha256": "027353e1e5da32ee3e690979a3c6d2993726d058c57ab55f09068f19ce1c7e1b",
+       "satir": 11294
+      },
+      "2023-11": {
+       "gz_bayt": 516988,
+       "ham_sha256": "145d9114f461be5243c30b651d92a844cf5488e248d72e1890e10c659ba0f54f",
+       "satir": 11414
+      },
+      "2023-12": {
+       "gz_bayt": 501342,
+       "ham_sha256": "1b15b98b0634711eb7de0758fd6e785a6226d106d56cf0fc10a3d4d1578d89c4",
+       "satir": 11016
+      },
+      "2024-01": {
+       "gz_bayt": 527082,
+       "ham_sha256": "fc953024d7d72d1d638de24d80c8104aeb723bad31558e2081f6a8398ae41580",
+       "satir": 11594
+      },
+      "2024-02": {
+       "gz_bayt": 500575,
+       "ham_sha256": "9f5458c4e2922c93da8dab57047a9a4232f324d932258e76a80c824c17cc2d65",
+       "satir": 11096
+      },
+      "2024-03": {
+       "gz_bayt": 509075,
+       "ham_sha256": "281156a790dbadb0ebe4f9ecfa25fc4b2e5bb62d4687add2e80d3c633a09e8a3",
+       "satir": 11216
+      },
+      "2024-04": {
+       "gz_bayt": 437797,
+       "ham_sha256": "6baa0d9ed0d86437f3b56df2833d270eaf7f9169fec11236c909733c7a70052d",
+       "satir": 9648
+      },
+      "2024-05": {
+       "gz_bayt": 537003,
+       "ham_sha256": "bbd0c7c7063ca0ab561cbbd244a765e0b820a0f5f48efb2666616999dc23e9ba",
+       "satir": 11884
+      },
+      "2024-06": {
+       "gz_bayt": 422413,
+       "ham_sha256": "1bdd281fc9a08c7122059efb43d764eba4202abafe809eac878266a6395b9c84",
+       "satir": 9290
+      },
+      "2024-07": {
+       "gz_bayt": 549951,
+       "ham_sha256": "033cd450cf44adb461b081c90307ecdb144044f1ac64c098bac786da2e9a48cb",
+       "satir": 12072
+      },
+      "2024-08": {
+       "gz_bayt": 525372,
+       "ham_sha256": "4e41b6b57d7b45402f65a7ca9a107ef3614179b82ab02e6087b68cc774299718",
+       "satir": 11577
+      },
+      "2024-09": {
+       "gz_bayt": 530759,
+       "ham_sha256": "291c3fc1ec62568753f30b159d6addbf1888db8d5ec06cb42067cbbdfecd0ba8",
+       "satir": 11678
+      },
+      "2024-10": {
+       "gz_bayt": 555283,
+       "ham_sha256": "bb278bb7f75d63733ccceaefb33d2d6be376df4622ffe84858eb0798ac36a223",
+       "satir": 12270
+      },
+      "2024-11": {
+       "gz_bayt": 530255,
+       "ham_sha256": "e487bd3ef43df806532f5cb06e985c52b72f73d0c0535a0315c7ccf2e7623c40",
+       "satir": 11718
+      },
+      "2024-12": {
+       "gz_bayt": 556383,
+       "ham_sha256": "86a2beb98af3be2f11465ae6f94655275b068f9e7b980668e3cad122e0c3d8cf",
+       "satir": 12297
+      },
+      "2025-01": {
+       "gz_bayt": 560793,
+       "ham_sha256": "609bf3779d945c0bdce2bd9a23ec769569d0495a3cc36962632e3c7b0e165a70",
+       "satir": 12376
+      },
+      "2025-02": {
+       "gz_bayt": 516139,
+       "ham_sha256": "408ca7e15d97cbd07939ee0b2dabf71ba99ec9434e16635dd24c143e51369f13",
+       "satir": 11405
+      },
+      "2025-03": {
+       "gz_bayt": 521801,
+       "ham_sha256": "4d8bab8790cc6119116b6e4677b6ebbdd77aad51374a4652168da7a7424e78a5",
+       "satir": 11460
+      },
+      "2025-04": {
+       "gz_bayt": 515371,
+       "ham_sha256": "d5c24204658760a7e45ae8c44eab8cc54dc2d517bdead9855ac9d7728d24e0a7",
+       "satir": 11460
+      },
+      "2025-05": {
+       "gz_bayt": 517999,
+       "ham_sha256": "981b185b5445040db42f1511e57d7ad069e37f3bf4e5ff6cd05a746c91bc5eb4",
+       "satir": 11460
+      },
+      "2025-06": {
+       "gz_bayt": 493920,
+       "ham_sha256": "57e05ab1319a1acdb1b7185d75649c950846c2deaea0f623849bc90a06aa47ed",
+       "satir": 10887
+      },
+      "2025-07": {
+       "gz_bayt": 571999,
+       "ham_sha256": "29f85099c06c777c2628a7e79020a7fe3eaeb367b28d6740bd0db40dc5973567",
+       "satir": 12606
+      },
+      "2025-08": {
+       "gz_bayt": 543763,
+       "ham_sha256": "d487d0f4fd7f7e770c74f9c48e039a934308379e5ed93ac434f90812d81bad14",
+       "satir": 12033
+      },
+      "2025-09": {
+       "gz_bayt": 570827,
+       "ham_sha256": "8959a24bb1c75847d8be2145b1e80a535950c4856bd129a8e9a50ccac94429c6",
+       "satir": 12631
+      },
+      "2025-10": {
+       "gz_bayt": 569501,
+       "ham_sha256": "1ac5255c1452f881f1e3e930fdc7b0e52fcf673ac0adb7ccf0e992e08f53d975",
+       "satir": 12650
+      },
+      "2025-11": {
+       "gz_bayt": 520102,
+       "ham_sha256": "d4af635f161d4f774ae231472c2bb0a3e2a948e98fe0aa86f0337c64d4a32862",
+       "satir": 11533
+      },
+      "2025-12": {
+       "gz_bayt": 596553,
+       "ham_sha256": "5a93e3cc0ddd960462dcb6f2b01e39b6e28d07cfb2f609ecfedae14d2feb8154",
+       "satir": 13304
+      },
+      "2026-01": {
+       "gz_bayt": 550671,
+       "ham_sha256": "1319a57f6ad4d442026761bf20a29cd9c41a4ad73ff3cb048c25e9b736929728",
+       "satir": 12193
+      },
+      "2026-02": {
+       "gz_bayt": 526284,
+       "ham_sha256": "2d1162058e1951fcd30b7aecd9ec54f333e14502418e2cee481a265ef08b4d3b",
+       "satir": 11695
+      },
+      "2026-03": {
+       "gz_bayt": 554238,
+       "ham_sha256": "b691c607adaea54500938786344b3376545fa99a7266542b170b1f0719b2c905",
+       "satir": 12390
+      },
+      "2026-04": {
+       "gz_bayt": 560773,
+       "ham_sha256": "24bbbecf6ced8aea9daf712175871ff7c9a0f2f4524314ff31f28d39394fe335",
+       "satir": 12443
+      },
+      "2026-05": {
+       "gz_bayt": 417729,
+       "ham_sha256": "0aa555210fb5234680c2823693c810e7235003deea6d4a24f556c6903f10986e",
+       "satir": 9491
+      },
+      "2026-06": {
+       "gz_bayt": 584322,
+       "ham_sha256": "61777c790f179739b9d79a8d688e980b486094285611a12c9409deebd7157d66",
+       "satir": 13052
+      },
+      "2026-07": {
+       "gz_bayt": 583134,
+       "ham_sha256": "33ff2f716fa0d2373bee7497b2b35771ea87f5b90e0e42c56651a6697abebaa2",
+       "satir": 13059
+      },
+      "2026-08": {
+       "gz_bayt": 557968,
+       "ham_sha256": "fd3e1edfc8e678a1d7c1ddee1dd58c476facf76ea60ff31fed6aa997ab2d909a",
+       "satir": 12495
+      },
+      "2026-09": {
+       "gz_bayt": 575414,
+       "ham_sha256": "0216b1d56d524fa39d957909a768b5ded1b51d4e2493cdcb629e1cccd1e50719",
+       "satir": 13068
+      },
+      "2026-10": {
+       "gz_bayt": 105974,
+       "ham_sha256": "4af111b1339562db21d52555d222bb1a1024f81318b23b1c11d761b3d47d13ec",
+       "satir": 2373
+      }
+     },
+     "satir": 1192134
+    },
+    "ohlcv_daily_uzun": {
+     "parcalar": {
+      "2016-01": {
+       "gz_bayt": 231288,
+       "ham_sha256": "b95c1ac500f7d420c7a2433c4e1fb6a910ddd8af0d8b757ace560dbb49f9e666",
+       "satir": 7119
+      },
+      "2016-02": {
+       "gz_bayt": 244222,
+       "ham_sha256": "dc88b420c28723d4d56f4b99afcbf9ca04500614e9f6807235b2ede57678b767",
+       "satir": 7473
+      },
+      "2016-03": {
+       "gz_bayt": 264903,
+       "ham_sha256": "168dd84644c95ccb1e1ef09cad95bc41f194329d7bc9edc54bb5b31b07731b7b",
+       "satir": 8198
+      },
+      "2016-04": {
+       "gz_bayt": 246466,
+       "ham_sha256": "94f4688c21922f994df7b485ed6d0cbe7466766f8aa31e84f31ec0ae817293b5",
+       "satir": 7506
+      },
+      "2016-05": {
+       "gz_bayt": 245959,
+       "ham_sha256": "5d479720a6734882de5cc4b4fca082c4f75a53404cf8eeb07ff7524732d0d536",
+       "satir": 7506
+      },
+      "2016-06": {
+       "gz_bayt": 254872,
+       "ham_sha256": "e02be75fa9c7e2fe95a205f6010e065615eef6f3324e0c122676aac0fc7be928",
+       "satir": 7863
+      },
+      "2016-07": {
+       "gz_bayt": 215874,
+       "ham_sha256": "358899dc6fe8821afd8994168e6f5e73bec36a308cce10b0a2c78b1a7f42f448",
+       "satir": 6415
+      },
+      "2016-08": {
+       "gz_bayt": 254374,
+       "ham_sha256": "38980fcf6b0c4f442206db6039d9875c826bd77263f33614d8a36ec0d49b2584",
+       "satir": 7844
+      },
+      "2016-09": {
+       "gz_bayt": 207981,
+       "ham_sha256": "d7b35e4288820f4930a92e59809e193fe48b47ae122174485fc74fd7f7e7e09e",
+       "satir": 6419
+      },
+      "2016-10": {
+       "gz_bayt": 242233,
+       "ham_sha256": "49e9df296b0cf037c7503b44ab5299a4a934de416197ae3c1c6920659ae261d4",
+       "satir": 7491
+      },
+      "2016-11": {
+       "gz_bayt": 256197,
+       "ham_sha256": "3f4e7481a82e25288b9b29dd64b3bedeae89c275a49f8488b70bd59e1c829b79",
+       "satir": 7846
+      },
+      "2016-12": {
+       "gz_bayt": 257847,
+       "ham_sha256": "a8ac1ea1b91a47e48e7924e2b022c22a918c03b428a439104f18ae144ee84796",
+       "satir": 7842
+      },
+      "2017-01": {
+       "gz_bayt": 259632,
+       "ham_sha256": "96793fc0dd1dca7e634ac5ff355cd57bbaa8bfc9c1dc0d27601111b209ea2668",
+       "satir": 7852
+      },
+      "2017-02": {
+       "gz_bayt": 236885,
+       "ham_sha256": "552cb8d6b5e7b2084e84446c84024d14a7c4acc7416fbffe74d267660283acac",
+       "satir": 7157
+      },
+      "2017-03": {
+       "gz_bayt": 271053,
+       "ham_sha256": "25c34ab49700b9a47b8cc84293126ebbc8e6e3eec30bde7ccb57896a5eb3827e",
+       "satir": 8228
+      },
+      "2017-04": {
+       "gz_bayt": 235962,
+       "ham_sha256": "8fe6e14b1104ff466d28d3769125cc96400c4cef6009a82232c90406a30fce16",
+       "satir": 7154
+      },
+      "2017-05": {
+       "gz_bayt": 252188,
+       "ham_sha256": "23090537b0089f7055d0097daa1d44757dee4ea532049d99848960abddcbfac2",
+       "satir": 7530
+      },
+      "2017-06": {
+       "gz_bayt": 239096,
+       "ham_sha256": "01cf7856781634f63cb5042fc7c9314649b41be0c960293e7acf3d8ba7895e7e",
+       "satir": 7190
+      },
+      "2017-07": {
+       "gz_bayt": 254594,
+       "ham_sha256": "e11c08aa6e03928d65cc9de00507abece13aa497d3aca84ef4a766dd6468d6b5",
+       "satir": 7559
+      },
+      "2017-08": {
+       "gz_bayt": 270165,
+       "ham_sha256": "4544551b1cf0b8d462aa5e721c2488c07ee952e7c910e1ef50173f0b5f2e8328",
+       "satir": 7918
+      },
+      "2017-09": {
+       "gz_bayt": 234908,
+       "ham_sha256": "ce326d308466cb8510717cabef13b74f3a0d4e7eea17c11d4fe02c0801a38584",
+       "satir": 6838
+      },
+      "2017-10": {
+       "gz_bayt": 267720,
+       "ham_sha256": "7d9534f78597ac7c714dd4e976e29ec3e99d9e12f826d8c4815d9244c2229f13",
+       "satir": 7919
+      },
+      "2017-11": {
+       "gz_bayt": 272904,
+       "ham_sha256": "22b2586c40454d167d5b194ef4fe5c3e07b19ce6f8800df970e0d95f47fefc20",
+       "satir": 7919
+      },
+      "2017-12": {
+       "gz_bayt": 255801,
+       "ham_sha256": "51f34906882123d74c85b0e4bcfd6d64b61cd8b3722517ad78974394b08266a1",
+       "satir": 7560
+      },
+      "2018-01": {
+       "gz_bayt": 269595,
+       "ham_sha256": "83c32a389d974605f6be8495a34fdb10ff011d327431d628f812975316d6ae25",
+       "satir": 7930
+      },
+      "2018-02": {
+       "gz_bayt": 249930,
+       "ham_sha256": "883ba89a1d13704226abe2249d69e0f4667f1ad614303201bb7803b3f3e4c72b",
+       "satir": 7286
+      },
+      "2018-03": {
+       "gz_bayt": 273153,
+       "ham_sha256": "5f0a756ee53f03446ab16d0c955467fbaccf87ba9ee8884fdd70a477178dccc2",
+       "satir": 8066
+      },
+      "2018-04": {
+       "gz_bayt": 254643,
+       "ham_sha256": "71497307d088ed157d8fe6e5f86f47ba5586ccb5ccec56a0ded4d37dc7062258",
+       "satir": 7340
+      },
+      "2018-05": {
+       "gz_bayt": 280818,
+       "ham_sha256": "b27338cb31adc1499addf4acbca89e91d8f552ce942ae0f171cc3dd030db812b",
+       "satir": 8100
+      },
+      "2018-06": {
+       "gz_bayt": 251138,
+       "ham_sha256": "9c52ca6081ab88fce9533b868d4372d45129e251dd736bf72d4b7653a384c6ac",
+       "satir": 7395
+      },
+      "2018-07": {
+       "gz_bayt": 278264,
+       "ham_sha256": "66a5e68f1d79f7ff78a49f51326a8fcbd9b0781f399b6c20d5917acb18301728",
+       "satir": 8137
+      },
+      "2018-08": {
+       "gz_bayt": 232910,
+       "ham_sha256": "0f1e814959f2a2c80e81fef660429234749d5de7eaa5ef1771d3ad511391d634",
+       "satir": 6658
+      },
+      "2018-09": {
+       "gz_bayt": 248784,
+       "ham_sha256": "7128739472697d62e2e9c3b27b1441a0153b3a420824143a7c2e74695ec34c3b",
+       "satir": 7396
+      },
+      "2018-10": {
+       "gz_bayt": 276435,
+       "ham_sha256": "ed7fc1a80b1a78362120f7853fcc515e68258badffb887f407536cd1235408b7",
+       "satir": 8136
+      },
+      "2018-11": {
+       "gz_bayt": 274889,
+       "ham_sha256": "ba8e2ede459125ff665cc56fb5f546ffc1e519d01d942f536f424916efffd294",
+       "satir": 8136
+      },
+      "2018-12": {
+       "gz_bayt": 262868,
+       "ham_sha256": "272747af8f820100c95bb0e35ddf19d4c4a50e3235398219d29cb84935439168",
+       "satir": 7758
+      },
+      "2019-01": {
+       "gz_bayt": 273172,
+       "ham_sha256": "199cb2491a2b5d543c90d9226a8a83173fbb3a4a8ce27723d26d1f22e12b4511",
+       "satir": 8137
+      },
+      "2019-02": {
+       "gz_bayt": 248646,
+       "ham_sha256": "31323ffa39a71bdeca10926fb9667f4a62802463e568811355e082c31bc2657b",
+       "satir": 7400
+      },
+      "2019-03": {
+       "gz_bayt": 265523,
+       "ham_sha256": "6c70830ffe245ef36940c029aaf673f128bd68fa9eff3f7b4caa45fda62cf445",
+       "satir": 7770
+      },
+      "2019-04": {
+       "gz_bayt": 258491,
+       "ham_sha256": "9f3ddbda7945a146a5e94c034cb941242aacdf85fb8b463cfb93d151f23be2d3",
+       "satir": 7770
+      },
+      "2019-05": {
+       "gz_bayt": 275340,
+       "ham_sha256": "e73524789a6634c80ca00d40ad232009415b089f05f71bf575ec9f1edd7e9b8c",
+       "satir": 8153
+      },
+      "2019-06": {
+       "gz_bayt": 211670,
+       "ham_sha256": "9eaa3c171d312bda711171506a1aacdf6c12238b8b12dd9b5eea9fb9924341e6",
+       "satir": 6324
+      },
+      "2019-07": {
+       "gz_bayt": 273506,
+       "ham_sha256": "ec9eab85a715fddc2e7e722bc12708d4d2e983bfe4dcb97876b2161a8e703d56",
+       "satir": 8203
+      },
+      "2019-08": {
+       "gz_bayt": 228213,
+       "ham_sha256": "3dd092993cd8e0ebf0349e7d54120d8cab919733ef3e6951ac302924fc8f7fc7",
+       "satir": 6727
+      },
+      "2019-09": {
+       "gz_bayt": 266766,
+       "ham_sha256": "26a344a4db47ea1048693fbb15697eb4c907a1d79089de18e33059b21bfce4a0",
+       "satir": 7854
+      },
+      "2019-10": {
+       "gz_bayt": 283041,
+       "ham_sha256": "5504c6cbe163d100507b0271337963b31548a59a900909b23e9f497f6acbeb83",
+       "satir": 8228
+      },
+      "2019-11": {
+       "gz_bayt": 272371,
+       "ham_sha256": "edef747d0b23c57fbee563444a79445c43a4c69e0b7fb1ad597f29a26b685526",
+       "satir": 7865
+      },
+      "2019-12": {
+       "gz_bayt": 289015,
+       "ham_sha256": "2a6257f419cc143c9b9714677f401b3388322dcb83db61ee1d7c965b652a8900",
+       "satir": 8268
+      },
+      "2020-01": {
+       "gz_bayt": 296310,
+       "ham_sha256": "b621fd5cfeaa3810b305b89479ba119da0bcbd52625b3f252a1eb021b4f635d0",
+       "satir": 8272
+      },
+      "2020-02": {
+       "gz_bayt": 270241,
+       "ham_sha256": "c10dc1aa10a62df46a37f5bb72a176f14a3d328562bbf01bb74e7d6d0f043074",
+       "satir": 7537
+      },
+      "2020-03": {
+       "gz_bayt": 299738,
+       "ham_sha256": "fd0e49f528eec3abbb81578e9ca7175976997c402366a4fdb4205f170a369beb",
+       "satir": 8294
+      },
+      "2020-04": {
+       "gz_bayt": 284246,
+       "ham_sha256": "11d6f0f5e3a89ec96b31f75774a9b63ff979a4af234ec81bad70142fae8542c7",
+       "satir": 7917
+      },
+      "2020-05": {
+       "gz_bayt": 230206,
+       "ham_sha256": "1d941577bfd1dd0cc539e1bed105328931ac83c35584de451f830cd8a33bd7a3",
+       "satir": 6409
+      },
+      "2020-06": {
+       "gz_bayt": 295030,
+       "ham_sha256": "2524a81be9dc323e1cc7fef7190b79176c3f96216d40f0f76550095b3f00077d",
+       "satir": 8313
+      },
+      "2020-07": {
+       "gz_bayt": 286426,
+       "ham_sha256": "200d9db15225025e439790373733a1f270ce9007548f02a87ebce20870cd9a9a",
+       "satir": 7938
+      },
+      "2020-08": {
+       "gz_bayt": 272344,
+       "ham_sha256": "43f16dd7155cade74a3bae4ddd2eb74a4297823b74d756e876b7965e808e18a7",
+       "satir": 7578
+      },
+      "2020-09": {
+       "gz_bayt": 299070,
+       "ham_sha256": "a201c30c7cb8e6f243c96f95563371cb2dcf2473ca93c8f1655f714fe8052311",
+       "satir": 8357
+      },
+      "2020-10": {
+       "gz_bayt": 289923,
+       "ham_sha256": "3ebff1c4fa4c0cb18a55c79369d8fafcc56c12a61c5e3f9ee12f01950defc77b",
+       "satir": 8004
+      },
+      "2020-11": {
+       "gz_bayt": 289400,
+       "ham_sha256": "138fc50dde4b7095ca2609a6cdddb9bfeac908aa9920383ef5a839c8b976e370",
+       "satir": 8022
+      },
+      "2020-12": {
+       "gz_bayt": 316391,
+       "ham_sha256": "73ddcebd84d4c87eb63bd9989bc1653a8b338097adf7895e6f690e818486bd26",
+       "satir": 8812
+      },
+      "2021-01": {
+       "gz_bayt": 280185,
+       "ham_sha256": "b560530ccad77c1fd70e9203dba454932101ac3861d6d7b74922ae8f80bcbb1c",
+       "satir": 7682
+      },
+      "2021-02": {
+       "gz_bayt": 281532,
+       "ham_sha256": "bd7e525d870f9d0af62a7b2ae0a4fd6d66a5bb888852042eafddbbf589e3a2c5",
+       "satir": 7700
+      },
+      "2021-03": {
+       "gz_bayt": 323054,
+       "ham_sha256": "012744128b06308a4059fc882415832cabf3703f4e7108f0cbb725d75872efa2",
+       "satir": 8874
+      },
+      "2021-04": {
+       "gz_bayt": 299001,
+       "ham_sha256": "1903ce9f7f107a91f2763c74f2aa02f6b891c722119d27782dbead9e9b24b75c",
+       "satir": 8188
+      },
+      "2021-05": {
+       "gz_bayt": 256909,
+       "ham_sha256": "4ee208072355c4546a81ccfd7b4e93e59f746304a65918042a89a281959e4faa",
+       "satir": 7129
+      },
+      "2021-06": {
+       "gz_bayt": 314904,
+       "ham_sha256": "8ce5ace7a505137770f4c45dba497d6ac42a8479b27f73b50fc24a054cc5cd3a",
+       "satir": 8848
+      },
+      "2021-07": {
+       "gz_bayt": 247658,
+       "ham_sha256": "9d67345ae8f78bf2e9f71686956fcc4050a4928968d32286ce31e987e7f2ac29",
+       "satir": 6934
+      },
+      "2021-08": {
+       "gz_bayt": 305788,
+       "ham_sha256": "88893203bc44df1c319c618ede988c32c19547d72802496114e91c948c1aa8ba",
+       "satir": 8656
+      },
+      "2021-09": {
+       "gz_bayt": 324979,
+       "ham_sha256": "5d58c5c148c5c4fad9f3ef83777911f504edb8cc8c163338a74fb483b445b57c",
+       "satir": 9191
+      },
+      "2021-10": {
+       "gz_bayt": 296159,
+       "ham_sha256": "5119a19eafdcacbbcd9128aab68bc5c5d41e197bc4823c164f1798b7bc08f2ed",
+       "satir": 8417
+      },
+      "2021-11": {
+       "gz_bayt": 333864,
+       "ham_sha256": "af4cd3a3933a40a5d1e834c11b1d74f39238113f785a03679b8d3c9c203f64de",
+       "satir": 9402
+      },
+      "2021-12": {
+       "gz_bayt": 359890,
+       "ham_sha256": "4dd9abf0fda28442895f59870524287f1a6ec7980006fc9d2117e9f2ac919992",
+       "satir": 9991
+      },
+      "2022-01": {
+       "gz_bayt": 325452,
+       "ham_sha256": "d9d1832c4d4d32a833b0763981704844557dc48c5eddebf2208fe3343004c1c1",
+       "satir": 9149
+      },
+      "2022-02": {
+       "gz_bayt": 311675,
+       "ham_sha256": "a2c5624632ddd7af859ac33136bfcdc0f0a1e5b5a17b1ccecf1cc435a09fd607",
+       "satir": 8736
+      },
+      "2022-03": {
+       "gz_bayt": 359568,
+       "ham_sha256": "7f6dfb4530742998116887ceec0dbf9fc3fee28746a06b31dee6884cfda647e5",
+       "satir": 10190
+      },
+      "2022-04": {
+       "gz_bayt": 334718,
+       "ham_sha256": "83182d1b59fff1d00a4f1195d7b3c0b7c0ab3a55632f6fafe95f9d8cf10db2eb",
+       "satir": 9383
+      },
+      "2022-05": {
+       "gz_bayt": 291816,
+       "ham_sha256": "e0c09d9ae832f898e3fa064c4107cc339ea61befdfb822da9df57b8455dee247",
+       "satir": 8134
+      },
+      "2022-06": {
+       "gz_bayt": 356039,
+       "ham_sha256": "ca478477166437577752f92783e0c489e5d4d7771171cfe3471dcf5f667d6230",
+       "satir": 10024
+      },
+      "2022-07": {
+       "gz_bayt": 296075,
+       "ham_sha256": "7e4a3e1e6302d73a548204345a592b3fd693a675efc900c2e42dbaecfd824c6c",
+       "satir": 8275
+      },
+      "2022-08": {
+       "gz_bayt": 367369,
+       "ham_sha256": "ab19296fd2a8c6cf1465eaeced231183d432268248c1ae810c20051f75540c0d",
+       "satir": 10196
+      },
+      "2022-09": {
+       "gz_bayt": 369239,
+       "ham_sha256": "620e5566a4508c0957a92b2d17604db8887674fcccb4aee7a9ba5ace3d11132c",
+       "satir": 10230
+      },
+      "2022-10": {
+       "gz_bayt": 357245,
+       "ham_sha256": "83dd2bc386720b96025e1ae3f632e566e4e8158f77dc9f28d07d03bcc8839720",
+       "satir": 9765
+      },
+      "2022-11": {
+       "gz_bayt": 376419,
+       "ham_sha256": "6c383c5b05e65214055fde65ed5acf269bd1d4e43803ff14d37b596a0aebf656",
+       "satir": 10248
+      },
+      "2022-12": {
+       "gz_bayt": 378689,
+       "ham_sha256": "65e705662bce0e30174f7b6b882d0e735ada895442c7814bb20588b1f2685e5f",
+       "satir": 10330
+      },
+      "2023-01": {
+       "gz_bayt": 384843,
+       "ham_sha256": "9cd91a7addc62379fe9f13216828b8ba9722b9d1f2055693918d5b85bf293643",
+       "satir": 10467
+      },
+      "2023-02": {
+       "gz_bayt": 263657,
+       "ham_sha256": "e49b9b37e0f69377ee785d306805da85c8e5b7fef9c63318676fae96ccc7b375",
+       "satir": 7182
+      },
+      "2023-03": {
+       "gz_bayt": 401785,
+       "ham_sha256": "8a96fb68ae8aad6f98a821e5f5bc41e5ce501331e7750777c65100a8bb77d9e9",
+       "satir": 11052
+      },
+      "2023-04": {
+       "gz_bayt": 331248,
+       "ham_sha256": "cedc9fa2a3347aaa8a2f8bbe72794732e397d8afdcc58582d12c8e1b358a735a",
+       "satir": 9189
+      },
+      "2023-05": {
+       "gz_bayt": 369257,
+       "ham_sha256": "d82c14737a5af346f1e0a092a830df6f686236b3f38df740165f45238c43c9e5",
+       "satir": 10257
+      },
+      "2023-06": {
+       "gz_bayt": 338132,
+       "ham_sha256": "90fefa3ce270ade342df8749a124e9ebb34315cc14e8f523e7fa8f71cc95c3e6",
+       "satir": 9342
+      },
+      "2023-07": {
+       "gz_bayt": 378382,
+       "ham_sha256": "15f0e1b5e1fd80a54c638f11d1dc064a00604fafb91c1047a81391cf4864f393",
+       "satir": 10361
+      },
+      "2023-08": {
+       "gz_bayt": 402163,
+       "ham_sha256": "296e733e0b9071e8c98e1ef26363a006220dd5a510b7458460eb6728294e5aad",
+       "satir": 10999
+      },
+      "2023-09": {
+       "gz_bayt": 388915,
+       "ham_sha256": "ec23a24d9ec4118627e3c68d4a962b514f867f9a57f380a2220ab7f197635efa",
+       "satir": 10649
+      },
+      "2023-10": {
+       "gz_bayt": 412617,
+       "ham_sha256": "a0eec0a6e87be3a1e6802329f32529bb42d2dac65489b8a6c89b458ee0ae9175",
+       "satir": 11294
+      },
+      "2023-11": {
+       "gz_bayt": 411543,
+       "ham_sha256": "e3d2475dff1f2832f5cdcc55e5bb0113485d9b229dc9ebcd339956aabee850b0",
+       "satir": 11414
+      },
+      "2023-12": {
+       "gz_bayt": 399279,
+       "ham_sha256": "3c0de6b48cd28c201c1ab51f51f11f98464ca4a911780977c43ae78bf328d6a7",
+       "satir": 11016
+      },
+      "2024-01": {
+       "gz_bayt": 417382,
+       "ham_sha256": "810e6e920d250826e365e158016a2ea8fdfaba434b7521bd288f506c26a54f68",
+       "satir": 11594
+      },
+      "2024-02": {
+       "gz_bayt": 401822,
+       "ham_sha256": "b463db1d0f50923e8c3d2e89d14967e294927fe7d710c2c0ba111126783236aa",
+       "satir": 11096
+      },
+      "2024-03": {
+       "gz_bayt": 406499,
+       "ham_sha256": "cb6220f4ea9c7b1df0db7b7c67ef52bb2c674aa5d2483f4e33475e11fff22080",
+       "satir": 11216
+      },
+      "2024-04": {
+       "gz_bayt": 351005,
+       "ham_sha256": "3bbcf11e1f0c012838634937c01e5e9bdb67b15cafa0177e3f9428f85949105f",
+       "satir": 9648
+      },
+      "2024-05": {
+       "gz_bayt": 429669,
+       "ham_sha256": "b673ac523af8a6ab08c244f4e6ca0eef615fe8e83538fcc6aedf0009037cb171",
+       "satir": 11884
+      },
+      "2024-06": {
+       "gz_bayt": 335333,
+       "ham_sha256": "575aee3d7b15ba9874d5470158f80aba4f49889cb2651a9fe2353ed8e0648c6d",
+       "satir": 9290
+      },
+      "2024-07": {
+       "gz_bayt": 431553,
+       "ham_sha256": "6b1fde56092e9640f80de9399945c11449dcc58f30077fa7896933a044cb2da7",
+       "satir": 12072
+      },
+      "2024-08": {
+       "gz_bayt": 413508,
+       "ham_sha256": "5221bcbe117e38655babd615aa2f1f9b4000827cd1078b82828aa525111e33e3",
+       "satir": 11577
+      },
+      "2024-09": {
+       "gz_bayt": 414394,
+       "ham_sha256": "423319a2fc8d0e71244809955e557064391c08fe2e53a839f5eee0fd3cf3c4b1",
+       "satir": 11678
+      },
+      "2024-10": {
+       "gz_bayt": 431104,
+       "ham_sha256": "f56dba28bd26f7daecb70f77b8bb031ed3f1241c11d5d86f4640f3aada315897",
+       "satir": 12270
+      },
+      "2024-11": {
+       "gz_bayt": 413500,
+       "ham_sha256": "cb10c370fe83d8ea925411011f5a4dfe2181618a5e6c0b4b0187704f6eab2fa9",
+       "satir": 11718
+      },
+      "2024-12": {
+       "gz_bayt": 431486,
+       "ham_sha256": "7e2873a37053a36fdcbd35c5aa56c21f3bbd365b90b43c58e062e0a6559551fb",
+       "satir": 12297
+      },
+      "2025-01": {
+       "gz_bayt": 432292,
+       "ham_sha256": "605d3a59ad5071d83321e26d229d3c6eb9c15c6a3a14aa265aabf2d69576ca23",
+       "satir": 12376
+      },
+      "2025-02": {
+       "gz_bayt": 397108,
+       "ham_sha256": "8323c019ac731bb3c48d9a6647d3d7d0d8afcf52d57c7dad7ed15c2eec675173",
+       "satir": 11405
+      },
+      "2025-03": {
+       "gz_bayt": 405792,
+       "ham_sha256": "d01995f3a98c42b1c4eb08eda469e81100d7e432a7fea84909e4a12293be8542",
+       "satir": 11460
+      },
+      "2025-04": {
+       "gz_bayt": 401072,
+       "ham_sha256": "63c5ae77eeea28b535f50ece268e1ec848a2a3ec8861701548113b72ab05aba1",
+       "satir": 11460
+      },
+      "2025-05": {
+       "gz_bayt": 400297,
+       "ham_sha256": "5c545bb6d1508953731f219ee0ab0e4b5f313cae78fbbed314879e7fccdd02b0",
+       "satir": 11460
+      },
+      "2025-06": {
+       "gz_bayt": 379746,
+       "ham_sha256": "6166a46cb8d1bee2a4eb3626f3631282c32c0c1f526503e7454689d4abf6ff28",
+       "satir": 10887
+      },
+      "2025-07": {
+       "gz_bayt": 438108,
+       "ham_sha256": "d3770c83242009c9d0c187ad7a32e92d597ddfa873b5bf14a2df457192f412c5",
+       "satir": 12606
+      },
+      "2025-08": {
+       "gz_bayt": 418358,
+       "ham_sha256": "41fb108b0dcd9fbe8b9b4a021e7f730e03d3527598b1e1c69077b4fd25338cbe",
+       "satir": 12033
+      },
+      "2025-09": {
+       "gz_bayt": 438917,
+       "ham_sha256": "9f3eb8665f6bf3325ee8d977d83579693838ab7c893b9af9a2aa053bae1e8421",
+       "satir": 12631
+      },
+      "2025-10": {
+       "gz_bayt": 434955,
+       "ham_sha256": "8651506551e7491e6f1223a96a2829e65c8b861b40e9ec37bab4cb84718dff94",
+       "satir": 12650
+      },
+      "2025-11": {
+       "gz_bayt": 396293,
+       "ham_sha256": "ab87b1410c652273d2dc9cb4c3be1af3861966c3f1f4b1a800a4a748703dafc4",
+       "satir": 11533
+      },
+      "2025-12": {
+       "gz_bayt": 446783,
+       "ham_sha256": "1df5ee42b4c738a19e99e8406ad6f3042cd28dd876e4ccef11803209d46ebe07",
+       "satir": 13304
+      },
+      "2026-01": {
+       "gz_bayt": 412476,
+       "ham_sha256": "cad516a68cdb9105726fdb82e580ae44d650c894b2cdce41fc34ea4a461d81f1",
+       "satir": 12193
+      },
+      "2026-02": {
+       "gz_bayt": 397012,
+       "ham_sha256": "2213deba83e100664a55cc2686e144f32872a9691fc195493072bb8dd0751436",
+       "satir": 11695
+      },
+      "2026-03": {
+       "gz_bayt": 418020,
+       "ham_sha256": "c2489e83009d2e3ade9c0b372b67f91c0386dab0b198d85c9b26ca317b0030e7",
+       "satir": 12390
+      },
+      "2026-04": {
+       "gz_bayt": 417938,
+       "ham_sha256": "0a9f1ae1a0560937943e00bfc713ac39a594bc8965272c8620b5b897288ab30c",
+       "satir": 12443
+      },
+      "2026-05": {
+       "gz_bayt": 318156,
+       "ham_sha256": "e725846649eb28a2482a54ac049134956172853fba16c2553a100b64d59c182a",
+       "satir": 9491
+      },
+      "2026-06": {
+       "gz_bayt": 427671,
+       "ham_sha256": "30446355d45284c3ae737650b34960457627957d1216c5dcdef93d814569fac0",
+       "satir": 13052
+      },
+      "2026-07": {
+       "gz_bayt": 420683,
+       "ham_sha256": "30ce2ab1d20ed60d0187d74b52643b7944b80161e4efb53ca0b74964e655f13c",
+       "satir": 13059
+      },
+      "2026-08": {
+       "gz_bayt": 399630,
+       "ham_sha256": "d66e9f50e336c803f15dd0c45d97e4015bfcff452e18b3f47fbc49a3e510113a",
+       "satir": 12495
+      },
+      "2026-09": {
+       "gz_bayt": 419975,
+       "ham_sha256": "2b030bcdc3aebef795ead010cc7f017ca99c98e5d523d9922507a7759cdb1436",
+       "satir": 13068
+      },
+      "2026-10": {
+       "gz_bayt": 78246,
+       "ham_sha256": "1888647ba74b3d5e5cee08a833e2f57f50546a285c09e368de45872d4629d552",
+       "satir": 2373
+      }
+     },
+     "satir": 1192134
+    },
+    "ohlcv_daily_yf_arsiv": {
+     "parcalar": {
+      "2022-01": {
+       "gz_bayt": 4109,
+       "ham_sha256": "aaa1bf97b2f88e8fc8a7c6b53ce66d7ba587ef506165732ada3ed2e5462a3c4e",
+       "satir": 155
+      },
+      "2022-02": {
+       "gz_bayt": 3710,
+       "ham_sha256": "c913de4f09d9a83235d04097e9c89bcdc51bfc8c3e9e6bb023f519ab05bf854c",
+       "satir": 140
+      },
+      "2022-03": {
+       "gz_bayt": 4077,
+       "ham_sha256": "4d30978ff060a67cdc969b7770a5cae537a100080c3a79864acd52ebb683d5ee",
+       "satir": 155
+      },
+      "2022-04": {
+       "gz_bayt": 3947,
+       "ham_sha256": "c8921b0c0b4c75c15e83c6ae090b2fbd0e3d38642d62cd4b6adb09c18525cf99",
+       "satir": 150
+      },
+      "2022-05": {
+       "gz_bayt": 4177,
+       "ham_sha256": "dc610dbdc587ac859712b0320c30286a4eeb6f179b8d38126d7d303da7ad24fc",
+       "satir": 155
+      },
+      "2022-06": {
+       "gz_bayt": 4008,
+       "ham_sha256": "90f9928ef649d3f68871cc431d07181400aa950da17490a167329db671ba8f4b",
+       "satir": 150
+      },
+      "2022-07": {
+       "gz_bayt": 4121,
+       "ham_sha256": "2a9e87dc202ef1d46e3f9bbfe3c400efc2df10960baca9a6deea52a8e1ae3e8b",
+       "satir": 155
+      },
+      "2022-08": {
+       "gz_bayt": 4115,
+       "ham_sha256": "6f739842bd4489feb7b1ebe00f224cc64eedc481956b60d119c5fdd5580334f7",
+       "satir": 155
+      },
+      "2022-09": {
+       "gz_bayt": 3937,
+       "ham_sha256": "34b413a6dc294637b322f20c3aa03fd662ce3b33a4482abee0ab05cde469d2eb",
+       "satir": 150
+      },
+      "2022-10": {
+       "gz_bayt": 4020,
+       "ham_sha256": "5124b9bae2dff339021d658a3eef41a13db4dedc0afbfb07f6f3faef9217a0f0",
+       "satir": 155
+      },
+      "2022-11": {
+       "gz_bayt": 3976,
+       "ham_sha256": "2bfba352cebef0dccd09339d7fbad0fe582b6d82189dcb9a453712f830fe5e72",
+       "satir": 150
+      },
+      "2022-12": {
+       "gz_bayt": 4001,
+       "ham_sha256": "48a7d8bf43a28f4bf1b2ddf43d17710a09c36d5c14896a77eba2f0a86df80fc7",
+       "satir": 155
+      },
+      "2023-01": {
+       "gz_bayt": 4087,
+       "ham_sha256": "58e56c6cd42bb1654c684abc71c4bff7917e8c6e58b574db3c23f712b930e335",
+       "satir": 155
+      },
+      "2023-02": {
+       "gz_bayt": 3709,
+       "ham_sha256": "48ff55c65104beadd48d1e40f214efb0ca8b32c1cf2fef78ea4514d96c6da85f",
+       "satir": 140
+      },
+      "2023-03": {
+       "gz_bayt": 4081,
+       "ham_sha256": "9b752774d5bfd5c0965bb883e0e2b117e3b39de4f5036881a931c6502a349923",
+       "satir": 155
+      },
+      "2023-04": {
+       "gz_bayt": 3862,
+       "ham_sha256": "451b33e5b908a7a2d02406e00c716c5bf0afef10261ee6deca6069f812eb1942",
+       "satir": 150
+      },
+      "2023-05": {
+       "gz_bayt": 3967,
+       "ham_sha256": "6c4a2b7696cf41636dc013b3d886d32662e449c6aeeb74a26989e0e74dab0215",
+       "satir": 155
+      },
+      "2023-06": {
+       "gz_bayt": 3875,
+       "ham_sha256": "c76cd438ea454235f8c1da2d068d6d56fd4f820c40c40de342f8ee17fb96747e",
+       "satir": 150
+      },
+      "2023-07": {
+       "gz_bayt": 3959,
+       "ham_sha256": "1fa40eab40659c4815d2fb887be0e583956c62bee1ed842e11250c53263b29f6",
+       "satir": 155
+      },
+      "2023-08": {
+       "gz_bayt": 3920,
+       "ham_sha256": "95931fb3dfdd81e448a19335f0ece037b09439fdc7ccaa1ffb4312b4cc56aa27",
+       "satir": 155
+      },
+      "2023-09": {
+       "gz_bayt": 3752,
+       "ham_sha256": "0b48b8cdf9734ee27f4002fcc3cdd7119ea9d46e443042f6e556170327b8bf6f",
+       "satir": 150
+      },
+      "2023-10": {
+       "gz_bayt": 3945,
+       "ham_sha256": "6cc991a071f09ddb51f861a1d909e45d17aba3b1283658e6a4ffb5d035531b1b",
+       "satir": 155
+      },
+      "2023-11": {
+       "gz_bayt": 3908,
+       "ham_sha256": "10e5fd589f0b7121ac393673863d697824a5b59b7b21806d53bfbcbe05577a11",
+       "satir": 150
+      },
+      "2023-12": {
+       "gz_bayt": 4076,
+       "ham_sha256": "6319591bb7b73caea77ed14546dc313430b6f630cec48eee4115911b18e72539",
+       "satir": 155
+      },
+      "2024-01": {
+       "gz_bayt": 4076,
+       "ham_sha256": "20002d309b53cd71b2815f1e7dda46d24a5f3fe4c59e73ba328506576a48f372",
+       "satir": 155
+      },
+      "2024-02": {
+       "gz_bayt": 3869,
+       "ham_sha256": "e27d8b376e74add0ab5c50214dcf6c521462ed5bf0ef9b8f2a7aa72adc1f4505",
+       "satir": 145
+      },
+      "2024-03": {
+       "gz_bayt": 4150,
+       "ham_sha256": "a994bfdc8106a1c029a81e0ae0e2f709f7e219da173d907f6a461b7dee9bb58c",
+       "satir": 155
+      },
+      "2024-04": {
+       "gz_bayt": 4033,
+       "ham_sha256": "06803b599b4cbc5323f3eae102b4b94acc1bf617eb8e2bc90bfe891814d474fb",
+       "satir": 150
+      },
+      "2024-05": {
+       "gz_bayt": 4129,
+       "ham_sha256": "6e2d66fd788e29222ac1f0a6833e63a25bee1d975c71691860be565e80de4ed3",
+       "satir": 155
+      },
+      "2024-06": {
+       "gz_bayt": 3960,
+       "ham_sha256": "22fa557b01866f93d24744df4a65010fda2b440d8ba7e95c28c54daa533cc8ce",
+       "satir": 150
+      },
+      "2024-07": {
+       "gz_bayt": 4138,
+       "ham_sha256": "c4f2741a72ef975b323f911e2fdc51ba0a4cab1a6821d4f0ea3037f6109cc80d",
+       "satir": 155
+      },
+      "2024-08": {
+       "gz_bayt": 4154,
+       "ham_sha256": "71355993de9d49ce9171e06715b2661ccce7901e796825ec8edc9f04f5142845",
+       "satir": 155
+      },
+      "2024-09": {
+       "gz_bayt": 3450,
+       "ham_sha256": "e8819ca7a17dc1cd200e02d0fabf619c08b9322b803bee55e80ed9d34d3d55a5",
+       "satir": 130
+      },
+      "2025-05": {
+       "gz_bayt": 179796,
+       "ham_sha256": "2c4c1182c099fce72c9c67f2eae90677aaf0157f0a7b573feced37cffb3e8757",
+       "satir": 4952
+      },
+      "2025-06": {
+       "gz_bayt": 234145,
+       "ham_sha256": "831145a1893530e8153815003b2c9df5e9a611eb3c378815a1c1e561688089f2",
+       "satir": 6762
+      },
+      "2025-07": {
+       "gz_bayt": 259077,
+       "ham_sha256": "341e7b4f8bdc4b74a64ab019c804ded2a0002b42a9200db0503ef299a6d5eac9",
+       "satir": 7800
+      },
+      "2025-08": {
+       "gz_bayt": 244010,
+       "ham_sha256": "15674cbc481858b3b5f64914a22e25ec6b28483bad580e3a8375e27cbebbfdfe",
+       "satir": 7459
+      },
+      "2025-09": {
+       "gz_bayt": 250019,
+       "ham_sha256": "189c2f3ae837839a50da7427d8676419d1d84de0456e4bb3b09b9f7dae864075",
+       "satir": 7779
+      },
+      "2025-10": {
+       "gz_bayt": 244060,
+       "ham_sha256": "3c8bcead4da409953aafae03f9065595e4e5a47ef436639b92df4704d0d9653d",
+       "satir": 7800
+      },
+      "2025-11": {
+       "gz_bayt": 222010,
+       "ham_sha256": "4626f97d9625f979c753ba9ef746892ba82baa9dbe9bf7f4ed36840c786af9af",
+       "satir": 7107
+      },
+      "2025-12": {
+       "gz_bayt": 242923,
+       "ham_sha256": "374d73d7a4d14cceb24f06e3bb6a3b3059c125c24f173f5272dd99865783f650",
+       "satir": 8123
+      },
+      "2026-01": {
+       "gz_bayt": 220251,
+       "ham_sha256": "a0ecf6b7578f242fdb4b8b0539eb001308abfcf09772cfde992722987b7b3bc7",
+       "satir": 7456
+      },
+      "2026-02": {
+       "gz_bayt": 207865,
+       "ham_sha256": "41c075c75f9a60287316b0e91956b2143e3e7c1b377c6afc80f6ca8ec16f2887",
+       "satir": 7081
+      },
+      "2026-03": {
+       "gz_bayt": 214782,
+       "ham_sha256": "ae5d1736fcc8b877a502e339973632895803c5ce37173c06d6fec18d166cb1fe",
+       "satir": 7464
+      },
+      "2026-04": {
+       "gz_bayt": 204444,
+       "ham_sha256": "7e0f23e6010685530388af3b5c2f740cd0af33e06d2253b5323a04668d0f14bb",
+       "satir": 7446
+      },
+      "2026-05": {
+       "gz_bayt": 160240,
+       "ham_sha256": "0b403af1bd68a1ba4f2554a82d26c1129a1d3eb974f3aad198597724b0a4a6ce",
+       "satir": 6494
+      },
+      "2026-06": {
+       "gz_bayt": 52722,
+       "ham_sha256": "8d6d59b35136ea4013d5e1e6be2463523c6fe222e5b08fae009c21c26a3dee4b",
+       "satir": 1965
+      }
+     },
+     "satir": 100688
+    },
+    "piyasa_degeri": {
+     "parcalar": {
+      "2021-01": {
+       "gz_bayt": 82743,
+       "ham_sha256": "5fd212548f6853ca2cad3722c18ce74f7cde27593d6e11fc3a35db4d677ff015",
+       "satir": 4360
+      },
+      "2021-02": {
+       "gz_bayt": 82598,
+       "ham_sha256": "2175b3181dd2474797669f65cece45fc3a30f5efef45cadb058be3b2da37f29b",
+       "satir": 4360
+      },
+      "2021-03": {
+       "gz_bayt": 93813,
+       "ham_sha256": "f9654d75e6f3d3dddc2858962a89e292ebc48fefeab92634e2f403c1fa26c809",
+       "satir": 5014
+      },
+      "2021-04": {
+       "gz_bayt": 88378,
+       "ham_sha256": "9d2367b74db636861c8a49b597c9cc37e233ae2cde81e9440af47e77a06a610b",
+       "satir": 4636
+      },
+      "2021-05": {
+       "gz_bayt": 75836,
+       "ham_sha256": "3bf6760ca6f018f894ab2ba4cfbe6685ce9fde94b16afb8cfae2cc2cf7f70a7f",
+       "satir": 4051
+      },
+      "2021-06": {
+       "gz_bayt": 92145,
+       "ham_sha256": "22a1d2680b1b2ea865001dc5116a94aa241921b146f679f17272680c102a5cfb",
+       "satir": 5026
+      },
+      "2021-07": {
+       "gz_bayt": 73042,
+       "ham_sha256": "ad25625c83ac9d74bdf4833d13afece105482df375e2524617adc1d0d957db5c",
+       "satir": 3923
+      },
+      "2021-08": {
+       "gz_bayt": 87689,
+       "ham_sha256": "04b0b1aab4405c08161bf91058fffc30dc5fa205a432046c4becdc33bcbf93d9",
+       "satir": 4872
+      },
+      "2021-09": {
+       "gz_bayt": 92826,
+       "ham_sha256": "1ca8ff6d66d11ecc7fa88f97d1376868cd916449256b4b9dad96245e4666a777",
+       "satir": 5126
+      },
+      "2021-10": {
+       "gz_bayt": 83162,
+       "ham_sha256": "5aa3bb802382a94a0c881451adc57e9c2b1508fe8af44bab60baaf1807bfe1db",
+       "satir": 4680
+      },
+      "2021-11": {
+       "gz_bayt": 94541,
+       "ham_sha256": "f924b7d840aad2abf55214e6758809b33428905f152b51dc232d3573bc77ab6a",
+       "satir": 5194
+      },
+      "2021-12": {
+       "gz_bayt": 103190,
+       "ham_sha256": "824b52c6ff64e58f030557d7a2eaebd3900debaffd5c37ef371322eabd6a8d39",
+       "satir": 5497
+      },
+      "2022-01": {
+       "gz_bayt": 92926,
+       "ham_sha256": "ecf354655a5a6aff7b428b302a8fab6f519afec7d70cd20502a8b25311f8fc3b",
+       "satir": 5033
+      },
+      "2022-02": {
+       "gz_bayt": 89879,
+       "ham_sha256": "429dafd8fc9daa81614dd64219c46a4e1311ebde504c466b62a95098032530ab",
+       "satir": 4803
+      },
+      "2022-03": {
+       "gz_bayt": 101425,
+       "ham_sha256": "8aa07c2dba2e3687b6b98f18abbb5171ae933ca46ccc85fe19f24a179dccf52d",
+       "satir": 5570
+      },
+      "2022-04": {
+       "gz_bayt": 95790,
+       "ham_sha256": "2b4fac1f1150bb5c09289ee9cecac3b97f07ec477751e7ddcc4a681feaf3fff9",
+       "satir": 5129
+      },
+      "2022-05": {
+       "gz_bayt": 84530,
+       "ham_sha256": "83435b24815dff7b9938af26756964f622654acd6fc8a6569e69b222d21e1fea",
+       "satir": 4446
+      },
+      "2022-06": {
+       "gz_bayt": 100279,
+       "ham_sha256": "db85b4e82f1b67e0a4d66bfb82d7e5e4653524186b0966ace900fce5897ef6fe",
+       "satir": 5461
+      },
+      "2022-07": {
+       "gz_bayt": 85098,
+       "ham_sha256": "cff0cc5cf544aaf0247bf95061976e1961c28f70542d796526e4aed0cdfe6272",
+       "satir": 4482
+      },
+      "2022-08": {
+       "gz_bayt": 103030,
+       "ham_sha256": "bc27c972e5f01f29e511543f1fb663b7df4e391c1734bd047bc4c77ade9ba722",
+       "satir": 5508
+      },
+      "2022-09": {
+       "gz_bayt": 103147,
+       "ham_sha256": "3b877b0a6962df58782a454ee602a61314efa8613de1a875c86f2d68db54f5fe",
+       "satir": 5522
+      },
+      "2022-10": {
+       "gz_bayt": 102644,
+       "ham_sha256": "8813f40c642aca635cdad075da6fc30918fccce97e163414f2e73454abc37f54",
+       "satir": 5271
+      },
+      "2022-11": {
+       "gz_bayt": 107284,
+       "ham_sha256": "0a0264c4cdfb3ff0fbc7bff91491234a47d3b916482631fc402816b9517f3e5a",
+       "satir": 5533
+      },
+      "2022-12": {
+       "gz_bayt": 106131,
+       "ham_sha256": "b980ad4056fe1dc2c0b8120c24296d1cc9b79a26e7ec9c7b1a886f6d190e793f",
+       "satir": 5551
+      },
+      "2023-01": {
+       "gz_bayt": 108204,
+       "ham_sha256": "55437bf43a0965d2566949e7157d93ed22c5bc39238993388a4c7f33996d378d",
+       "satir": 5596
+      },
+      "2023-02": {
+       "gz_bayt": 75793,
+       "ham_sha256": "f0dc5e3597cacf09c74a8a857c10b9e58361f83cd82ff68a9542eef556fdcbda",
+       "satir": 3837
+      },
+      "2023-03": {
+       "gz_bayt": 113723,
+       "ham_sha256": "7a6cf9794e518094e6030934be6ce53fc30647d5d8919752468c0f53d2b47a83",
+       "satir": 5917
+      },
+      "2023-04": {
+       "gz_bayt": 94610,
+       "ham_sha256": "e9bd462375527c73fdd30c8b9915058874e6c201f77b297045c601c9dc92fe2a",
+       "satir": 4930
+      },
+      "2023-05": {
+       "gz_bayt": 104329,
+       "ham_sha256": "c01db0652481bee65bb3f1f7ebf0daa1357adba1bd82cf0b31741c2fa33fe8a0",
+       "satir": 5490
+      },
+      "2023-06": {
+       "gz_bayt": 97698,
+       "ham_sha256": "23637385c2f783a5a6421a6e2123c107180e8e037aa98d667f36a1c6759c80ca",
+       "satir": 4988
+      },
+      "2023-07": {
+       "gz_bayt": 107258,
+       "ham_sha256": "bdb236112db864c182eb8877572aaaa40ee0b5a81d6ab9c1f31c6eed628722bf",
+       "satir": 5523
+      },
+      "2023-08": {
+       "gz_bayt": 113579,
+       "ham_sha256": "62cdcc770146d746762b088f2385af8753c91b79c0ddc9a1ec6d321fa27479a2",
+       "satir": 5822
+      },
+      "2023-09": {
+       "gz_bayt": 108498,
+       "ham_sha256": "ab822e952c3fc14075a738e68e9c65061e6f7818289d0a3fc99db59d78111363",
+       "satir": 5607
+      },
+      "2023-10": {
+       "gz_bayt": 114629,
+       "ham_sha256": "96d7ba5dce6f85b1637a283b7943d48c2889bffbc4cadd4379f88b8a8e2bbef9",
+       "satir": 5896
+      },
+      "2023-11": {
+       "gz_bayt": 111774,
+       "ham_sha256": "735602e9c3879927035dca74abd3754f44847abab619b39eeafde0692fea9587",
+       "satir": 5896
+      },
+      "2023-12": {
+       "gz_bayt": 109381,
+       "ham_sha256": "979d97d02532be8b08ecc9a7425c45c917eb172b3e5d84686ba92ed3d9846c26",
+       "satir": 5640
+      },
+      "2024-01": {
+       "gz_bayt": 112309,
+       "ham_sha256": "1d77159777ae4d6cbb9ce37a01edb6bfd891f2a56b15c2f5d976769ee2ca7ab4",
+       "satir": 5918
+      },
+      "2024-02": {
+       "gz_bayt": 107943,
+       "ham_sha256": "e01b1c8fcc312ee40926e5f0bf6944f48f11c3c55b9582a23452c15786943b44",
+       "satir": 5649
+      },
+      "2024-03": {
+       "gz_bayt": 108828,
+       "ham_sha256": "5d14f5d724e71f4176c10a3f330dbd315a1e33de6940a2416c57abe0897ef2ae",
+       "satir": 5687
+      },
+      "2024-04": {
+       "gz_bayt": 95070,
+       "ham_sha256": "ce75118a61bc2df6bed67369cd8dd78ff3fa85b5c3ccdeb65ef472c877ef5eae",
+       "satir": 4878
+      },
+      "2024-05": {
+       "gz_bayt": 114376,
+       "ham_sha256": "3a76d034d702b0b72dc640a1174e9d92ff6a73e5f80b08d2a4b2d90ceb93c36a",
+       "satir": 5966
+      },
+      "2024-06": {
+       "gz_bayt": 91194,
+       "ham_sha256": "5818a09f672722590ffce4f5d51d263747a54d632b0bb7fe185794df328f1bc4",
+       "satir": 4624
+      },
+      "2024-07": {
+       "gz_bayt": 113599,
+       "ham_sha256": "d550a040cd5b73e11057cfaff5f129b629cb429cd5e708ee6253eaf02df89eb0",
+       "satir": 5984
+      },
+      "2024-08": {
+       "gz_bayt": 110356,
+       "ham_sha256": "428fc7cca391356e2e5db0a6324b7d0a1824532f8d577cecb58772e635adf717",
+       "satir": 5712
+      },
+      "2024-09": {
+       "gz_bayt": 108438,
+       "ham_sha256": "790e27d8ba4ea112bb85139ba73aacdafebedb583be7ca3206d5865bf6b78745",
+       "satir": 5712
+      },
+      "2024-10": {
+       "gz_bayt": 113566,
+       "ham_sha256": "69c3ad88999ae7de49c8f13a5a7dfa23df9410664357df2d2f9a3fea675d0e87",
+       "satir": 5984
+      },
+      "2024-11": {
+       "gz_bayt": 109326,
+       "ham_sha256": "872c0198d9ba873e79a3fe1b2a3af3a9cb90471a9c8a6f9216dd58e2d609630a",
+       "satir": 5712
+      },
+      "2024-12": {
+       "gz_bayt": 114389,
+       "ham_sha256": "93acd46cb996d69bec041704dbbec195c6889523e7d2f364811316f1c4928b72",
+       "satir": 5984
+      },
+      "2025-01": {
+       "gz_bayt": 113579,
+       "ham_sha256": "a2e051ebaa339307eb8028855c106d8a1949abe2ae3fa1efc898fa3fd469b709",
+       "satir": 5984
+      },
+      "2025-02": {
+       "gz_bayt": 103578,
+       "ham_sha256": "8742b4f40b42ac91f7493983ef4df0334568e978b895a1af10cba31e1646924b",
+       "satir": 5440
+      },
+      "2025-03": {
+       "gz_bayt": 107794,
+       "ham_sha256": "08d9342dc6aeb8abf4f9c6d6c1f3f423f462286e2f3ca19130d7d0ff11a8394e",
+       "satir": 5440
+      },
+      "2025-04": {
+       "gz_bayt": 105450,
+       "ham_sha256": "4b876e18261ba08140585f53308c16596b03912bb42c21b18b9c34da135f312c",
+       "satir": 5440
+      },
+      "2025-05": {
+       "gz_bayt": 106595,
+       "ham_sha256": "4f1fc33916aba0dea8f22036cc947d66ab880868b89e00d0f64023d25bf8128a",
+       "satir": 5440
+      },
+      "2025-06": {
+       "gz_bayt": 101777,
+       "ham_sha256": "f5656fdc24efdb849c8a7f397603e8b8c64466d9a16dda6a657928b62d11b1d1",
+       "satir": 5168
+      },
+      "2025-07": {
+       "gz_bayt": 115640,
+       "ham_sha256": "4f3ab9542ccf44eb9a9f6a56ee88de5d5f39b0b22f14f7d9270f94bf4f1bb82c",
+       "satir": 5984
+      },
+      "2025-08": {
+       "gz_bayt": 111403,
+       "ham_sha256": "f761d68c46457917fcd2992aac16ed5d3a09cad1ffee5f2e13f146fea7063b14",
+       "satir": 5712
+      },
+      "2025-09": {
+       "gz_bayt": 116984,
+       "ham_sha256": "a74784a4846d84bdc84399aefde389b641602ecf96d18f046a09611910c85ef5",
+       "satir": 5984
+      },
+      "2025-10": {
+       "gz_bayt": 115425,
+       "ham_sha256": "731c1c8ed2878914d8ef011a7555d90a63f807d99e532ea5601336f014091bc3",
+       "satir": 5984
+      },
+      "2025-11": {
+       "gz_bayt": 106494,
+       "ham_sha256": "3cec450c311086a1ec691db483ad0e9800db745c8b5534fe76057c4506c4daf3",
+       "satir": 5440
+      },
+      "2025-12": {
+       "gz_bayt": 118123,
+       "ham_sha256": "421e581bb214b50ef749ab4cdc185f0c573739c6bb149dd17d6360503ebd3abf",
+       "satir": 6256
+      },
+      "2026-01": {
+       "gz_bayt": 109766,
+       "ham_sha256": "9e8ae3250ef6c1ed9966825a381e97ceb2b006a20c1fb0b9f76e160baf70f729",
+       "satir": 5682
+      },
+      "2026-02": {
+       "gz_bayt": 106203,
+       "ham_sha256": "7e803ed3529a2d865356af80d4e5a926542d6d0484cfe9899ff5340a2a41519a",
+       "satir": 5400
+      },
+      "2026-03": {
+       "gz_bayt": 110327,
+       "ham_sha256": "7e31650462cec39a3bf8c71b00d007aab4b777f2175d1151c687c44db8d67414",
+       "satir": 5670
+      },
+      "2026-04": {
+       "gz_bayt": 111479,
+       "ham_sha256": "6852e929bd600b67a349efd62c4ed61cf448335e92dd763da35d6c60fdc747d5",
+       "satir": 5670
+      },
+      "2026-05": {
+       "gz_bayt": 88068,
+       "ham_sha256": "f4e4f309d5603dcb0d6e00304773bead5bfdc7f81a4411ba095a5107c3508090",
+       "satir": 4320
+      },
+      "2026-06": {
+       "gz_bayt": 115571,
+       "ham_sha256": "373fdaf95e1bd71364f6e3146f7db24f8c8a1f645ddd788646ad3c1e57da2d3c",
+       "satir": 5940
+      },
+      "2026-07": {
+       "gz_bayt": 134945,
+       "ham_sha256": "671be77855e009d16ee6d879763dba8a923d65d58211225894634138994029c2",
+       "satir": 6830
+      },
+      "2026-08": {
+       "gz_bayt": 233987,
+       "ham_sha256": "1e6f9a532e564b93aaffbbd40d67576405bccfb55cdd328b65486d7194a5715a",
+       "satir": 12343
+      },
+      "2026-09": {
+       "gz_bayt": 262036,
+       "ham_sha256": "9c97f68abaea1f090f5711839460af9c8a053a6c76d7e69afb10667d9f5af286",
+       "satir": 13068
+      },
+      "2026-10": {
+       "gz_bayt": 52540,
+       "ham_sha256": "59b3ce8eed157d6422ec28f04167284414e8e1d21d1f986ea5ff46f5cc199fc3",
+       "satir": 2373
+      }
+     },
+     "satir": 387568
+    },
+    "prices_latest": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 20,
+       "ham_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+       "satir": 0
+      }
+     },
+     "satir": 0
+    },
+    "tarama_arsiv": {
+     "parcalar": {
+      "2016-07": {
+       "gz_bayt": 5762,
+       "ham_sha256": "8ba030e3138232d7a47cb294c428ec25b24bcae8d9c4cd92c16934a556e5796b",
+       "satir": 224
+      },
+      "2016-08": {
+       "gz_bayt": 5972,
+       "ham_sha256": "82b8b2b232c1f4cafc41d618c7134c7a8239f929cea10582e47c10ed5b6703f5",
+       "satir": 233
+      },
+      "2016-09": {
+       "gz_bayt": 6036,
+       "ham_sha256": "4fdb0069d44f0fdada064a14717f0a3166cbb814231518ad466499561f435b13",
+       "satir": 233
+      },
+      "2016-10": {
+       "gz_bayt": 6037,
+       "ham_sha256": "037d456fdc0e9083d506f20db96948a62a797b4f7b7072496462df47d0efc9e4",
+       "satir": 234
+      },
+      "2016-11": {
+       "gz_bayt": 6067,
+       "ham_sha256": "937ee4a3b7ed8fbdcc1b140578b09d81e4f23172c0e67f940b345ad5801902f8",
+       "satir": 234
+      },
+      "2016-12": {
+       "gz_bayt": 6065,
+       "ham_sha256": "c2d7d94df7d942308a93815b5d104a1834e79f9b0f008c66e6c51bbf4f9d0597",
+       "satir": 235
+      },
+      "2017-01": {
+       "gz_bayt": 6158,
+       "ham_sha256": "2e9ba7f5920cdaa619977d2e2ebaed6f90f13becbb4dbcc96c232233511cef1c",
+       "satir": 235
+      },
+      "2017-02": {
+       "gz_bayt": 6175,
+       "ham_sha256": "858e57f162be172a5801536c1a3e625a0a3d48e35723cb748fd9f916e1cc7a12",
+       "satir": 235
+      },
+      "2017-03": {
+       "gz_bayt": 6066,
+       "ham_sha256": "1754d22d4898836eb5d1c625d959c14bea7e55b5c2f67951dcc67226824d82a9",
+       "satir": 234
+      },
+      "2017-04": {
+       "gz_bayt": 6094,
+       "ham_sha256": "116533fc9c394816d801149064bd65bc6f685f1d10ba677c639438472cb0bfd7",
+       "satir": 235
+      },
+      "2017-05": {
+       "gz_bayt": 6145,
+       "ham_sha256": "9be02e7aac908cb5c4bfd76cb2cef174aa64cf316d7a53d8d87115f7a5a34ce9",
+       "satir": 234
+      },
+      "2017-06": {
+       "gz_bayt": 6212,
+       "ham_sha256": "77603dc059696927cb5fff5d37b36bb06685bc399aad1bb83f0a8bb81f8d0c64",
+       "satir": 235
+      },
+      "2017-07": {
+       "gz_bayt": 6176,
+       "ham_sha256": "69e31ec5bc7f3c98a5c6777cee988dd36dac44204f094934d0b7514e22d45450",
+       "satir": 235
+      },
+      "2017-08": {
+       "gz_bayt": 6098,
+       "ham_sha256": "06683d11a1175a00c365ae8756bf74a96bf10e9a21f79f7e7f6747607335f52f",
+       "satir": 235
+      },
+      "2017-09": {
+       "gz_bayt": 6157,
+       "ham_sha256": "3b409d57c1d69ed33656cb73e9188f0543a82f09baf3353b9d7dfd44791a41d5",
+       "satir": 235
+      },
+      "2017-10": {
+       "gz_bayt": 6135,
+       "ham_sha256": "920c85c5cca58e6c3952a706c66589b1334a1e2991fd80b3b39cb18c032c882b",
+       "satir": 235
+      },
+      "2017-11": {
+       "gz_bayt": 6134,
+       "ham_sha256": "96c1eff7cb7b699731999087d4247c3c891e118dea65f177764faa4f64da520d",
+       "satir": 235
+      },
+      "2017-12": {
+       "gz_bayt": 6132,
+       "ham_sha256": "c4eff721db90ed12c2666a60b30a6d7fb6a882b044d5ed033869003df7fcd9ba",
+       "satir": 236
+      },
+      "2018-01": {
+       "gz_bayt": 6268,
+       "ham_sha256": "cd2eeae633401bbb4a30168d7d0042ef15c37c77f809e5657aac7a31c6d8b77b",
+       "satir": 237
+      },
+      "2018-02": {
+       "gz_bayt": 6196,
+       "ham_sha256": "6c8c3479ac2e285d0ef0cd4dacead3da07e5ba4b24ecba7e7b7171569436bfe2",
+       "satir": 237
+      },
+      "2018-03": {
+       "gz_bayt": 6149,
+       "ham_sha256": "622e3abfc1c51ccc17a75ec60a7e6c6961df762025965a71efa01a8965fdaffa",
+       "satir": 236
+      },
+      "2018-04": {
+       "gz_bayt": 6139,
+       "ham_sha256": "3a77fc8f2612d81b20188049bb47bfa7239e3d8a66c97aec9360759c792eaa92",
+       "satir": 237
+      },
+      "2018-05": {
+       "gz_bayt": 5958,
+       "ham_sha256": "4b20c1d24064b1f5bd9fba98a9b2d9ba7f181973b4ce2b418ab0f5793ebb2949",
+       "satir": 237
+      },
+      "2018-06": {
+       "gz_bayt": 6014,
+       "ham_sha256": "3904bd69e07f863771fde7c35fd6a6fb45dc8156531bb554bc4b55ed553fa1df",
+       "satir": 237
+      },
+      "2018-07": {
+       "gz_bayt": 6157,
+       "ham_sha256": "1cc9b890285a1ce2ddb4d2dcf8e45edabf8b022aeb44e4205542ee3094fe3539",
+       "satir": 237
+      },
+      "2018-08": {
+       "gz_bayt": 6073,
+       "ham_sha256": "f05e2bd5a1832c517ba7ead44f61fe29ff2108d160ed4f24e33202c18b1b2da9",
+       "satir": 238
+      },
+      "2018-09": {
+       "gz_bayt": 6128,
+       "ham_sha256": "b4661b4a42278a34ca5394b5c867d3ee7f33b8c11decd22b064385519dbce3d2",
+       "satir": 239
+      },
+      "2018-10": {
+       "gz_bayt": 6119,
+       "ham_sha256": "625896425df57cbdd5b19bd7a7be788dd3ca5e2488bd500a45c1a3dca0c34a8c",
+       "satir": 239
+      },
+      "2018-11": {
+       "gz_bayt": 6052,
+       "ham_sha256": "39aa3078145ce3f7f29eb833ad320bce65038c3e90adbeaf35bbb25b46db77b7",
+       "satir": 238
+      },
+      "2018-12": {
+       "gz_bayt": 6242,
+       "ham_sha256": "3ad24f3e0fb2c2e2d37551767b6eb3c3beebce700cce01b2800ded3d56018c97",
+       "satir": 242
+      },
+      "2019-01": {
+       "gz_bayt": 6245,
+       "ham_sha256": "c5183661ea975de3e401df8de14be2ae405ce3b5ea8806a6dc1b84ae4d618003",
+       "satir": 242
+      },
+      "2019-02": {
+       "gz_bayt": 6290,
+       "ham_sha256": "28f42bad95dbd999672b4e9ab47fbb23bd40d84e33b15d708e16e97bdbedbc0d",
+       "satir": 242
+      },
+      "2019-03": {
+       "gz_bayt": 6297,
+       "ham_sha256": "32afc27423fcad62a20dedf8360a9c38e2e8ec64e2e7ddfab62ecd7f886b536f",
+       "satir": 242
+      },
+      "2019-04": {
+       "gz_bayt": 6216,
+       "ham_sha256": "182c2866d1371aeea8d155853a97ff18e792867a1d08cfb76014db1372aa0efb",
+       "satir": 242
+      },
+      "2019-05": {
+       "gz_bayt": 6159,
+       "ham_sha256": "3ff7c0228810ba87e350894a79a5d3a730d5a38ec7b5e427f5c823398280bbd0",
+       "satir": 242
+      },
+      "2019-06": {
+       "gz_bayt": 6244,
+       "ham_sha256": "4f5ff7d915ad6a2e04171dc686f359400f1915b1c5240c5681b6e0cf0b96243a",
+       "satir": 242
+      },
+      "2019-07": {
+       "gz_bayt": 6330,
+       "ham_sha256": "41f05194ec8c23fa760287ccf20420a2fd7c6f119994db4c5d8f8081755838e0",
+       "satir": 242
+      },
+      "2019-08": {
+       "gz_bayt": 6322,
+       "ham_sha256": "fa90e7ca2c4f44c4bcc60b1fcb4af4c5cd2c6c6d160baac04e186ddfa9a86ae0",
+       "satir": 242
+      },
+      "2019-09": {
+       "gz_bayt": 6323,
+       "ham_sha256": "74cd01643a269192acc03e4c71e7076767ccf97bd89935fcfbee4b2c8a4a6673",
+       "satir": 242
+      },
+      "2019-10": {
+       "gz_bayt": 6226,
+       "ham_sha256": "dca103a542341821ced0f356b23df90fe5fb1105e365536f8bdbb37d0145db95",
+       "satir": 242
+      },
+      "2019-11": {
+       "gz_bayt": 6316,
+       "ham_sha256": "42a0e34800dd5f5362b1ba3954cdc66e01a2e717e213eefa79296d97bd983333",
+       "satir": 242
+      },
+      "2019-12": {
+       "gz_bayt": 6295,
+       "ham_sha256": "03bdc1bc3905aa3955c55d44b9e0f149db1131904ac3c4e5f921b14382dc2fb9",
+       "satir": 242
+      },
+      "2020-01": {
+       "gz_bayt": 6307,
+       "ham_sha256": "c5a833cadaeaee4a17ed654c915a14dd64ebef4a8e66b35462eb8defb69cb7ed",
+       "satir": 242
+      },
+      "2020-02": {
+       "gz_bayt": 6340,
+       "ham_sha256": "0fddd067b5c840d765b2931b29b9b7136262b0bfbb94d5ca18f360cb4428dc0c",
+       "satir": 242
+      },
+      "2020-03": {
+       "gz_bayt": 6105,
+       "ham_sha256": "89bde47e657d47e2fbc597070ebd1973b2c6d2aab2a7fb6f862ad983dbbcf30d",
+       "satir": 243
+      },
+      "2020-04": {
+       "gz_bayt": 6300,
+       "ham_sha256": "1f17558a6d21c1770dcf8dafa7bad511c7b8bd04a3c6f3effb5be6b149172590",
+       "satir": 243
+      },
+      "2020-05": {
+       "gz_bayt": 6448,
+       "ham_sha256": "1311bab46f30236517a4b4dae1fc72c9fd114c25779cc577d6c6a8c8439416b7",
+       "satir": 243
+      },
+      "2020-06": {
+       "gz_bayt": 6440,
+       "ham_sha256": "48648abfb56c714458c29bcc4d83b301cf1cc3cff8daf76ad0a1a5ab547eb852",
+       "satir": 244
+      },
+      "2020-07": {
+       "gz_bayt": 6435,
+       "ham_sha256": "06954d0e12c368aa6221feee496e933dacd6cd2ac9de7ba61acdafd830b159bb",
+       "satir": 244
+      },
+      "2020-08": {
+       "gz_bayt": 6423,
+       "ham_sha256": "7f2db8732eba1b7ef4f1fc2831896e2fecaabf799d36e9a51bd110503b874d22",
+       "satir": 245
+      },
+      "2020-09": {
+       "gz_bayt": 6524,
+       "ham_sha256": "a217b1057f699df62816819cec3fcf48f7561d86be57ab475b85605efbd101fc",
+       "satir": 245
+      },
+      "2020-10": {
+       "gz_bayt": 6523,
+       "ham_sha256": "e10c19e0a9f4b8df277f3e37dd9468859ceb15cb06c6cf0bb272afcd4feed835",
+       "satir": 245
+      },
+      "2020-11": {
+       "gz_bayt": 6498,
+       "ham_sha256": "21780f75c50096a95d0006e8afdd96a43e0340d914624c5e166874ee370e9bf7",
+       "satir": 245
+      },
+      "2020-12": {
+       "gz_bayt": 6432,
+       "ham_sha256": "9837f9aa4f5cc6d795a684253a8ad6a8fb4fa931937b1fae71b9fc41cba08b35",
+       "satir": 245
+      },
+      "2021-01": {
+       "gz_bayt": 6549,
+       "ham_sha256": "53f632a822df1c37111a2c6d70d39913bd501f23a5d590a5bcbd2dec109a51d4",
+       "satir": 245
+      },
+      "2021-02": {
+       "gz_bayt": 6509,
+       "ham_sha256": "103b09419962e16600d7c516f8af7f293ffe8a5a99f5fbadf20bea540d8c9381",
+       "satir": 246
+      },
+      "2021-03": {
+       "gz_bayt": 6506,
+       "ham_sha256": "e63f920cf71f90cef6705f77a2ce95f0d788446d68e987471879bb9cef2c82d1",
+       "satir": 246
+      },
+      "2021-04": {
+       "gz_bayt": 6352,
+       "ham_sha256": "54eaa90efee6334f6719113bae05b9baafaa8627ec6f6a31779284a92091773b",
+       "satir": 246
+      },
+      "2021-05": {
+       "gz_bayt": 6382,
+       "ham_sha256": "3a57606225abe185c9b24b8950a1394ee8fabe892ae684c13f90e4eca73f202e",
+       "satir": 247
+      },
+      "2021-06": {
+       "gz_bayt": 6303,
+       "ham_sha256": "ef012777b8cae8195562d89e28c9b7e5bf0732971f9873583401251392cd6641",
+       "satir": 247
+      },
+      "2021-07": {
+       "gz_bayt": 6329,
+       "ham_sha256": "89129c2a6356ffdd85bbd349eba72a13093958d1d65a24daceb1a32aed817511",
+       "satir": 247
+      },
+      "2021-08": {
+       "gz_bayt": 6423,
+       "ham_sha256": "10afcdd06f11fa8a41a94df91de3883173aaedf2d99a65d3276ddef514a4c3e4",
+       "satir": 247
+      },
+      "2021-09": {
+       "gz_bayt": 6291,
+       "ham_sha256": "714b2a07b91bc6e3a62290b9ecfa8674f2a6008f731d0d1f84fbca6a3c921b8d",
+       "satir": 247
+      },
+      "2021-10": {
+       "gz_bayt": 6460,
+       "ham_sha256": "0f07643be041a549eccb932c6f43aacf00c1612708ab7bd08da435e8d1d49021",
+       "satir": 249
+      },
+      "2021-11": {
+       "gz_bayt": 6571,
+       "ham_sha256": "96c557f587d2878a85748c14b003ca660d4ff78f98ac2a1f94a0c1a94f11b03a",
+       "satir": 253
+      },
+      "2021-12": {
+       "gz_bayt": 6658,
+       "ham_sha256": "34c2062b3b39942fd1e6b7d329980f8a39141fb700bc19d52d1821ee537320b0",
+       "satir": 257
+      },
+      "2022-01": {
+       "gz_bayt": 6696,
+       "ham_sha256": "da1f147f65a8d54ec077dc90e7d2ed239b7dbb65f1b67319913600e099afd46e",
+       "satir": 259
+      },
+      "2022-02": {
+       "gz_bayt": 6802,
+       "ham_sha256": "d1b469779e42533e255165793026facbda3537b7a05014957d3c4e39159be135",
+       "satir": 261
+      },
+      "2022-03": {
+       "gz_bayt": 6797,
+       "ham_sha256": "6ac4da2020c0d570d7778295009951f227c8b466a11bd28134f1756b6c760cbe",
+       "satir": 262
+      },
+      "2022-04": {
+       "gz_bayt": 6848,
+       "ham_sha256": "3c5715dba6a493772550a7699f30b54545241f7781d278e892b73777a5daae98",
+       "satir": 262
+      },
+      "2022-05": {
+       "gz_bayt": 6731,
+       "ham_sha256": "d4c7648e78c07ef53f91ec4902df2e560195698f938881da2474011a1ac86edf",
+       "satir": 264
+      },
+      "2022-06": {
+       "gz_bayt": 6916,
+       "ham_sha256": "051a797b3ddd463cafebf44e598999ee4e3ade89238bf3051a77daa8653634a6",
+       "satir": 267
+      },
+      "2022-07": {
+       "gz_bayt": 6989,
+       "ham_sha256": "db725d2b41498e2bd1c3fa7857987896f9aba519a5bbeaea1959f1138418e7ca",
+       "satir": 268
+      },
+      "2022-08": {
+       "gz_bayt": 7062,
+       "ham_sha256": "85fd3908870833c852d7d47c307be5b144165dac97cbfe96f077359f5160cbab",
+       "satir": 268
+      },
+      "2022-09": {
+       "gz_bayt": 7086,
+       "ham_sha256": "683e52390d4e5b690363c2b5bdfc00c5ef68cbaa7401e729bf7731483a42496d",
+       "satir": 270
+      },
+      "2022-10": {
+       "gz_bayt": 7160,
+       "ham_sha256": "dd401287e2ecdffa00d720319645324c1c70d7efecb4203d953926d654897a6e",
+       "satir": 272
+      },
+      "2022-11": {
+       "gz_bayt": 7235,
+       "ham_sha256": "422b655e5d42fe5434055ab391c180e377b2eb26a10731698e462bae20f1a24d",
+       "satir": 276
+      },
+      "2022-12": {
+       "gz_bayt": 7265,
+       "ham_sha256": "e0cee08b3fe3ddf58272d65f8f6e8e25561719339399b16463dc4370961253a8",
+       "satir": 277
+      },
+      "2023-01": {
+       "gz_bayt": 7227,
+       "ham_sha256": "1db62bb98405f21eb8f32e16923966d456c3263ffb4d8f34ff788db5c853c3fb",
+       "satir": 278
+      },
+      "2023-02": {
+       "gz_bayt": 7275,
+       "ham_sha256": "f7c1d8839f55779db215803313efe77263622a0ac20ad53df283a87f9382647c",
+       "satir": 279
+      },
+      "2023-03": {
+       "gz_bayt": 7170,
+       "ham_sha256": "f7781435ccfee542fe7e267a9b77f1a5fb13f82a6d051f31bf073b924edc950a",
+       "satir": 280
+      },
+      "2023-04": {
+       "gz_bayt": 7258,
+       "ham_sha256": "a6a2dc0d8f010874b70834520295cab538fff3cb486087ad9df94463d1bdb880",
+       "satir": 280
+      },
+      "2023-05": {
+       "gz_bayt": 7117,
+       "ham_sha256": "14c5251c5b9bdfc6cc30a643828bdb42140c71446c08881275c78848358f0416",
+       "satir": 280
+      },
+      "2023-06": {
+       "gz_bayt": 7347,
+       "ham_sha256": "44f4b2351a473cbc01fa7d8486a31f6245c30aeeedd2c182c5119747ea686fb6",
+       "satir": 281
+      },
+      "2023-07": {
+       "gz_bayt": 7373,
+       "ham_sha256": "9f49cee2e83f6f8baffaba00b450ba3404411ad6dc27c6bada4a6a305ee696f1",
+       "satir": 283
+      },
+      "2023-08": {
+       "gz_bayt": 7513,
+       "ham_sha256": "121342ce381fd0f8adbd5993801bfddaff1dac6167e9cd33b301db8a148553b2",
+       "satir": 286
+      },
+      "2023-09": {
+       "gz_bayt": 7598,
+       "ham_sha256": "a16582a9df5bda3e41e80059979a006c7ecbe7e6e289f46d8930af46b73ba66a",
+       "satir": 288
+      },
+      "2023-10": {
+       "gz_bayt": 7541,
+       "ham_sha256": "117315d01b4632c1e81a1c89c06f8f8c55cc5e3c07018d48d6bdbafef67e59b2",
+       "satir": 290
+      },
+      "2023-11": {
+       "gz_bayt": 7640,
+       "ham_sha256": "6e604a8b1213c388fe7527e8e574b8f92ea1da03e67dfbed8772b53a0ec61341",
+       "satir": 292
+      },
+      "2023-12": {
+       "gz_bayt": 7470,
+       "ham_sha256": "362b743df09956fe99df1c3a2bb4317aa790f8f2a0143b30a91dd151587b34bf",
+       "satir": 293
+      },
+      "2024-01": {
+       "gz_bayt": 7660,
+       "ham_sha256": "05b1c936d85ec32532599ef684f0c06185592abe59ba105ea77bb209d325a38a",
+       "satir": 293
+      },
+      "2024-02": {
+       "gz_bayt": 7744,
+       "ham_sha256": "d8c1d27775ea836e5e192c16eb6c6fb1a3b0c5952faa77d48c5317bbbef585cd",
+       "satir": 294
+      },
+      "2024-03": {
+       "gz_bayt": 7698,
+       "ham_sha256": "6de167a66fa2446e03d354124ee052ed8c80306419a87399a7bc39ef8f3c92b4",
+       "satir": 296
+      },
+      "2024-04": {
+       "gz_bayt": 7791,
+       "ham_sha256": "1bae893b70b7b815205e26d10c5434e1421a929a359a85272ab2ea10a773b3de",
+       "satir": 297
+      },
+      "2024-05": {
+       "gz_bayt": 7731,
+       "ham_sha256": "deeb851c8c09aa51091a9236a468a3c35b485216c660fe15e4516c0ef816cde6",
+       "satir": 297
+      },
+      "2024-06": {
+       "gz_bayt": 7705,
+       "ham_sha256": "f3c21374416fc9b6b33e028a0aefadd5c5197a55ad67fc90d43f2fb6d311c776",
+       "satir": 298
+      },
+      "2024-07": {
+       "gz_bayt": 7684,
+       "ham_sha256": "d70af96de0d8d463dc9399fd21449c70cba388af3849da37689c2c232cdc40c9",
+       "satir": 298
+      },
+      "2024-08": {
+       "gz_bayt": 7561,
+       "ham_sha256": "d531e0b7e1e5137e38a19078fda8b5af8349737a33860c4d5cc28a7f0e5c1af6",
+       "satir": 298
+      },
+      "2024-09": {
+       "gz_bayt": 7601,
+       "ham_sha256": "18b4d93d92a576bc8e0c7f8ed7d118861b758580445245a0fda21d294d1d7693",
+       "satir": 300
+      },
+      "2024-10": {
+       "gz_bayt": 7482,
+       "ham_sha256": "69594ac48596f4bd05b1356d21b34ddaeb9feea3acb82b278caff042cc5a0997",
+       "satir": 300
+      },
+      "2024-11": {
+       "gz_bayt": 7748,
+       "ham_sha256": "9f9bd7deab40967f29478316ae186cc8e25ef89cf8c7a94f6cefed2a4ca5a534",
+       "satir": 300
+      },
+      "2024-12": {
+       "gz_bayt": 7784,
+       "ham_sha256": "260ae32cbf9d6a22a22a54e60240cab5475f73e6413c835782bc37a9c399cc1d",
+       "satir": 301
+      },
+      "2025-01": {
+       "gz_bayt": 7665,
+       "ham_sha256": "ba01ec9414e44068e576bb1b58af89c56cfb5f86fb82d7d96000f5c940b69433",
+       "satir": 301
+      },
+      "2025-02": {
+       "gz_bayt": 7504,
+       "ham_sha256": "8727512bd6b298c91bdeca8975a7f7680676c792535183a5fa36cb50ec8ecda1",
+       "satir": 301
+      },
+      "2025-03": {
+       "gz_bayt": 7613,
+       "ham_sha256": "045293c4a239536d1ce66af12569886a8daa832226ef0f6a0bf1b988f26ed7bd",
+       "satir": 301
+      },
+      "2025-04": {
+       "gz_bayt": 7582,
+       "ham_sha256": "cba64fbbba0bdffbf22381cd4b4563da7c20af2415a441ad82ab8806677473fb",
+       "satir": 301
+      },
+      "2025-05": {
+       "gz_bayt": 7512,
+       "ham_sha256": "567d45bf05b6552e3912ad961376386650f4c3746814f2202a32cc4b38cb4304",
+       "satir": 301
+      },
+      "2025-07": {
+       "gz_bayt": 7753,
+       "ham_sha256": "4894cb7acb9b2867408c59050a7b9d89c65869fb70ad3e5c3a5199d7ad2ead27",
+       "satir": 301
+      },
+      "2025-08": {
+       "gz_bayt": 7833,
+       "ham_sha256": "a4233b115a518bef1b2d0a532ec45f7c9218b636334670732f00498ef5793244",
+       "satir": 301
+      },
+      "2025-09": {
+       "gz_bayt": 15236,
+       "ham_sha256": "bc6959eb08b621a8bfb45865844e7be3eaa44ab620fe6d5ce2645480a269ffd3",
+       "satir": 602
+      },
+      "2025-10": {
+       "gz_bayt": 7647,
+       "ham_sha256": "aa8fd58ed0c5c1507eac79f7931d04874b0042f921ca7c29b943601753cca076",
+       "satir": 301
+      },
+      "2025-11": {
+       "gz_bayt": 7464,
+       "ham_sha256": "b5eee5e965a66b3dd1db8335dadadcf321441dfd14701c62ed32c4530042e0e8",
+       "satir": 301
+      },
+      "2025-12": {
+       "gz_bayt": 7462,
+       "ham_sha256": "9233f68dc29f102426171ef4da92cd46a559185065d7e3c7876ec5cd8ff593e1",
+       "satir": 299
+      },
+      "2026-01": {
+       "gz_bayt": 7729,
+       "ham_sha256": "7dfb4d33bc532206506c4be0e9d51031813900c37c6c03a69978480cec5f571d",
+       "satir": 299
+      },
+      "2026-02": {
+       "gz_bayt": 7564,
+       "ham_sha256": "5b795cbfb50145c7252347fda30837e1704cd92ac4dbeeb39049e6f21a918946",
+       "satir": 299
+      },
+      "2026-03": {
+       "gz_bayt": 7429,
+       "ham_sha256": "f00d5cff933ce06b70b68b40963db5ffc350551c960be1706d3b85a2db9bbbaf",
+       "satir": 299
+      },
+      "2026-04": {
+       "gz_bayt": 7602,
+       "ham_sha256": "72dbd9474cc30a4348ee123219ebe32cbb5a9c858b65d276999d09ce860b22f8",
+       "satir": 299
+      },
+      "2026-06": {
+       "gz_bayt": 32677,
+       "ham_sha256": "47461a76a3e38e15a354b37facde444c9ba698b29176db9be8efe9aea1c19f6d",
+       "satir": 599
+      },
+      "2026-07": {
+       "gz_bayt": 74007,
+       "ham_sha256": "6f94040a0596c2c7aa187b2dac273757fdea118055fabb47e19ff976c17b2086",
+       "satir": 885
+      },
+      "2026-08": {
+       "gz_bayt": 455923,
+       "ham_sha256": "c060961b7582bf7093fbd02be3321a91a3b07596b1846d7391c666508746a3bc",
+       "satir": 5289
+      },
+      "2026-09": {
+       "gz_bayt": 809501,
+       "ham_sha256": "ccc281ecb242d8f48ebf43a6ae957815db8f9c6f4d9fb76cf81cac11e4e12214",
+       "satir": 9489
+      },
+      "2026-10": {
+       "gz_bayt": 201229,
+       "ham_sha256": "b5a59046847e24d7fbe3c921cf676a8e4db98ff7e2c66a90037771c1df2f9690",
+       "satir": 2379
+      }
+     },
+     "satir": 49508
+    },
+    "technical_analysis": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 101502,
+       "ham_sha256": "60cf29e7479a8f35d5ed90082638cf11994d93f4f509a61fac817313b990f088",
+       "satir": 604
+      }
+     },
+     "satir": 604
+    },
+    "video_hat_ilerleme": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 431,
+       "ham_sha256": "0b7a522ae0f78e2fc782f6e5ad739199617d1bf2f0ad7d54fdb470c3153cfdb1",
+       "satir": 10
+      }
+     },
+     "satir": 10
+    },
+    "yayin_kuyrugu": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 3211,
+       "ham_sha256": "84aff4a1ddba934d4552f1645c5d26fefbc76c61ca2a7e978de9cf34c6fcf43d",
+       "satir": 10
+      }
+     },
+     "satir": 10
+    },
+    "yayin_kuyrugu_gunluk": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 1731,
+       "ham_sha256": "da7b8060c8e41585c07c287c422f2eccfff4a1723b9c2868819f5abfe4b7712c",
+       "satir": 58
+      }
+     },
+     "satir": 58
+    }
+   }
+  },
+  "onay": {
+   "sema_sha256": "cf1bca09276893cf65f91a1bdb7b23e2499ede755dd4958d55c22d513a4f7150",
+   "tablolar": {
+    "dinleyici": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 74,
+       "ham_sha256": "f9372c206653b93962046db59419bd9030da273c5d35232837a3c7a5a6e41101",
+       "satir": 1
+      }
+     },
+     "satir": 1
+    },
+    "onaylar": {
+     "parcalar": {
+      "tum": {
+       "gz_bayt": 429,
+       "ham_sha256": "d9db9a8c6703209b01793a7d975d69ee5e4c730fcc0a2803262d600ba4537be4",
+       "satir": 6
+      }
+     },
+     "satir": 6
+    }
+   }
+  }
+ },
+ "zaman": "2026-10-07T15:15:03+0300"
+}
