@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "toplam_gz_bayt": 115993798,
+ "toplam_gz_bayt": 115993837,
  "veritabanlari": {
   "marketmind": {
    "sema_sha256": "57b234284472ca6bb0bc3070fd1b917b89cb1dfd1e83a080cc4171c91958946f",
@@ -4574,7 +4574,7 @@
      "parcalar": {
       "tum": {
        "gz_bayt": 74,
-       "ham_sha256": "f9372c206653b93962046db59419bd9030da273c5d35232837a3c7a5a6e41101",
+       "ham_sha256": "f56116c3cd4e283b923c55f4c0284ea3ce313b67e74b8a7bfe2e88f4162481b5",
        "satir": 1
       }
      },
@@ -4583,15 +4583,15 @@
     "onaylar": {
      "parcalar": {
       "tum": {
-       "gz_bayt": 429,
-       "ham_sha256": "d9db9a8c6703209b01793a7d975d69ee5e4c730fcc0a2803262d600ba4537be4",
-       "satir": 6
+       "gz_bayt": 468,
+       "ham_sha256": "b51f928b6f04690d88fba79cf5ead42610ba2556f8a78f94ad9fbf0991c455d3",
+       "satir": 7
       }
      },
-     "satir": 6
+     "satir": 7
     }
    }
   }
  },
- "zaman": "2026-10-10T04:33:44+0300"
+ "zaman": "2026-10-12T04:33:19+0300"
 }
