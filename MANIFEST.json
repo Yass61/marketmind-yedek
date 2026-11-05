@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "toplam_gz_bayt": 118001996,
+ "toplam_gz_bayt": 118131918,
  "veritabanlari": {
   "marketmind": {
    "sema_sha256": "57b234284472ca6bb0bc3070fd1b917b89cb1dfd1e83a080cc4171c91958946f",
@@ -668,12 +668,12 @@
        "satir": 21
       },
       "2026-11": {
-       "gz_bayt": 115,
-       "ham_sha256": "7061e22fe2bd6e56f78b624655ed2aec1757cdedfa35215a3267b596f05593dc",
-       "satir": 2
+       "gz_bayt": 124,
+       "ham_sha256": "c8586035bcbd25719c5320504e1a0f5f6546f6d289b756179e1956e125f5eaf9",
+       "satir": 3
       }
      },
-     "satir": 2842
+     "satir": 2843
     },
     "endeks_gunluk": {
      "parcalar": {
@@ -1328,12 +1328,12 @@
        "satir": 21
       },
       "2026-11": {
-       "gz_bayt": 125,
-       "ham_sha256": "fbf300891c65742feb7b6241bb684e20a6c98f4b887a2bbdd2831a933ebef51b",
-       "satir": 2
+       "gz_bayt": 136,
+       "ham_sha256": "442da4e48b882ad18fcdcf2782e176bfd435588a874b37ed08335ff67e8ac096",
+       "satir": 3
       }
      },
-     "satir": 2715
+     "satir": 2716
     },
     "fetch_log": {
      "parcalar": {
@@ -1368,22 +1368,22 @@
     "hat_ilerleme": {
      "parcalar": {
       "tum": {
-       "gz_bayt": 150129,
-       "ham_sha256": "3ebc6501099722636480e8238973a9606789ea14e85a120ff65efa7bc6659b1d",
-       "satir": 31291
+       "gz_bayt": 153178,
+       "ham_sha256": "bde11581d2f7233ffc4e3f331712739112c05c7668a1616c9d86357a4a69dfd2",
+       "satir": 31888
       }
      },
-     "satir": 31291
+     "satir": 31888
     },
     "hat_kilit": {
      "parcalar": {
       "tum": {
-       "gz_bayt": 1277,
-       "ham_sha256": "fc539bf85fcf3ebb57b7d1937abfee540572ba2e8b7e00004f43015dafe9a642",
-       "satir": 57
+       "gz_bayt": 1298,
+       "ham_sha256": "fb484009aeaf89fc465d3e6c463204461e5749b310d5a8758d57bc49e942aa97",
+       "satir": 58
       }
      },
-     "satir": 57
+     "satir": 58
     },
     "instruments": {
      "parcalar": {
@@ -1493,12 +1493,12 @@
        "satir": 9335
       },
       "2026-11": {
-       "gz_bayt": 23827,
-       "ham_sha256": "51ca5a001d7f10994c7d4abb417d5fbfb7205097f7536816096961e29f80e093",
-       "satir": 890
+       "gz_bayt": 34065,
+       "ham_sha256": "0b6362f0537980cf38b5f4c300b917f8ebb40609dc06a80df97b840ac3b6e342",
+       "satir": 1237
       }
      },
-     "satir": 114907
+     "satir": 115254
     },
     "ohlcv_4h": {
      "parcalar": {
@@ -2663,12 +2663,12 @@
        "satir": 12474
       },
       "2026-11": {
-       "gz_bayt": 49422,
-       "ham_sha256": "e2579ae1add896a81cf7577890a3e2f9fb2451d9ae0f14946ad895eb42a015f0",
-       "satir": 1103
+       "gz_bayt": 78217,
+       "ham_sha256": "c87c0aed378ccdb8d87012e6997de65c80e9ae3caa26b601eb5b04706f09e28d",
+       "satir": 1754
       }
      },
-     "satir": 1203338
+     "satir": 1203989
     },
     "ohlcv_daily_uzun": {
      "parcalar": {
@@ -3323,12 +3323,12 @@
        "satir": 12474
       },
       "2026-11": {
-       "gz_bayt": 37484,
-       "ham_sha256": "a418a4c5d6b20f0782b72dee8a42143d1f4b5f26a56f333bbc2472f704d152f6",
-       "satir": 1103
+       "gz_bayt": 58478,
+       "ham_sha256": "fe9b24928ccbdc268610dd7dfa6747e76921359ee320e1e4941ad1340f8ddfcf",
+       "satir": 1754
       }
      },
-     "satir": 1203338
+     "satir": 1203989
     },
     "ohlcv_daily_yf_arsiv": {
      "parcalar": {
@@ -3923,12 +3923,12 @@
        "satir": 12474
       },
       "2026-11": {
-       "gz_bayt": 26025,
-       "ham_sha256": "2a633c9219112f65cf57c5ee9de0218866427e1f2ab6132a1fd032ee04edba1f",
-       "satir": 1103
+       "gz_bayt": 41116,
+       "ham_sha256": "fbb0e01b9fa6833a2062be2570571c8a705ea7212fb4bdc7a16aec5694c71da8",
+       "satir": 1754
       }
      },
-     "satir": 398772
+     "satir": 399423
     },
     "prices_latest": {
      "parcalar": {
@@ -4553,12 +4553,12 @@
        "satir": 12494
       },
       "2026-11": {
-       "gz_bayt": 99854,
-       "ham_sha256": "7201e45ff6be91346fbd336fd4579ab41dbf4893fec836dd92cf840d5f4961dd",
-       "satir": 1190
+       "gz_bayt": 150264,
+       "ham_sha256": "21cb5d8135badc9f8d527ce099c59409fd7eedeeaef078458d43797f5f6658a4",
+       "satir": 1785
       }
      },
-     "satir": 60813
+     "satir": 61408
     },
     "technical_analysis": {
      "parcalar": {
@@ -4639,7 +4639,7 @@
      "parcalar": {
       "tum": {
        "gz_bayt": 162,
-       "ham_sha256": "5b174bc0a095a874405dbda50e5bea33e087fd7d86ecea3f5c6d3ced85e738c5",
+       "ham_sha256": "ab890eb02a404ce75db92f14a66919dff77fc1be06ba97b5b99c0c0b7c11fbf0",
        "satir": 3
       }
      },
@@ -4648,12 +4648,12 @@
     "tg_gonderim": {
      "parcalar": {
       "tum": {
-       "gz_bayt": 2192,
-       "ham_sha256": "6ff46abdab608288f8f213d5e3d948ad0f868ee0f8e910a9daf6a5e18aeb86ab",
-       "satir": 75
+       "gz_bayt": 2223,
+       "ham_sha256": "6d1a0759c287398f31b0265e9b9dbefe6b5551dd4ae5acf72d11104c8db8bcee",
+       "satir": 76
       }
      },
-     "satir": 75
+     "satir": 76
     },
     "tg_karar": {
      "parcalar": {
@@ -4668,12 +4668,12 @@
     "tg_kuyruk": {
      "parcalar": {
       "tum": {
-       "gz_bayt": 5511,
-       "ham_sha256": "7ae2587e3df173d2254aba0a2483e39cb95889d2049b7722359aa6440c376598",
-       "satir": 469
+       "gz_bayt": 6784,
+       "ham_sha256": "c82a1abda4457bc569ffbb9a0bff5cedfd2d4b2b0442422ddbd370ba11165826",
+       "satir": 612
       }
      },
-     "satir": 469
+     "satir": 612
     },
     "tg_not": {
      "parcalar": {
@@ -4688,5 +4688,5 @@
    }
   }
  },
- "zaman": "2026-11-04T04:31:57+0300"
+ "zaman": "2026-11-05T04:31:49+0300"
 }
